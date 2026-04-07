@@ -2,6 +2,14 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 52 | 2026-04-07 | Stripe | Software Engineer, Intern (Summer) | 4.5/5 | Evaluada | ❌ | [052](reports/052-stripe-swe-2026-04-07.md) | $62.50/hr. Top fintech. CoverMe=direct Stripe API proof point. Rising junior qualifies. Apply immediately. |
+| 53 | 2026-04-07 | Snowflake | Software Engineer Intern (AI/ML) | 4.4/5 | Evaluada | ❌ | [053](reports/053-snowflake-aiml-2026-04-07.md) | $45-55/hr. Menlo Park on-site. ML pipelines, LLMs. Strong NLP match. Rising junior qualifies. |
+| 54 | 2026-04-07 | Gusto | Software Engineering Intern (Summer 2026) | 4.2/5 | Evaluada | ❌ | [054](reports/054-gusto-swe-2026-04-07.md) | Grad Dec 2026-Jun 2029 = perfect fit for George. $47-58/hr. SF/NYC/Denver hybrid. Full-stack. |
+| 55 | 2026-04-07 | Palo Alto Networks | Intern, Software Engineer | 3.8/5 | Evaluada | ❌ | [055](reports/055-paloalto-swe-2026-04-07.md) | $43/hr. Santa Clara on-site. Returning to school in fall = qualifies. OSINT project differentiator. |
+| 56 | 2026-04-07 | DigitalOcean | Engineering Intern (Summer 2026) | 4.0/5 | Evaluada | ❌ | [056](reports/056-digitalocean-eng-2026-04-07.md) | ~$45/hr. Remote w/ hub cities. Grad 2027-2028 explicit = perfect. Cloud infra + data engineering. |
+| 57 | 2026-04-07 | insitro | Machine Learning / Data Science Intern | 4.1/5 | Evaluada | ❌ | [057](reports/057-insitro-ml-2026-04-07.md) | $55-65/hr above target. ML biotech research. South SF hybrid. Strong NLP/ML match. |
+| 58 | 2026-04-07 | Rivian | AI, Machine Learning & Data Science Intern | 3.9/5 | Evaluada | ❌ | [058](reports/058-rivian-aiml-2026-04-07.md) | Grad Fall 2026-Spring 2028 = George qualifies. $33-51/hr Palo Alto. Gesture Canvas = CV differentiator. |
+| 59 | 2026-04-07 | Cleanlab | Machine Learning / Data Science Intern | 3.5/5 | Evaluada | ❌ | [059](reports/059-cleanlab-ml-2026-04-07.md) | Remote/SF. ML startup. Junior+ required. Pay unknown — verify before applying. |
 | 49 | 2026-04-07 | Cohere | Software Engineer Intern (Spring/Summer 2026) | 4.2/5 | Evaluada | ❌ | [049](reports/049-cohere-swe-2026-04-07.md) | No grad date req. Toronto/SF/NYC/Remote. Apply both SWE + ML tracks. Confirm US office placement for comp. |
 | 50 | 2026-04-07 | Hugging Face | Machine Learning Engineer Internship, Generative AI | 3.7/5 | Evaluada | ❌ | [050](reports/050-huggingface-mle-2026-04-07.md) | US Remote. No explicit grad req but MS/PhD preferred. Apply Generative AI + Gradio tracks. Strong brand. |
 | 51 | 2026-04-07 | Postman | Software Engineer - Intern | 3.5/5 | Evaluada | ❌ | [051](reports/051-postman-swe-2026-04-07.md) | SF hybrid. Node.js/React. Confirm summer timing. Lower priority vs Cohere/HF. |
