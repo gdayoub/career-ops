@@ -2,7 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
-| 33 | 2026-04-07 | Meta | Software Engineer Intern/Co-op | 4.5/5 | Evaluada | ❌ | [033](reports/033-meta-swe-2026-04-07.md) | Top comp ($51.35/hr + $2,600/mo housing). Menlo Park/Seattle/NYC/LA. Target AI/ML orgs. CoverMe is perfect proof point. |
+| 33 | 2026-04-07 | Meta | Software Engineer Intern/Co-op | 3.8/5 | Evaluada | ❌ | [033](reports/033-meta-swe-2026-04-07.md) | GRAD MISMATCH RISK: wants Dec 2026-Jul 2027; George is Jun 2028. $51.35/hr + housing. Apply anyway — strong candidate may override. |
 | 34 | 2026-04-07 | Microsoft | Software Engineering Internship | 4.2/5 | Evaluada | ❌ | [034](reports/034-microsoft-swe-2026-04-07.md) | ~$46-48/hr. Redmond + others. 12 weeks. Azure AI/Copilot track. Also apply Explore Program. |
 | 35 | 2026-04-07 | Apple | AI/ML Software Engineering Intern (Information Intelligence) | 4.1/5 | Evaluada | ❌ | [035](reports/035-apple-aiml-2026-04-07.md) | ~$45-52/hr est. Cupertino CA. Siri/NLP team. OSINT NLP pipeline is strong proof point. |
 | 36 | 2026-04-07 | Netflix | Data Engineering Intern | 3.8/5 | Evaluada | ❌ | [036](reports/036-netflix-de-2026-04-07.md) | ~$60-80/hr est. Los Gatos CA. Seismos + OSINT strong fit. Verify still open (SWE closed Oct 31). |
@@ -17,7 +17,7 @@
 | 44 | 2026-04-07 | Uber | Software Engineering UberStar Internship | 4.0/5 | Evaluada | ❌ | [044](reports/044-uber-uberstar-2026-04-07.md) | ~$45.67/hr. SF 12 weeks. 1st/2nd year program — verify George is 2nd year (started Aug 2024). |
 | 48 | 2026-04-07 | Uber | 2026 Summer Software Engineering Internship | 4.2/5 | Evaluada | ❌ | [047](reports/047-uber-swe-2026-04-07.md) | $52/hr confirmed. SF/Seattle/Sunnyvale. Verify graduation window (Dec 2026-Aug 2027). |
 | 45 | 2026-04-07 | Amazon | 2026 Data Science Internship | 4.2/5 | Evaluada | ❌ | [045](reports/045-amazon-ds-2026-04-07.md) | $47-60/hr. US multiple offices. 12 weeks. Seismos DS internship is near-perfect fit. Apply alongside SDE. |
-| 46 | 2026-04-07 | Meta | Data Scientist Intern, Product Analytics | 4.3/5 | Evaluada | ❌ | [046](reports/046-meta-ds-2026-04-07.md) | ~$51/hr + housing. Product analytics + A/B testing. CoverMe as own product = analytics experience. |
+| 46 | 2026-04-07 | Meta | Data Scientist Intern, Product Analytics | 3.7/5 | Evaluada | ❌ | [046](reports/046-meta-ds-2026-04-07.md) | GRAD MISMATCH RISK: wants Dec 2026-Jul 2027; George is Jun 2028. ~$51/hr + housing. Apply anyway if strong. |
 | 32 | 2026-04-06 | Etsy | Software Engineering Intern | 3.3/5 | SKIP | ❌ | [032](reports/032-etsy-2026-04-06.md) | Brooklyn. Graduation mismatch (targets mid-2027 grads). |
 | 31 | 2026-04-06 | Glean | Software Engineer Intern | 3.4/5 | SKIP | ❌ | [031](reports/031-glean-2026-04-06.md) | $57-69/hr. Graduation mismatch (requires Fall 2026/Spring 2027). |
 | 30 | 2026-04-06 | Nextdoor | Software Engineer Intern | 3.8/5 | Evaluated | ❌ | [030](reports/030-nextdoor-2026-04-06.md) | $48.75/hr + housing. Dallas TX. Graduation mismatch risk. |
