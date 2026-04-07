@@ -1,0 +1,90 @@
+# Career-Ops Profile Configuration
+
+candidate:
+  full_name: "George Dayoub"
+  email: "Ged5222@psu.edu"
+  phone: "610-541-9697"
+  location: "State College, PA"
+  linkedin: "linkedin.com/in/GeorgeDayoub"
+  portfolio_url: "https://george-dayoub-portfolio.vercel.app"
+  github: "github.com/gdayoub"
+
+target_roles:
+  primary:
+    - "Software Engineering Intern"
+    - "Data Science Intern"
+    - "ML Engineering Intern"
+    - "AI Engineering Intern"
+  season: "Summer 2026"
+  archetypes:
+    - name: "Software Engineering Intern"
+      level: "Intern"
+      fit: "primary"
+    - name: "Data Science Intern"
+      level: "Intern"
+      fit: "primary"
+    - name: "ML Engineering Intern"
+      level: "Intern"
+      fit: "primary"
+    - name: "AI Engineering Intern"
+      level: "Intern"
+      fit: "primary"
+    - name: "Backend Engineering Intern"
+      level: "Intern"
+      fit: "secondary"
+    - name: "Full-Stack Engineering Intern"
+      level: "Intern"
+      fit: "adjacent"
+
+narrative:
+  headline: "Computational Data Science student who ships end-to-end — from ML pipelines to production SaaS"
+  exit_story: "Rising junior at Penn State with a data science internship under my belt and multiple shipped products (CoverMe SaaS, LionPlanner on GCP). I don't just prototype — I deploy, integrate payments, and handle infra."
+  superpowers:
+    - "End-to-end shipping: idea → working deployed product (CoverMe live with Stripe, LionPlanner on Cloud Run)"
+    - "Full-stack + ML: comfortable across Next.js frontends, Python backends, SQL databases, and ML pipelines"
+    - "Infrastructure depth: Docker, GCP, Supabase, Vercel — not just black-box usage but real understanding"
+    - "Real-world data science: PDF extraction, NLP pipelines, seismic data analysis at Seismos"
+  proof_points:
+    - name: "CoverMe"
+      url: "https://george-dayoub-portfolio.vercel.app"
+      hero_metric: "Live SaaS with Stripe payments, 5 LaTeX templates, Claude API integration"
+    - name: "LionPlanner"
+      url: "https://george-dayoub-portfolio.vercel.app"
+      hero_metric: "Deployed on GCP Cloud Run, backtracking solver generating 200+ conflict-free schedules"
+    - name: "Arabic OSINT Platform"
+      url: "https://github.com/gdayoub"
+      hero_metric: "Multilingual NLP pipeline with TF-IDF classifier, Streamlit dashboard, Docker Compose"
+    - name: "Seismos Internship"
+      url: ""
+      hero_metric: "Automated PJR data extraction from raw PDFs, built SQL reporting pipelines"
+
+compensation:
+  target_range: "$40-60/hr"
+  currency: "USD"
+  minimum: "Competitive intern rate"
+  notes: "Flexible for the right opportunity. Equivalent monthly stipend also works."
+  location_flexibility: "State College, PA — open to relocation for summer"
+
+location:
+  country: "United States"
+  city: "State College, PA"
+  timezone: "America/New_York"
+  visa_status: "No sponsorship needed"
+  relocation: "Open to relocation for summer internship"
+
+preferences:
+  deal_breakers:
+    - "No unpaid internships"
+    - "No 100% frontend roles with no backend/data/ML component"
+    - "No pure consulting or 'AI strategy' roles — must involve building"
+  excited_by:
+    - "Building things people actually use"
+    - "Deep technical problems (networking, infra, ML internals)"
+    - "LLMs, RAG, agents — the engineering side, not just prompt-tweaking"
+    - "Data science with real-world messiness (scraping, cleaning, modeling, deploying)"
+  drained_by:
+    - "Pure busywork with no technical depth"
+    - "'AI' roles that are actually just prompt engineering with no systems work"
+    - "Fake intern projects instead of real ones"
+    - "Excessive process / slow iteration cycles"
+  filter_philosophy: "Quality over quantity. 10 great matches > 100 mediocre ones. Prioritize companies with strong engineering culture and real ML/AI systems work over name-brand with generic intern programs."
