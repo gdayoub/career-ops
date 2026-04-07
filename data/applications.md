@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 49 | 2026-04-07 | Cohere | Software Engineer Intern (Spring/Summer 2026) | 4.2/5 | Evaluada | ❌ | [049](reports/049-cohere-swe-2026-04-07.md) | No grad date req. Toronto/SF/NYC/Remote. Apply both SWE + ML tracks. Confirm US office placement for comp. |
+| 50 | 2026-04-07 | Hugging Face | Machine Learning Engineer Internship, Generative AI | 3.7/5 | Evaluada | ❌ | [050](reports/050-huggingface-mle-2026-04-07.md) | US Remote. No explicit grad req but MS/PhD preferred. Apply Generative AI + Gradio tracks. Strong brand. |
+| 51 | 2026-04-07 | Postman | Software Engineer - Intern | 3.5/5 | Evaluada | ❌ | [051](reports/051-postman-swe-2026-04-07.md) | SF hybrid. Node.js/React. Confirm summer timing. Lower priority vs Cohere/HF. |
 | 33 | 2026-04-07 | Meta | Software Engineer Intern/Co-op | 3.8/5 | Evaluada | ❌ | [033](reports/033-meta-swe-2026-04-07.md) | GRAD MISMATCH RISK: wants Dec 2026-Jul 2027; George is Jun 2028. $51.35/hr + housing. Apply anyway — strong candidate may override. |
 | 34 | 2026-04-07 | Microsoft | Software Engineering Internship | 4.2/5 | Evaluada | ❌ | [034](reports/034-microsoft-swe-2026-04-07.md) | ~$46-48/hr. Redmond + others. 12 weeks. Azure AI/Copilot track. Also apply Explore Program. |
 | 35 | 2026-04-07 | Apple | AI/ML Software Engineering Intern (Information Intelligence) | 4.1/5 | Evaluada | ❌ | [035](reports/035-apple-aiml-2026-04-07.md) | ~$45-52/hr est. Cupertino CA. Siri/NLP team. OSINT NLP pipeline is strong proof point. |

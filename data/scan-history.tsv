@@ -1,0 +1,45 @@
+date	company	url	title	result
+2026-04-07	Anthropic	https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	(board scan)	no_interns
+2026-04-07	xAI	https://boards-api.greenhouse.io/v1/boards/xai/jobs	(board scan)	no_match_grad
+2026-04-07	xAI	https://job-boards.greenhouse.io/xai/jobs/5054417007	Engineering Internship (Summer 2026)	no_match_grad
+2026-04-07	Character AI	https://boards-api.greenhouse.io/v1/boards/characterai/jobs	(board scan)	no_interns
+2026-04-07	Together AI	https://boards-api.greenhouse.io/v1/boards/togetherai/jobs	(board scan)	no_match_grad
+2026-04-07	Together AI	https://job-boards.greenhouse.io/togetherai/jobs/5012768007	Software Engineer Intern (Summer 2026)	no_match_grad
+2026-04-07	Together AI	https://job-boards.greenhouse.io/togetherai/jobs/5015203007	Systems Research Engineer Intern - GPU Programming (Summer 2026)	no_match_skills
+2026-04-07	Together AI	https://job-boards.greenhouse.io/togetherai/jobs/5015074007	Research Intern, Model Shaping (Summer 2026)	no_match_skills
+2026-04-07	Inflection	https://boards-api.greenhouse.io/v1/boards/inflectionai/jobs	(board scan)	no_interns
+2026-04-07	AI21	https://boards-api.greenhouse.io/v1/boards/ai21labs/jobs	(board scan)	no_interns
+2026-04-07	Stability AI	https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs	(board scan)	no_interns
+2026-04-07	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs/4606014005	Software Engineering Intern (Summer 2026)	dedup_012
+2026-04-07	Databricks	https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6866531002	Software Engineering Intern (2026)	no_match_grad
+2026-04-07	Databricks	https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2026-start-6866538002	Data Science Intern (2026 Start)	no_match_grad
+2026-04-07	Datadog	https://careers.datadoghq.com/detail/7158137/?gh_jid=7158137	Software Engineering Intern (Summer)	no_match_grad
+2026-04-07	Arize AI	https://job-boards.greenhouse.io/arizeai	(board scan)	no_interns
+2026-04-07	Weaviate	https://weaviate.io/company/careers	(board scan)	no_interns
+2026-04-07	Vercel	https://job-boards.greenhouse.io/vercel/jobs/5628292004	Engineering Summer Intern	no_match_grad
+2026-04-07	GitHub	https://www.github.careers/careers-home/jobs/3569/job	Software Engineering Intern	no_match_grad
+2026-04-07	GitLab	https://job-boards.greenhouse.io/gitlab/	(board scan)	no_interns
+2026-04-07	Replit	https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1	Software Engineering Intern (Summer 2026)	dedup_004
+2026-04-07	Retool	https://job-boards.greenhouse.io/retool	(board scan)	no_interns
+2026-04-07	Supabase	https://jobs.ashbyhq.com/supabase	(board scan)	no_interns
+2026-04-07	Render	https://job-boards.greenhouse.io/render	(board scan)	no_interns
+2026-04-07	Sourcegraph	https://sourcegraph.com/jobs	(board scan)	below_comp
+2026-04-07	dbt Labs	https://job-boards.greenhouse.io/dbtlabsinc	(board scan)	no_interns
+2026-04-07	Postman	https://boards.greenhouse.io/postman/jobs/4670749003	Software Engineer - Intern	report_051
+2026-04-07	Cursor (Anysphere)	https://jobs.ashbyhq.com/anysphere	(board scan)	no_interns
+2026-04-07	Perplexity	https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763	UK Internship Program	no_match_location
+2026-04-07	Cohere	https://jobs.ashbyhq.com/cohere/66c98ca3-334b-4a6a-a27c-5807b3686121	Software Engineer Intern (Spring/Summer 2026)	report_049
+2026-04-07	Cohere	https://jobs.ashbyhq.com/cohere/2c669d85-e3d7-43f1-aa43-be33e12ff8a5	Machine Learning Intern/Co-op (Spring/Summer 2026)	report_049_related
+2026-04-07	Adept	https://jobs.ashbyhq.com/adept	(board scan)	no_interns
+2026-04-07	Modal	https://jobs.ashbyhq.com/modal	(board scan)	no_interns
+2026-04-07	LangChain	https://jobs.ashbyhq.com/langchain	(board scan)	no_interns
+2026-04-07	Pinecone	https://jobs.ashbyhq.com/pinecone/ee430f96-5d27-40c4-a1e9-1442ad7f9aed	Intern: Science NYC	no_match_research
+2026-04-07	Linear	https://jobs.ashbyhq.com/linear	(board scan)	no_interns
+2026-04-07	Fly.io	https://jobs.ashbyhq.com/fly.io	(board scan)	no_interns
+2026-04-07	Railway	https://jobs.ashbyhq.com/railway	(board scan)	no_interns
+2026-04-07	Mistral	https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5	Applied AI Internship	no_match_location
+2026-04-07	W&B	https://jobs.lever.co/wandb	(board scan)	no_interns
+2026-04-07	Hugging Face	https://apply.workable.com/huggingface/j/07FBA391F1	MLE Internship, Generative AI - US Remote	report_050
+2026-04-07	Hugging Face	https://apply.workable.com/huggingface/j/9E5944D267	MLE Internship, Gradio - US Remote	report_050_related
+2026-04-07	Hugging Face	https://apply.workable.com/huggingface/j/D04BE4F4A3	MLE Internship, WebML - US Remote	no_match_skills
+2026-04-07	Hugging Face	https://apply.workable.com/huggingface/j/CF90BFDC06	MLE Internship, Quantization - US Remote	no_match_skills
