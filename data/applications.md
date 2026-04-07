@@ -2,13 +2,27 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 33 | 2026-04-07 | Meta | Software Engineer Intern/Co-op | 4.5/5 | Evaluada | ❌ | [033](reports/033-meta-swe-2026-04-07.md) | Top comp ($51.35/hr + $2,600/mo housing). Menlo Park/Seattle/NYC/LA. Target AI/ML orgs. CoverMe is perfect proof point. |
+| 34 | 2026-04-07 | Microsoft | Software Engineering Internship | 4.2/5 | Evaluada | ❌ | [034](reports/034-microsoft-swe-2026-04-07.md) | ~$46-48/hr. Redmond + others. 12 weeks. Azure AI/Copilot track. Also apply Explore Program. |
+| 35 | 2026-04-07 | Apple | AI/ML Software Engineering Intern (Information Intelligence) | 4.1/5 | Evaluada | ❌ | [035](reports/035-apple-aiml-2026-04-07.md) | ~$45-52/hr est. Cupertino CA. Siri/NLP team. OSINT NLP pipeline is strong proof point. |
+| 36 | 2026-04-07 | Netflix | Data Engineering Intern | 3.8/5 | Evaluada | ❌ | [036](reports/036-netflix-de-2026-04-07.md) | ~$60-80/hr est. Los Gatos CA. Seismos + OSINT strong fit. Verify still open (SWE closed Oct 31). |
+| 37 | 2026-04-07 | Palantir | Forward Deployed Software Engineer Internship | 4.2/5 | Evaluada | ❌ | [037](reports/037-palantir-fdse-2026-04-07.md) | $10,500/mo. US offices. Non-Path track — George qualifies. FDSE culture matches builder mindset. |
+| 38 | 2026-04-07 | Two Sigma | Software Engineering Internship | 3.7/5 | Evaluada | ❌ | [038](reports/038-two-sigma-swe-2026-04-07.md) | ~$3,800/wk ($95/hr) BS. NYC 10 weeks. Stretch — needs heavy LeetCode Hard prep. |
+| 39 | 2026-04-07 | Citadel | Software Engineer Intern (US) | 3.8/5 | Evaluada | ❌ | [039](reports/039-citadel-swe-2026-04-07.md) | $4,300-4,800/wk ($107-120/hr). NYC/Miami/Houston. Exceptional comp. Non-target school stretch. |
+| 40 | 2026-04-07 | D.E. Shaw | Software Developer Intern | 3.7/5 | Evaluada | ❌ | [040](reports/040-de-shaw-swe-2026-04-07.md) | ~$4,000-4,500/wk est. NYC. Elite quant firm. Stretch — heavy algo prep needed. |
+| 41 | 2026-04-07 | Jane Street | Software Engineer Internship | 3.5/5 | NO APLICAR | ❌ | [041](reports/041-jane-street-swe-2026-04-07.md) | $144/hr + $25K sign-on. App likely closed. Algo skills gap — bookmark for 2027. |
+| 42 | 2026-04-07 | Jump Trading | Campus Software Engineer Intern | 3.4/5 | Evaluada | ❌ | [042](reports/042-jump-trading-swe-2026-04-07.md) | Est $3-4K/wk. Chicago. C++ heavy — stretch. Check Python/ML intern track. |
+| 43 | 2026-04-07 | Spotify | Engineering & Data Science Internship | 3.2/5 | NO APLICAR | ❌ | [043](reports/043-spotify-eds-2026-04-07.md) | $51/hr NYC. App deadline Feb 5 2026 — CLOSED. Monitor for 2027. |
+| 44 | 2026-04-07 | Uber | Software Engineering UberStar Internship | 4.0/5 | Evaluada | ❌ | [044](reports/044-uber-uberstar-2026-04-07.md) | ~$45.67/hr. SF 12 weeks. 1st/2nd year program — verify George is 2nd year (started Aug 2024). |
+| 45 | 2026-04-07 | Amazon | 2026 Data Science Internship | 4.2/5 | Evaluada | ❌ | [045](reports/045-amazon-ds-2026-04-07.md) | $47-60/hr. US multiple offices. 12 weeks. Seismos DS internship is near-perfect fit. Apply alongside SDE. |
+| 46 | 2026-04-07 | Meta | Data Scientist Intern, Product Analytics | 4.3/5 | Evaluada | ❌ | [046](reports/046-meta-ds-2026-04-07.md) | ~$51/hr + housing. Product analytics + A/B testing. CoverMe as own product = analytics experience. |
 | 32 | 2026-04-06 | Etsy | Software Engineering Intern | 3.3/5 | SKIP | ❌ | [032](reports/032-etsy-2026-04-06.md) | Brooklyn. Graduation mismatch (targets mid-2027 grads). |
 | 31 | 2026-04-06 | Glean | Software Engineer Intern | 3.4/5 | SKIP | ❌ | [031](reports/031-glean-2026-04-06.md) | $57-69/hr. Graduation mismatch (requires Fall 2026/Spring 2027). |
 | 30 | 2026-04-06 | Nextdoor | Software Engineer Intern | 3.8/5 | Evaluated | ❌ | [030](reports/030-nextdoor-2026-04-06.md) | $48.75/hr + housing. Dallas TX. Graduation mismatch risk. |
 | 29 | 2026-04-06 | Anduril | Software Engineer Intern | 3.8/5 | Evaluated | ❌ | [029](reports/029-anduril-2026-04-06.md) | $40-50/hr. Requires rising senior — George is rising junior. Risk. |
 | 28 | 2026-04-06 | Aurora | Software Engineering Internship | 4.0/5 | Evaluated | ❌ | [028](reports/028-aurora-2026-04-06.md) | ~$52-78/hr. Mountain View or Pittsburgh. AV tech. No J-1. |
 | 27 | 2026-04-06 | Rippling | Full Stack Software Engineer Intern | 4.5/5 | Evaluated | ❌ | [027](reports/027-rippling-2026-04-06.md) | $75/hr. SF/NYC hybrid. 13 weeks. Python+JS full-stack. Top comp. |
-| 26 | 2026-04-06 | Block | Software Engineer Intern | 4.2/5 | Evaluada | ❌ | [026](reports/026-block-2026-04-06.md) | 12-16 weeks. Multiple locations + remote. Fintech (Square/Cash App). Graduation fits perfectly. |
+| 26 | 2026-04-06 | Block | Software Engineer Intern | 4.2/5 | Evaluated | ❌ | [026](reports/026-block-2026-04-06.md) | 12-16 weeks. Multiple locations + remote. Fintech (Square/Cash App). Graduation fits perfectly. |
 | 25 | 2026-04-06 | Salesforce | Summer 2026 Intern - Software Engineer | 4.2/5 | Evaluada | ❌ | [025](reports/025-salesforce-2026-04-06.md) | $49-59/hr. SF/Seattle/NYC. AI-infused platforms. Claude API experience is differentiator. |
 | 24 | 2026-04-06 | Coinbase | Software Engineer Intern | 4.3/5 | Evaluada | ❌ | [024](reports/024-coinbase-2026-04-06.md) | $60/hr. SF/NYC hybrid. Crypto products. Strong stack match (JS/Python). Graduation fits. |
 | 23 | 2026-04-06 | Nuro | Software Engineer, AI Platform Intern | 3.2/5 | SKIP | ❌ | [023](reports/023-nuro-2026-04-06.md) | $66.35/hr. Advanced infra focus. Better for MS students. |
