@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 60 | 2026-04-10 | Google | Software Engineering Intern, BS | 4.2/5 | Evaluada | ❌ | [060](reports/060-google-swe-bs-2026-04-10.md) | URGENT deadline Apr 23. BS eligible, returning to program = qualifies. ~$56-69/hr est (FAANG). Apply immediately. |
+| 61 | 2026-04-10 | Lyft | Software Engineer Intern, Backend | 3.1/5 | NO APLICAR | ❌ | [061](reports/061-lyft-backend-2026-04-10.md) | Grad mismatch (Dec 2026-Summer 2027). $52-58/hr SF hybrid. Possibly closed. Reapply 2027. |
+| 62 | 2026-04-10 | Airbnb | Software Engineering Intern | 3.0/5 | NO APLICAR | ❌ | [062](reports/062-airbnb-swe-2026-04-10.md) | Grad mismatch (Dec 2026-Jun 2027). $49-56/hr est. SF. Reapply Summer 2027. |
+| 63 | 2026-04-10 | DoorDash | Software Engineer, Intern | 3.0/5 | NO APLICAR | ❌ | [063](reports/063-doordash-swe-2026-04-10.md) | Grad mismatch (Fall 2026-Summer 2027). NYC/SF/LA/Sunnyvale/SEA. Reapply 2027. |
+| 64 | 2026-04-10 | Pinterest | Software Engineer Intern 2026 | 3.2/5 | Evaluada | ❌ | [064](reports/064-pinterest-swe-2026-04-10.md) | $8,250-11,000/mo ($51-69/hr). SF/Palo Alto hybrid. Grad req unconfirmed — verify before applying. |
 | 52 | 2026-04-07 | Stripe | Software Engineer, Intern (Summer) | 4.5/5 | Evaluada | ❌ | [052](reports/052-stripe-swe-2026-04-07.md) | $62.50/hr. Top fintech. CoverMe=direct Stripe API proof point. Rising junior qualifies. Apply immediately. |
 | 53 | 2026-04-07 | Snowflake | Software Engineer Intern (AI/ML) | 4.4/5 | Evaluada | ❌ | [053](reports/053-snowflake-aiml-2026-04-07.md) | $45-55/hr. Menlo Park on-site. ML pipelines, LLMs. Strong NLP match. Rising junior qualifies. |
 | 54 | 2026-04-07 | Gusto | Software Engineering Intern (Summer 2026) | 4.2/5 | Evaluada | ❌ | [054](reports/054-gusto-swe-2026-04-07.md) | Grad Dec 2026-Jun 2029 = perfect fit for George. $47-58/hr. SF/NYC/Denver hybrid. Full-stack. |
