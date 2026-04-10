@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 66 | 2026-04-10 | Hugging Face | ML Research Engineer Intern, GUI Agents | 3.0/5 | Evaluada | ❌ | [066](reports/066-huggingface-gui-agents-2026-04-10.md) | US Remote. GUI agent ML research — requires fine-tuning/training depth George lacks. DO NOT APPLY. |
+| 65 | 2026-04-10 | Vercel | Data Platform & Engineering Intern | 3.5/5 | Evaluada | ❌ | [065](reports/065-vercel-data-platform-2026-04-10.md) | SF hybrid ~$59-69/hr. Data eng + AI agents. VERIFY grad req before applying (Engineering Summer Intern requires Dec 2026/May 2027 — unconfirmed for this role). |
 | 60 | 2026-04-10 | Google | Software Engineering Intern, BS | 4.2/5 | Evaluada | ❌ | [060](reports/060-google-swe-bs-2026-04-10.md) | URGENT deadline Apr 23. BS eligible, returning to program = qualifies. ~$56-69/hr est (FAANG). Apply immediately. |
 | 61 | 2026-04-10 | Lyft | Software Engineer Intern, Backend | 3.1/5 | NO APLICAR | ❌ | [061](reports/061-lyft-backend-2026-04-10.md) | Grad mismatch (Dec 2026-Summer 2027). $52-58/hr SF hybrid. Possibly closed. Reapply 2027. |
 | 62 | 2026-04-10 | Airbnb | Software Engineering Intern | 3.0/5 | NO APLICAR | ❌ | [062](reports/062-airbnb-swe-2026-04-10.md) | Grad mismatch (Dec 2026-Jun 2027). $49-56/hr est. SF. Reapply Summer 2027. |
