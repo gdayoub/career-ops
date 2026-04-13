@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 68 | 2026-04-13 | Amazon | 2026 Data Engineer Internship | 4.1/5 | Evaluada | ❌ | [068](reports/068-amazon-data-engineer-intern-2026-04-13.md) | ~$52/hr. Seismos ETL/SQL pipeline = near-exact match. Seattle/Bay Area/NYC/Austin/DC. Apply alongside 067. |
+| 67 | 2026-04-13 | Amazon | Software Development Engineer Internship | 4.3/5 | Evaluada | ❌ | [067](reports/067-amazon-sde-intern-2026-04-13.md) | $75.68/hr FAANG. Grad window Oct 2026–Sep 2029 = perfect. Apply immediately + LeetCode prep. |
 | 66 | 2026-04-10 | Hugging Face | ML Research Engineer Intern, GUI Agents | 3.0/5 | Evaluada | ❌ | [066](reports/066-huggingface-gui-agents-2026-04-10.md) | US Remote. GUI agent ML research — requires fine-tuning/training depth George lacks. DO NOT APPLY. |
 | 65 | 2026-04-10 | Vercel | Data Platform & Engineering Intern | 3.5/5 | Evaluada | ❌ | [065](reports/065-vercel-data-platform-2026-04-10.md) | SF hybrid ~$59-69/hr. Data eng + AI agents. VERIFY grad req before applying (Engineering Summer Intern requires Dec 2026/May 2027 — unconfirmed for this role). |
 | 60 | 2026-04-10 | Google | Software Engineering Intern, BS | 4.2/5 | Evaluada | ❌ | [060](reports/060-google-swe-bs-2026-04-10.md) | URGENT deadline Apr 23. BS eligible, returning to program = qualifies. ~$56-69/hr est (FAANG). Apply immediately. |

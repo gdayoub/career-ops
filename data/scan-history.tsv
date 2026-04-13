@@ -136,3 +136,41 @@ date	company	url	title	result
 2026-04-10	Hugging Face	https://apply.workable.com/huggingface/j/E617888620/	ML Research Engineer Internship, GUI Agents - US Remote	report_066
 2026-04-10	Hugging Face	https://apply.workable.com/huggingface/j/30EDE6502E/	MLE Internship, Hardware Optimization - US Remote	no_match_skills
 2026-04-10	Hugging Face	https://apply.workable.com/huggingface/j/AB7B65D426/	MLE Internship, Biomedical - US Remote	no_match_skills
+2026-04-13	Google	https://www.google.com/about/careers/applications/jobs/results/95392037762671302-software-engineering-intern-summer-2026	Software Engineering Intern, Summer 2026 (Taiwan)	no_match_location
+2026-04-13	Meta	https://www.metacareers.com/jobs/1668648587034930/	Data Engineer Intern	no_match_grad
+2026-04-13	Meta	https://www.metacareers.com/jobs/804300811922734	Data Scientist Intern, Product Analytics (Summer 2026)	dedup_046
+2026-04-13	Amazon	https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us	Software Development Engineer Internship - Summer 2026 (US)	report_067
+2026-04-13	Amazon	https://www.amazon.jobs/en/jobs/3145530/2026-data-engineer-internship	2026 Data Engineer Internship	report_068
+2026-04-13	Amazon	https://www.amazon.jobs/en/jobs/3144155/2026-data-science-internship-united-states-phd-or-masters-student	2026 Data Science Internship - PhD/Masters	no_match_degree
+2026-04-13	Amazon	https://www.amazon.jobs/en/jobs/3137707/amazon-robotics-data-science-intern-co-op-2026	Amazon Robotics - Data Science Intern/Co-op 2026	no_match_degree
+2026-04-13	Amazon	https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026	Robotics - Software Development Engineer Intern/Co-op 2026	dedup_067
+2026-04-13	Microsoft	https://jobs.careers.microsoft.com/us/en/job/1488909/Research-Intern-AI-assisted-Software-Engineering	Research Intern - AI Assisted Software Engineering	no_match_skills
+2026-04-13	Microsoft	https://jobs.careers.microsoft.com/global/en/job/1735688/Software-Engineering-Intern	Software Engineering Intern	dedup_034
+2026-04-13	Microsoft	https://careers.microsoft.com/v2/global/en/exploremicrosoft	Explore Microsoft Program	no_match_grad
+2026-04-13	Apple	https://jobs.apple.com/en-us/details/200606469/machine-learning-ai-internships	Machine Learning / AI Internships	dedup_035
+2026-04-13	Netflix	https://jobs.netflix.com/intern-program	(board scan)	no_new_interns
+2026-04-13	Uber	https://www.uber.com/careers/	(board scan)	no_new_interns
+2026-04-13	Lyft	https://boards.greenhouse.io/lyft/jobs/8218030002	Data Engineer Intern (Summer 2026)	no_match_grad
+2026-04-13	Lyft	https://boards.greenhouse.io/lyft/jobs/8151190002	Data Science Intern, Algorithms (Summer 2026)	no_match_degree
+2026-04-13	Lyft	https://boards.greenhouse.io/lyft/jobs/8130804002	Software Engineer Intern, Backend (Summer 2026)	dedup_061
+2026-04-13	Airbnb	https://boards-api.greenhouse.io/v1/boards/airbnb/jobs	(board scan)	api_403
+2026-04-13	DoorDash	https://boards-api.greenhouse.io/v1/boards/doordash/jobs	(board scan)	api_403
+2026-04-13	Instacart	https://boards-api.greenhouse.io/v1/boards/instacart/jobs	(board scan)	api_403
+2026-04-13	Snap	https://boards-api.greenhouse.io/v1/boards/snap/jobs	(board scan)	api_403
+2026-04-13	Pinterest	https://boards-api.greenhouse.io/v1/boards/pinterest/jobs	(board scan)	api_403
+2026-04-13	Reddit	https://boards-api.greenhouse.io/v1/boards/reddit/jobs	(board scan)	no_new_interns
+2026-04-13	Discord	https://discord.com/jobs	(board scan)	no_new_interns
+2026-04-13	Spotify	https://jobs.lever.co/spotify/69f52b9b-9e73-4134-b366-7e9e77ac192d	2026 Summer Internship, Engineering & Data Science (NYC)	no_match_closed
+2026-04-13	Palantir	https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c	Software Engineer, Internship	no_match_grad
+2026-04-13	Palantir	https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e	Software Engineer, Internship - Infrastructure	no_match_grad
+2026-04-13	Palantir	https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1	Software Engineer, Internship - Production Infrastructure	no_match_grad
+2026-04-13	Palantir	https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7	Software Engineer, Internship - Defense Tech	no_match_grad
+2026-04-13	Palantir	https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2	Forward Deployed Software Engineer, Internship - US Government	no_match_timing
+2026-04-13	Two Sigma	https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/13353	Software Engineering Internship - NYC	dedup_038
+2026-04-13	Two Sigma	https://careerservices.fas.harvard.edu/jobs/two-sigma-first-year-software-engineering-internship-2026-nyc/	First Year Software Engineering Internship 2026	no_match_year
+2026-04-13	Jane Street	https://www.janestreet.com/join-jane-street/internships/	Software Engineer - 2026 Summer Internship	dedup_041
+2026-04-13	Citadel	https://www.citadel.com/careers/details/software-engineer-intern-us/	Software Engineer - Intern (US)	dedup_039
+2026-04-13	Citadel Securities	https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/	Software Engineer - Intern (US)	dedup_039
+2026-04-13	DE Shaw	https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2026-5521	Software Developer Intern (New York) - Summer 2026	dedup_040
+2026-04-13	HRT	https://www.hudsonrivertrading.com/hrt-job/c-software-engineering-internship-summer-2026/	Software Engineering Internship - Summer 2026	no_match_closed
+2026-04-13	Jump Trading	https://www.jumptrading.com/hr/job?gh_jid=7543377	Campus Software Engineer (Dec 2026 - Feb 2027 Intern)	no_match_timing
