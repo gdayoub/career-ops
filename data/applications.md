@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 71 | 2026-04-13 | Harvey AI | Software Engineering Intern (Summer 2026) | 4.4/5 | Evaluada | ❌ | [071](reports/071-harvey-swe-2026-04-13.md) | $60/hr. SF on-site May-Sep. $11B unicorn, Sequoia. CoverMe+Claude API=direct match. Grad Spring 2028 qualifies. HIGH PRIORITY. |
+| 73 | 2026-04-13 | Cloudflare | Data Science Intern (Summer 2026) | 3.3/5 | Evaluada | ❌ | [073](reports/073-cloudflare-ds-2026-04-13.md) | ~$25/hr est (below $40 target — verify before applying). Austin TX on-site. NLP/AI focus. Verify comp first. |
 | 69 | 2026-04-13 | C3 AI | Software Engineer Intern (Summer 2026) | 3.7/5 | Evaluada | ❌ | [069](reports/069-c3ai-swe-intern-2026-04-13.md) | $37-50/hr. Redwood City CA on-site. May-Sep. Ships production code. CoverMe+LionPlanner=strong fit. |
 | 70 | 2026-04-13 | C3 AI | Data Science Intern (Summer 2026) | 3.8/5 | Evaluada | ❌ | [070](reports/070-c3ai-ds-intern-2026-04-13.md) | $37-50/hr. Redwood City CA on-site. May-Sep. Enterprise ML/DS. Seismos+OSINT classifier=direct match. Apply alongside 069. |
 | 68 | 2026-04-13 | Amazon | 2026 Data Engineer Internship | 4.1/5 | Evaluada | ❌ | [068](reports/068-amazon-data-engineer-intern-2026-04-13.md) | ~$52/hr. Seismos ETL/SQL pipeline = near-exact match. Seattle/Bay Area/NYC/Austin/DC. Apply alongside 067. |
@@ -51,7 +53,7 @@
 | 24 | 2026-04-06 | Coinbase | Software Engineer Intern | 4.3/5 | Evaluada | ❌ | [024](reports/024-coinbase-2026-04-06.md) | $60/hr. SF/NYC hybrid. Crypto products. Strong stack match (JS/Python). Graduation fits. |
 | 23 | 2026-04-06 | Nuro | Software Engineer, AI Platform Intern | 3.2/5 | SKIP | ❌ | [023](reports/023-nuro-2026-04-06.md) | $66.35/hr. Advanced infra focus. Better for MS students. |
 | 22 | 2026-04-06 | Affirm | Security Intern | 3.5/5 | Evaluada | ❌ | [022](reports/022-affirm-security-2026-04-06.md) | $55/hr. SF hybrid. Security-focused — prefer SWE intern (report 009) unless security interest. |
-| 18 | 2026-04-06 | ServiceNow | UTG Software Engineer Intern | 4.0/5 | Evaluada | ❌ | [018](reports/018-servicenow-2026-04-06.md) | Re-eval 2026-04-06 (3.8→4). $55/hr. Bay Area hybrid. Enterprise SaaS leader. Full-stack/backend/frontend tracks. |
+| 18 | 2026-04-06 | ServiceNow | UTG Software Engineer Intern | 4.0/5 | Evaluada | ❌ | [018](reports/018-servicenow-2026-04-06.md) | Re-eval 2026-04-06 (3.8→4). $55/hr. Bay Area hybrid. Enterprise SaaS leader. Also apply MLE Intern ($55-63/hr, NLP focus) — see [072](reports/072-servicenow-mle-2026-04-13.md). |
 | 19 | 2026-04-06 | MongoDB | 2026 Software Engineering Intern, AMER | 4.0/5 | Evaluada | ❌ | [019](reports/019-mongodb-2026-04-06.md) | Re-eval 2026-04-06 (3.5→4). ~$59/hr. Hybrid. Relocation + housing. Production code on core DB products. PostgreSQL experience transfers. |
 | 20 | 2026-04-06 | Recursion | Software Engineering Intern | 3.9/5 | Evaluated | ❌ | [020](reports/020-recursion-2026-04-06.md) | Re-eval 2026-04-06 (3.8→3.9). SLC. Flexible 3-6 months. AI+biotech. Full-stack. No grad date req. |
 | 13 | 2026-04-06 | OpenAI | Software Engineer Intern (Summer 2026) | 4.6/5 | Evaluada | ❌ | [013](reports/013-openai-swe-2026-04-06.md) | $60/hr. SF/Seattle. 12 weeks. BS/MS eligible. CoverMe is perfect proof point for Applied team. |
