@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 69 | 2026-04-13 | C3 AI | Software Engineer Intern (Summer 2026) | 3.7/5 | Evaluada | ❌ | [069](reports/069-c3ai-swe-intern-2026-04-13.md) | $37-50/hr. Redwood City CA on-site. May-Sep. Ships production code. CoverMe+LionPlanner=strong fit. |
+| 70 | 2026-04-13 | C3 AI | Data Science Intern (Summer 2026) | 3.8/5 | Evaluada | ❌ | [070](reports/070-c3ai-ds-intern-2026-04-13.md) | $37-50/hr. Redwood City CA on-site. May-Sep. Enterprise ML/DS. Seismos+OSINT classifier=direct match. Apply alongside 069. |
 | 68 | 2026-04-13 | Amazon | 2026 Data Engineer Internship | 4.1/5 | Evaluada | ❌ | [068](reports/068-amazon-data-engineer-intern-2026-04-13.md) | ~$52/hr. Seismos ETL/SQL pipeline = near-exact match. Seattle/Bay Area/NYC/Austin/DC. Apply alongside 067. |
 | 67 | 2026-04-13 | Amazon | Software Development Engineer Internship | 4.3/5 | Evaluada | ❌ | [067](reports/067-amazon-sde-intern-2026-04-13.md) | $75.68/hr FAANG. Grad window Oct 2026–Sep 2029 = perfect. Apply immediately + LeetCode prep. |
 | 66 | 2026-04-10 | Hugging Face | ML Research Engineer Intern, GUI Agents | 3.0/5 | Evaluada | ❌ | [066](reports/066-huggingface-gui-agents-2026-04-10.md) | US Remote. GUI agent ML research — requires fine-tuning/training depth George lacks. DO NOT APPLY. |

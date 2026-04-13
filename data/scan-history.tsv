@@ -174,3 +174,22 @@ date	company	url	title	result
 2026-04-13	DE Shaw	https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2026-5521	Software Developer Intern (New York) - Summer 2026	dedup_040
 2026-04-13	HRT	https://www.hudsonrivertrading.com/hrt-job/c-software-engineering-internship-summer-2026/	Software Engineering Internship - Summer 2026	no_match_closed
 2026-04-13	Jump Trading	https://www.jumptrading.com/hr/job?gh_jid=7543377	Campus Software Engineer (Dec 2026 - Feb 2027 Intern)	no_match_timing
+2026-04-13	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5023394008	Anthropic Fellows Program (AI Safety Research)	no_match_research
+2026-04-13	xAI	https://job-boards.greenhouse.io/xai/jobs/4730948007	Engineering Intern (general/infra)	no_match_skills
+2026-04-13	Together AI	https://job-boards.greenhouse.io/togetherai/jobs/5014290007	GTM Systems Analyst Intern (Summer 2026)	no_match_role
+2026-04-13	Together AI	https://job-boards.greenhouse.io/togetherai/jobs/5012785007	Security Engineer Intern (Summer 2026)	no_match_role
+2026-04-13	Databricks	https://job-boards.greenhouse.io/databricks/jobs/7640764002	Software Engineering Intern (2026)	no_match_grad
+2026-04-13	Datadog	https://careers.datadoghq.com/detail/7158100/	Applied Science Intern	no_match_grad
+2026-04-13	Datadog	https://careers.datadoghq.com/detail/7158112/	Software Engineering Intern	no_match_grad
+2026-04-13	Datadog	https://careers.datadoghq.com/detail/7406578/	Security Engineering Intern	no_match_role
+2026-04-13	Vercel	https://job-boards.greenhouse.io/vercel/jobs/5628286004	Engineering Spring Intern	no_match_timing
+2026-04-13	GitHub	https://www.github.careers/early-in-profession/jobs/4958	Applied Science Intern	no_match_degree
+2026-04-13	Postman	https://boards.greenhouse.io/postman/jobs/4668801003	Data Engineer Intern	no_match_location
+2026-04-13	Hugging Face	https://apply.workable.com/huggingface/j/B3CDE6C150/	Applied Research Internship - Embodied AI	no_match_degree
+2026-04-13	OpenAI	https://openai.com/careers/software-engineer-internship-co-op-applied-emerging-talent-(summer-2026)/	Software Engineer Internship / Co-op (Summer 2026)	dedup_013
+2026-04-13	C3 AI	https://job-boards.greenhouse.io/c3ascend/jobs/8106512002	Software Engineer Intern (Summer 2026)	report_069
+2026-04-13	C3 AI	https://job-boards.greenhouse.io/c3ascend/jobs/8107069002	Data Science Intern (Summer 2026)	report_070
+2026-04-13	Mistral	https://jobs.lever.co/mistral/589527e0-4f15-4e54-90db-83b2c49f263d	AI Scientist - Palo Alto (Internship, PhD)	no_match_degree
+2026-04-13	Mistral	https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7	Applied Scientist / Research Engineer (Internship)	no_match_location
+2026-04-13	Cohere	https://jobs.ashbyhq.com/cohere/1bc2c535-2f42-454e-aebe-9c018575ce7b	Software Engineer Intern (Winter 2026)	no_match_timing
+2026-04-13	Cohere	https://jobs.ashbyhq.com/cohere/25cc6633-614a-45e0-8632-ffd4a2475c9b	Machine Learning Intern/Co-op (Winter 2026)	no_match_timing
