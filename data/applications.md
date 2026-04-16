@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 75 | 2026-04-16 | Two Sigma | Data Scientist - Internship | 3.5/5 | Evaluada | ❌ | [075](reports/075-two-sigma-ds-2026-04-16.md) | $3,800/wk BS (~$95/hr). NYC Soho, 10 wks. "~1 yr remaining" soft pref but all levels welcome. Quant DS stretch vs George's ML/AI profile. Pay justifies the reach application. See also SWE track (038). |
+| 74 | 2026-04-16 | Palantir | Software Engineer, Internship (General) | 4.1/5 | Evaluada | ❌ | [074](reports/074-palantir-swe-2026-04-16.md) | $10K/mo + $3.5K housing (~$84/hr total). BS-eligible, no strict grad date. NYC/US. Core product eng on Foundry/Gotham/Apollo. Apply WITH FDSE (037) — same resume, different team. Infra/Prod-Infra tracks also open at $10.5K/mo. |
 | 71 | 2026-04-13 | Harvey AI | Software Engineering Intern (Summer 2026) | 4.4/5 | Evaluada | ❌ | [071](reports/071-harvey-swe-2026-04-13.md) | $60/hr. SF on-site May-Sep. $11B unicorn, Sequoia. CoverMe+Claude API=direct match. Grad Spring 2028 qualifies. HIGH PRIORITY. |
 | 73 | 2026-04-13 | Cloudflare | Data Science Intern (Summer 2026) | 3.3/5 | Evaluada | ❌ | [073](reports/073-cloudflare-ds-2026-04-13.md) | ~$25/hr est (below $40 target — verify before applying). Austin TX on-site. NLP/AI focus. Verify comp first. |
 | 69 | 2026-04-13 | C3 AI | Software Engineer Intern (Summer 2026) | 3.7/5 | Evaluada | ❌ | [069](reports/069-c3ai-swe-intern-2026-04-13.md) | $37-50/hr. Redwood City CA on-site. May-Sep. Ships production code. CoverMe+LionPlanner=strong fit. |
