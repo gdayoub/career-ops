@@ -291,3 +291,45 @@ date	company	url	title	result
 2026-04-16	Citadel	https://www.citadel.com/careers/	(board scan)	dedup_039
 2026-04-16	DE Shaw	https://www.deshaw.com/careers	(board scan)	dedup_040
 2026-04-16	Jump Trading	https://www.jumptrading.com/careers/	(board scan)	dedup_042
+2026-04-16	Anthropic	https://job-boards.greenhouse.io/anthropic	(board scan)	no_interns
+2026-04-16	xAI	https://job-boards.greenhouse.io/xai	(board scan)	no_new_interns
+2026-04-16	Character AI	https://job-boards.greenhouse.io/characterai	(board scan)	no_interns
+2026-04-16	Together AI	https://job-boards.greenhouse.io/togetherai	(board scan)	no_new_eligible_interns
+2026-04-16	Together AI	https://job-boards.greenhouse.io/togetherai/jobs/5012769007	Frontier Agents Intern (Summer 2026)	no_match_degree
+2026-04-16	Inflection	https://job-boards.greenhouse.io/inflectionai	(board scan)	no_interns
+2026-04-16	AI21	https://job-boards.greenhouse.io/ai21labs	(board scan)	no_interns
+2026-04-16	Stability AI	https://job-boards.greenhouse.io/stabilityai	(board scan)	no_interns
+2026-04-16	Scale AI	https://job-boards.greenhouse.io/scaleai	(board scan)	no_new_interns
+2026-04-16	Databricks	https://job-boards.greenhouse.io/databricks	(board scan)	no_new_interns
+2026-04-16	Datadog	https://job-boards.greenhouse.io/datadog	(board scan)	no_new_interns
+2026-04-16	Arize AI	https://job-boards.greenhouse.io/arizeai	(board scan)	no_interns
+2026-04-16	Weaviate	https://job-boards.greenhouse.io/weaviate	(board scan)	no_interns
+2026-04-16	Vercel	https://job-boards.greenhouse.io/vercel	(board scan)	no_new_interns
+2026-04-16	GitHub	https://www.github.careers/early-in-profession	(board scan)	no_new_interns
+2026-04-16	GitLab	https://job-boards.greenhouse.io/gitlab	(board scan)	no_interns
+2026-04-16	Replit	https://jobs.ashbyhq.com/replit	(board scan)	dedup_004
+2026-04-16	Retool	https://job-boards.greenhouse.io/retool	(board scan)	no_interns
+2026-04-16	Supabase	https://jobs.ashbyhq.com/supabase	(board scan)	no_interns
+2026-04-16	Render	https://job-boards.greenhouse.io/render	(board scan)	no_interns
+2026-04-16	Sourcegraph	https://sourcegraph.com/jobs	(board scan)	no_interns
+2026-04-16	dbt Labs	https://job-boards.greenhouse.io/dbtlabsinc	(board scan)	no_interns
+2026-04-16	Postman	https://job-boards.greenhouse.io/postman	(board scan)	dedup_051
+2026-04-16	OpenAI	https://openai.com/careers	(board scan)	no_new_interns
+2026-04-16	Cursor (Anysphere)	https://jobs.ashbyhq.com/anysphere	(board scan)	no_interns
+2026-04-16	Perplexity	https://jobs.ashbyhq.com/perplexity	(board scan)	no_new_interns
+2026-04-16	Cohere	https://jobs.ashbyhq.com/cohere	(board scan)	no_new_interns
+2026-04-16	Adept	https://jobs.ashbyhq.com/adept	(board scan)	no_interns
+2026-04-16	Modal	https://jobs.ashbyhq.com/modal	(board scan)	no_interns
+2026-04-16	LangChain	https://jobs.ashbyhq.com/langchain	(board scan)	no_interns
+2026-04-16	Pinecone	https://jobs.ashbyhq.com/pinecone	(board scan)	no_new_interns
+2026-04-16	Linear	https://jobs.ashbyhq.com/linear	(board scan)	no_interns
+2026-04-16	Fly.io	https://jobs.ashbyhq.com/fly.io	(board scan)	no_interns
+2026-04-16	Railway	https://jobs.ashbyhq.com/railway	(board scan)	no_interns
+2026-04-16	Mistral	https://jobs.lever.co/mistral	(board scan)	no_new_eligible_interns
+2026-04-16	W&B	https://jobs.lever.co/wandb	(board scan)	no_interns
+2026-04-16	Hugging Face	https://apply.workable.com/huggingface	(board scan)	new_postings_below_threshold
+2026-04-16	Hugging Face	https://apply.workable.com/huggingface/j/DAB6199FAF/	MLE Internship, Computer Vision - US Remote	no_match_degree
+2026-04-16	Hugging Face	https://apply.workable.com/huggingface/j/B952461BFF	MLE Internship, AI Energy Score - US Remote	no_match_skills
+2026-04-16	Hugging Face	https://apply.workable.com/huggingface/j/6E9686A620/	ML Open Source Engineer Internship - skops - US Remote	no_match_skills
+2026-04-16	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/7774167	Software Engineer Intern (Summer 2026)	dedup_005
+2026-04-16	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/7792962	Solutions Engineer - Intern (Summer & Fall 2026)	no_match_role
