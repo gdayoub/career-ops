@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 79 | 2026-04-16 | Point72 | AI Engineer Intern — Investment Services | 3.5/5 | Evaluada | ❌ | [079](reports/079-point72-ai-engineer-2026-04-16.md) | ~$65-72/hr ($130-145K prorated). NYC. GenAI tools for investment teams. CoverMe LLM=match. VERIFY listing active before applying. |
 | 75 | 2026-04-16 | Two Sigma | Data Scientist - Internship | 3.5/5 | Evaluada | ❌ | [075](reports/075-two-sigma-ds-2026-04-16.md) | $3,800/wk BS (~$95/hr). NYC Soho, 10 wks. "~1 yr remaining" soft pref but all levels welcome. Quant DS stretch vs George's ML/AI profile. Pay justifies the reach application. See also SWE track (038). |
 | 74 | 2026-04-16 | Palantir | Software Engineer, Internship (General) | 4.1/5 | Evaluada | ❌ | [074](reports/074-palantir-swe-2026-04-16.md) | $10K/mo + $3.5K housing (~$84/hr total). BS-eligible, no strict grad date. NYC/US. Core product eng on Foundry/Gotham/Apollo. Apply WITH FDSE (037) — same resume, different team. Infra/Prod-Infra tracks also open at $10.5K/mo. |
 | 71 | 2026-04-13 | Harvey AI | Software Engineering Intern (Summer 2026) | 4.4/5 | Evaluada | ❌ | [071](reports/071-harvey-swe-2026-04-13.md) | $60/hr. SF on-site May-Sep. $11B unicorn, Sequoia. CoverMe+Claude API=direct match. Grad Spring 2028 qualifies. HIGH PRIORITY. |

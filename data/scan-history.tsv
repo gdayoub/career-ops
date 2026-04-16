@@ -333,3 +333,87 @@ date	company	url	title	result
 2026-04-16	Hugging Face	https://apply.workable.com/huggingface/j/6E9686A620/	ML Open Source Engineer Internship - skops - US Remote	no_match_skills
 2026-04-16	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/7774167	Software Engineer Intern (Summer 2026)	dedup_005
 2026-04-16	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/7792962	Solutions Engineer - Intern (Summer & Fall 2026)	no_match_role
+2026-04-16	Stripe	https://stripe.com/jobs/listing/software-engineer-intern-summer/7210115	Software Engineer, Intern (Summer)	dedup_052
+2026-04-16	Stripe	https://stripe.com/jobs/listing/phd-machine-learning-engineer-intern/7216664	PhD Machine Learning Engineer, Intern	no_match_degree
+2026-04-16	Stripe	https://stripe.com/jobs/listing/phd-data-scientist-intern/7285974	PhD Data Scientist, Intern	no_match_degree
+2026-04-16	Plaid	https://boards-api.greenhouse.io/v1/boards/plaid/jobs	(board scan)	api_403
+2026-04-16	Brex	https://boards-api.greenhouse.io/v1/boards/brex/jobs	(board scan)	api_403_no_match_grad
+2026-04-16	Mercury	https://mercury.com/jobs	Backend/Frontend Engineering Intern Summer 2026	no_match_closed_jan2026
+2026-04-16	Ramp	https://jobs.ashbyhq.com/ramp/31f7e045-9a51-4a75-9ffc-d815d6db6daa	Software Engineer Internship, Frontend	report_077
+2026-04-16	Ramp	https://jobs.ashbyhq.com/ramp/43ac03c8-65f5-4522-ab3d-6d496ae7d925	Applied Scientist Intern	no_match_degree_ms_phd
+2026-04-16	Ramp	https://jobs.ashbyhq.com/ramp/ccb1aca4-79ac-414b-b7d8-bc908c575ef1	Software Engineer Internship, Forward Deployed	no_match_score_3.3
+2026-04-16	Ramp	https://jobs.ashbyhq.com/ramp/1f75a275-2bcf-4cb2-a121-eef0a453475f	AI Operations Internship	no_match_role
+2026-04-16	Robinhood	https://job-boards.greenhouse.io/robinhood	(board scan)	dedup_no_match_grad
+2026-04-16	Coinbase	https://www.coinbase.com/careers/positions/7294075	Machine Learning Engineer Intern	report_078
+2026-04-16	Block	https://block.xyz/careers/jobs/4904198008	Software Engineer Intern (Summer 2026)	dedup_026
+2026-04-16	Block	https://block.xyz/careers/jobs/5083061008	Mobile Software Engineer Intern (Summer 2026)	no_match_skills
+2026-04-16	Chime	https://careers.chime.com/en/early-talent/	(board scan)	no_interns_2026
+2026-04-16	Affirm	https://job-boards.greenhouse.io/affirm/jobs/7528020003	Software Engineering Intern - Summer 2026	dedup_009
+2026-04-16	SoFi	https://boards-api.greenhouse.io/v1/boards/sofi/jobs	(board scan)	api_403_no_interns
+2026-04-16	Atlassian	https://join.atlassian.com/atlassian-talent-community/jobs/20962	Data Science Intern 2026 Summer US	no_match_degree_masters
+2026-04-16	Atlassian	https://join.atlassian.com/DPEsummit/jobs/20963	Data Engineer Intern 2026 Summer US	no_match_degree_masters
+2026-04-16	HubSpot	https://www.hubspot.com/careers/students/intern-coop	(board scan)	no_interns
+2026-04-16	Twilio	https://job-boards.greenhouse.io/twilio/jobs/7560246	Software Engineer Intern (United States)	no_match_timing
+2026-04-16	Grammarly	https://www.grammarly.com/careers/jobs/engineering/software-engineer-intern-summer-2026-?gh_jid=7491439	Software Engineer Intern (Summer 2026) — new job ID	dedup_021
+2026-04-16	Zoom	https://boards-api.greenhouse.io/v1/boards/zoomvideocommunications/jobs	(board scan)	no_interns
+2026-04-16	Intercom	https://boards-api.greenhouse.io/v1/boards/intercom/jobs	(board scan)	no_interns
+2026-04-16	CrowdStrike	https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-Intern---Summer-2026_R26636	Software Engineer Intern - Summer 2026	dedup_no_match_grad
+2026-04-16	SentinelOne	https://www.sentinelone.com/careers/	(board scan)	no_interns
+2026-04-16	Palo Alto Networks	https://job-boards.greenhouse.io/paloaltonetworks	(board scan)	dedup_055
+2026-04-16	Vanta	https://jobs.ashbyhq.com/vanta/	(board scan)	no_interns_2026
+2026-04-16	Cloudflare	https://job-boards.greenhouse.io/cloudflare	(board scan)	dedup_005_073
+2026-04-16	MongoDB	https://www.mongodb.com/careers/job/?gh_jid=7239454	2026 - Software Engineering Intern AMER	dedup_019_no_match_grad
+2026-04-16	Snowflake	https://careers.snowflake.com/us/en/university	(board scan)	dedup_053
+2026-04-16	Snowflake	https://careers.snowflake.com/us/en/job/SNCOUS4D3EECA579D242A29DE41B7710A39043EXTERNALENUSB33F19C8E57E4D9F87D9EC2E3E3E3A22/Data-Engineering-Intern-Summer-2026	Data Engineering Intern - Summer 2026	no_match_grad_likely
+2026-04-16	Snowflake	https://careers.snowflake.com/us/en/job/SNCOUSE33C935EE0F145BAAE89720FD9A39379EXTERNALENUS8A958A71ED094122B72EF80C2A829566/Analytics-Engineering-Intern-Summer-2026	Analytics Engineering Intern - Summer 2026	no_match_grad_likely
+2026-04-16	Elastic	https://boards-api.greenhouse.io/v1/boards/elastic/jobs	(board scan)	no_interns
+2026-04-16	Confluent	https://careers.confluent.io	(board scan)	no_match_grad
+2026-04-16	HashiCorp	https://boards-api.greenhouse.io/v1/boards/hashicorp/jobs	(board scan)	no_interns
+2026-04-16	Grafana Labs	https://boards-api.greenhouse.io/v1/boards/grafanalabs/jobs	(board scan)	no_interns
+2026-04-16	DigitalOcean	https://builtin.com/job/engineering-intern-summer-2026/8329813	Engineering Intern (Summer 2026)	dedup_056
+2026-04-16	PagerDuty	https://boards-api.greenhouse.io/v1/boards/pagerduty/jobs	(board scan)	no_interns
+2026-04-16	Figma	https://job-boards.greenhouse.io/figma/jobs/5602159004	Software Engineer Intern (2026)	dedup_010
+2026-04-16	Notion	https://jobs.ashbyhq.com/notion/23ac2477-0008-4bed-b1c1-81f90a32e9e6	Software Engineer Intern (Summer 2026)	dedup_002
+2026-04-16	Notion	https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4	Software Engineer Mobile Intern (Summer 2026)	no_match_skills
+2026-04-16	Canva	https://www.lifeatcanva.com/en/jobs/6000000000970210/software-engineer-intern-frontendbackend-202627/	Software Engineer Intern Frontend/Backend 2026/27	no_match_location_australia
+2026-04-16	Airtable	https://airtable.com/careers	(board scan)	no_interns
+2026-04-16	Asana	https://boards-api.greenhouse.io/v1/boards/asana/jobs	(board scan)	no_match_grad
+2026-04-16	Dropbox	https://www.dropbox.jobs/en/jobs/7527921/data-science-intern-summer-2026/	Data Science Intern (Summer 2026)	dedup_014
+2026-04-16	Dropbox	https://www.dropbox.jobs/en/jobs/7527941/data-science-engineer-intern-summer-2026/	Data Science Engineer Intern (Summer 2026)	report_076
+2026-04-16	Rippling	https://ats.rippling.com/rippling/jobs/2f242b59-eee3-41f5-a5d7-55b7545cb9fb	Full Stack Software Engineer Intern - Summer 2026	dedup_027
+2026-04-16	Navan	https://boards-api.greenhouse.io/v1/boards/navan/jobs	(board scan)	no_interns
+2026-04-16	Flexport	https://boards-api.greenhouse.io/v1/boards/flexport/jobs	(board scan)	no_interns
+2026-04-16	Verkada	https://job-boards.greenhouse.io/verkada/jobs/4836993007	Backend Software Engineering Intern 2026	no_match_grad_jun2027
+2026-04-16	Samsara	https://www.samsara.com/company/careers/roles/7179025	Software Engineering Intern SF	no_match_grad_spring2028_not_in_window
+2026-04-16	Whatnot	https://jobs.ashbyhq.com/whatnot	(board scan)	no_match_grad
+2026-04-16	Etsy	https://careers.etsy.com/jobs/software-engineering-intern-2026-brooklyn-ny-brooklyn-new-york-united-states	Software Engineering Intern 2026 (Brooklyn)	no_match_grad_mid2027
+2026-04-16	Deel	https://boards-api.greenhouse.io/v1/boards/deel/jobs	(board scan)	no_interns
+2026-04-16	Webflow	https://boards-api.greenhouse.io/v1/boards/webflow/jobs	(board scan)	no_interns
+2026-04-16	Anduril	https://job-boards.greenhouse.io/andurilindustries/jobs/4807506007	Software Engineer Intern	no_match_grad_rising_senior
+2026-04-16	Shield AI	https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f	Software Engineering Intern 2026 Summer	no_match_grad_dec2026_spr2027
+2026-04-16	Tempus	https://www.tempus.com/about-us/careers/	(board scan)	no_match_grad_undergrad_2026
+2026-04-16	Recursion	https://www.recursion.com/careers	(board scan)	dedup_020
+2026-04-16	insitro	https://www.insitro.com/join-us/	(board scan)	dedup_057
+2026-04-16	Cruise	https://getcruise.com/careers	(board scan)	no_interns_confirmed
+2026-04-16	Nuro	https://boards-api.greenhouse.io/v1/boards/nuro/jobs	(board scan)	dedup_023
+2026-04-16	Aurora	https://aurora.tech/careers	(board scan)	dedup_028
+2026-04-16	Waymo	https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineer-multiverse-mountain-view-california-united-states	Software Engineer Multiverse BS/MS Intern	dedup_015_new_team_apply
+2026-04-16	Waymo	https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-positioning-software-engineer-mountain-view-california-united-states	Positioning Software Engineer BS/MS Intern	dedup_015_cpp_heavy
+2026-04-16	Waymo	https://www.builtinsf.com/job/2026-summer-intern-bs-ms-fullstack-software-engineer-data-tooling/7337214	Fullstack SWE Data Tooling BS/MS Intern	dedup_015_new_team_apply
+2026-04-16	Duolingo	https://careers.duolingo.com/?type=Intern	(board scan)	no_match_grad_deadline_past
+2026-04-16	Toast	https://careers.toasttab.com/early-career	(board scan)	no_interns_2026
+2026-04-16	Gusto	https://job-boards.greenhouse.io/gusto/jobs/7238671	Software Engineering Intern (Summer 2026)	dedup_054
+2026-04-16	Gusto	https://job-boards.greenhouse.io/gusto/jobs/7551561	Software Engineering Apprenticeship (Summer 2026)	no_match_wrong_format_6mo
+2026-04-16	Glean	https://job-boards.greenhouse.io/gleanwork/jobs/4595665005	Software Engineer Intern (Summer 2026)	no_match_grad_spr2027
+2026-04-16	Sigma Computing	https://job-boards.greenhouse.io/sigmacomputing/jobs/7588094003	Software Engineering Intern (Summer 2026)	dedup_008
+2026-04-16	Salesforce	https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/	Summer 2026 Intern - Software Engineer	dedup_025
+2026-04-16	ServiceNow	https://careers.servicenow.com/jobs/744000080670612/machine-learning-engineer-intern-summer-2026/	Machine Learning Engineer Intern Summer 2026	dedup_072
+2026-04-16	ServiceNow	https://careers.servicenow.com/jobs/744000079993731/utg-software-engineer-internships-summer-2026/	UTG Software Engineer Internships Summer 2026	dedup_018
+2026-04-16	Waymo	https://careers.withwaymo.com/jobs	(board scan)	multiple_bs_ms_teams_see_015
+2026-04-16	Two Sigma	https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/13353	Software Engineering Internship NYC	dedup_038
+2026-04-16	Two Sigma	https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Internship-Summer-2026/13585	Data Scientist Internship Summer 2026	dedup_075
+2026-04-16	Jane Street	https://www.janestreet.com/join-jane-street/internships/	(board scan)	dedup_041
+2026-04-16	Citadel	https://www.citadel.com/careers/details/software-engineer-intern-us/	Software Engineer Intern US	dedup_039
+2026-04-16	Point72	https://job-boards.greenhouse.io/point72/jobs/8169852002	2026 Summer Internship - AI Engineer (IVS)	report_079
+2026-04-16	Point72	https://job-boards.greenhouse.io/point72/jobs/8500448002	2026 AI Engineer Intern Long/Short Equities	no_match_verify_active
+2026-04-16	Box	https://job-boards.greenhouse.io/boxinc/jobs/7553772	Software Engineering Intern - Summer 2026	no_match_grad_dec2026_jun2027
