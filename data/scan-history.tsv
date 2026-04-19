@@ -417,3 +417,58 @@ date	company	url	title	result
 2026-04-16	Point72	https://job-boards.greenhouse.io/point72/jobs/8169852002	2026 Summer Internship - AI Engineer (IVS)	report_079
 2026-04-16	Point72	https://job-boards.greenhouse.io/point72/jobs/8500448002	2026 AI Engineer Intern Long/Short Equities	no_match_verify_active
 2026-04-16	Box	https://job-boards.greenhouse.io/boxinc/jobs/7553772	Software Engineering Intern - Summer 2026	no_match_grad_dec2026_jun2027
+2026-04-19	Snap	https://careers.snap.com/job?id=R0045123	Machine Learning Engineering Intern (London)	no_match_location
+2026-04-19	Pinterest	https://www.pinterestcareers.com/jobs/7241510/software-engineer-intern-2026/	Software Engineer Intern 2026 (Seattle)	report_080
+2026-04-19	Pinterest	https://www.pinterestcareers.com/jobs/7263499	Software Engineering Intern 2026 (Mexico City)	no_match_location
+2026-04-19	Pinterest	https://www.pinterestcareers.com/jobs/7211004	PhD Machine Learning Internship 2026 (USA)	no_match_degree
+2026-04-19	Pinterest	https://www.pinterestcareers.com/jobs/7268778	Machine Learning Intern Fall 2026 (Toronto)	no_match_timing
+2026-04-19	Reddit	https://boards-api.greenhouse.io/v1/boards/reddit/jobs	(board scan)	no_interns
+2026-04-19	Discord	https://discord.com/jobs/7003700002	Data Engineer Intern	report_081
+2026-04-19	Discord	https://discord.com/jobs/7003727002	Data Science Intern, Causal Inference	no_match_degree
+2026-04-19	Discord	https://discord.com/jobs/7007246002	Creative Intern	no_match_role
+2026-04-19	Spotify	https://jobs.lever.co/spotify	(board scan)	deadline_passed_all
+2026-04-19	Palantir	https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f	Forward Deployed SE Internship – France	no_match_location
+2026-04-19	Palantir	https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6	Product Designer Internship	no_match_role_grad
+2026-04-19	Palantir	https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e	Deployment Strategist Internship – US Government	no_match_grad_domain
+2026-04-19	Apple	https://jobs.apple.com/en-us/details/200606145/software-engineering-internships	Software Engineering Internships	no_match_grad
+2026-04-19	Apple	https://jobs.apple.com/en-us/details/200606799/mba-internships-summer-2026	MBA Internships Summer 2026	no_match_degree
+2026-04-19	Netflix	https://explore.jobs.netflix.net/careers/job/790312415414	Machine Learning Engineer Intern (MS/PhD) 2026	no_match_degree
+2026-04-19	Netflix	https://explore.jobs.netflix.net/careers/job/790312415420	ML/AI Scientist Intern (PhD) 2026	no_match_degree
+2026-04-19	Uber	https://www.builtinsf.com/job/software-engineer-intern-summer-2026/7482937	Software Engineer Intern – Uber Freight Summer 2026	below_comp
+2026-04-19	Lyft	https://boards.greenhouse.io/lyft/jobs/8168699002	Software Engineer Intern, Machine Learning (Toronto)	no_match_location
+2026-04-19	Lyft	https://boards.greenhouse.io/lyft/jobs/8149465002	Data Science Intern, Decisions – Product	no_match_degree
+2026-04-19	Airbnb	https://careers.airbnb.com/positions/7556971/	Advanced Analytics Intern (MS/MBA)	no_match_degree
+2026-04-19	Airbnb	https://careers.airbnb.com/positions/7669906/	Machine Learning Engineering Intern (PhD)	no_match_degree
+2026-04-19	DoorDash	https://job-boards.greenhouse.io/doordashcanada/jobs/7263628	Software Engineer Intern – Toronto	no_match_location
+2026-04-19	DoorDash	https://job-boards.greenhouse.io/doordashusa/jobs/7263610	Software Engineer I Entry-Level	no_match_timing
+2026-04-19	Instacart	https://www.instacart.careers/current-openings	(board scan)	no_interns
+2026-04-19	Google	https://www.google.com/about/careers/applications/jobs/results/73675009016373958-software-engineering-intern-summer-2026	Software Engineering Intern, Summer 2026	report_082
+2026-04-19	Google	https://www.google.com/about/careers/applications/jobs/results/139918130284503750-software-developer-intern-bs-summer-2026	Software Developer Intern, BS, Summer 2026 (Canada)	no_match_location
+2026-04-19	Google	https://www.google.com/about/careers/applications/jobs/results/135846492295307974-research-scientist-intern-summer-2026	Research Scientist Intern, Summer 2026	no_match_degree
+2026-04-19	Google	https://www.google.com/about/careers/applications/jobs/results/129234040505934534-software-engineering-phd-intern-summer-2026	Software Engineering PhD Intern, Summer 2026	no_match_degree
+2026-04-19	Google	https://www.google.com/about/careers/applications/jobs/results/134255554804490950-software-engineering-intern-2026-spanish-english	Software Engineering Intern 2026 (Spanish/English)	no_match_location
+2026-04-19	Google	https://www.google.com/about/careers/applications/jobs/results/117118476782314182-software-engineering-intern-ms-summer-2026	Software Engineering Intern, MS, Summer 2026	no_match_degree
+2026-04-19	Google	https://www.google.com/about/careers/applications/jobs/results/78833989648818886-software-engineering-intern	Software Engineering Intern, 2026	dedup_060_variant
+2026-04-19	Meta	https://www.metacareers.com/jobs/828130993062040	Data Scientist Intern, Product Analytics (PhD)	no_match_degree
+2026-04-19	Meta	https://www.metacareers.com/jobs/532549086023158	Research Scientist Intern, AI Core ML (PhD)	no_match_degree
+2026-04-19	Amazon	https://www.amazon.jobs/en/jobs/3137672/2026-annapurna-labs-at-aws-internships-us-machine-learning-systems-silicon-innovation	2026 Annapurna Labs AWS – ML Systems & Silicon Innovation	report_084
+2026-04-19	Amazon	https://amazon.jobs/en/jobs/3116034/software-development-engineer-internship-summer-2026-canada	Software Development Engineer Internship Summer 2026 (Canada)	no_match_location
+2026-04-19	Microsoft	https://jobs.careers.microsoft.com/global/en/job/1763841/Software-Engineering:-Internship-Opportunities	Software Engineering: Internship Opportunities	report_083
+2026-04-19	Microsoft	https://jobs.careers.microsoft.com/global/en/job/1782950/Research-Intern---Artificial-Specialized-Intelligence	Research Intern – Artificial Specialized Intelligence	report_085
+2026-04-19	Microsoft	https://jobs.careers.microsoft.com/global/en/job/1663976/Research-Intern---Artificial-Intelligence	Research Intern – Artificial Intelligence	no_match_skills
+2026-04-19	Microsoft	https://jobs.careers.microsoft.com/global/en/job/1662568/Research-Intern---Human-oriented-Artificial-Intelligence	Research Intern – Human-oriented Artificial Intelligence	no_match_skills
+2026-04-19	Two Sigma	https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Product-Capital-Strategy-Intern-Summer-2026/13652	Product & Capital Strategy Intern Summer 2026	report_088
+2026-04-19	Jane Street	https://www.janestreet.com/join-jane-street/position/8062907002/	Linux Engineer – 2026 Summer Internship	no_match_skills
+2026-04-19	Jane Street	https://www.janestreet.com/join-jane-street/position/8065576002/	Network Engineer – 2026 Summer Internship	no_match_skills
+2026-04-19	Jane Street	https://www.janestreet.com/careers/	IT Operations Engineer – 2026 Summer Internship	no_match_role
+2026-04-19	Citadel	https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/	Quantitative Research Analyst Intern – BS/MS (US)	report_086
+2026-04-19	Citadel Securities	https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/	Quantitative Research Analyst Intern – BS/MS (Citadel Securities)	report_086_related
+2026-04-19	Citadel	https://www.citadel.com/careers/details/launch-intern-us/	Launch Intern (US)	no_match_grad_sophomore_only
+2026-04-19	Citadel Securities	https://www.citadelsecurities.com/careers/details/launch-intern-us/	Launch Intern (US) – Citadel Securities	no_match_grad_sophomore_only
+2026-04-19	Citadel Securities	https://www.citadelsecurities.com/careers/details/campus-26-trading-fundamental-analyst-intern-us/	Campus 26 Trading Fundamental Analyst Intern	no_match_grad_class_2026
+2026-04-19	DE Shaw	https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2026-5519	Quantitative Analyst Intern (NY) Summer 2026	no_match_grad_closed
+2026-04-19	DE Shaw	https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2026-5520	Quantitative Analyst PhD Intern	no_match_degree
+2026-04-19	DE Shaw	https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2026-5522	Software Developer PhD Intern	no_match_degree
+2026-04-19	HRT	https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2026-2/	Algorithm Development (Quant Research) Internship Summer 2026	no_match_closed
+2026-04-19	HRT	https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-phd-internship-summer-2026-3/	Algorithm Development (Quant Research) PhD Internship Summer 2026	no_match_degree_closed
+2026-04-19	Jump Trading	https://www.jumptrading.com/careers/6946008/	Campus Software Engineer Intern	report_087
