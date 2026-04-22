@@ -2,6 +2,8 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 93 | 2026-04-22 | Anthropic | Fellows Program | 3.0/5 | Evaluada | ❌ | [093](reports/093-anthropic-fellows-2026-04-22.md) | ⚠️ DEADLINE APR 26 (4 days). AI safety research fellowship $3,850/wk (~$96/hr). Apply ONLY if genuinely motivated by AI safety — not a product eng role. ML Systems track = best fit for George. |
+| 94 | 2026-04-22 | Hugging Face | MLE Internship, Computer Vision | 3.0/5 | Evaluada | ❌ | [094](reports/094-huggingface-cv-intern-2026-04-22.md) | US Remote. ~$42-83/hr. Gesture Canvas = direct CV proof point but lacks model training depth. MS/PhD typically preferred. Low-cost reach application. |
 | 92 | 2026-04-22 | Citadel | Launch Intern (US) | 3.8/5 | Evaluada | ❌ | [092](reports/092-citadel-launch-intern-2026-04-22.md) | NYC or Miami on-site. $4,300-4,800/wk ($107-120/hr). Sophomore program — George qualifies (2nd year, Jun 2028). Apply alongside report_039 (SWE Intern). Same comp, different track. |
 | 91 | 2026-04-22 | Microsoft | Software Engineer: AI/ML Intern Opportunities for University Students | 4.2/5 | Evaluada | ❌ | [091](reports/091-microsoft-aiml-intern-2026-04-22.md) | Redmond WA. ~$52.50/hr (MAI division). Claude API/scikit-learn explicit match. BS-eligible, 1 sem remaining req. Apply alongside report_083. |
 | 89 | 2026-04-19 | Sentry | Software Engineer, Intern (Summer 2026) | 3.7/5 | Evaluada | ❌ | [089](reports/089-sentry-swe-2026-04-19.md) | $53.13/hr. SF hybrid 3 days/wk. Python/JS match. No grad year restriction — rising junior qualifies (Seismos satisfies 1-internship req). Real production code. Apply after top AI priorities. |
