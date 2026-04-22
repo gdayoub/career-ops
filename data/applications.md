@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 95 | 2026-04-22 | Dropbox | Software Engineer Intern (Summer 2026) | 4.0/5 | Evaluada | ❌ | [95](reports/095-dropbox-swe-intern-2026-04-22.md) | Remote US, ~$55/hr, underclassmen track (grad 2027-2028) — AI/Dash team option, Python/JS stack match |
 | 93 | 2026-04-22 | Anthropic | Fellows Program | 3.0/5 | Evaluada | ❌ | [093](reports/093-anthropic-fellows-2026-04-22.md) | ⚠️ DEADLINE APR 26 (4 days). AI safety research fellowship $3,850/wk (~$96/hr). Apply ONLY if genuinely motivated by AI safety — not a product eng role. ML Systems track = best fit for George. |
 | 94 | 2026-04-22 | Hugging Face | MLE Internship, Computer Vision | 3.0/5 | Evaluada | ❌ | [094](reports/094-huggingface-cv-intern-2026-04-22.md) | US Remote. ~$42-83/hr. Gesture Canvas = direct CV proof point but lacks model training depth. MS/PhD typically preferred. Low-cost reach application. |
 | 92 | 2026-04-22 | Citadel | Launch Intern (US) | 3.8/5 | Evaluada | ❌ | [092](reports/092-citadel-launch-intern-2026-04-22.md) | NYC or Miami on-site. $4,300-4,800/wk ($107-120/hr). Sophomore program — George qualifies (2nd year, Jun 2028). Apply alongside report_039 (SWE Intern). Same comp, different track. |
