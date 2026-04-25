@@ -747,3 +747,31 @@ date	company	url	title	result
 2026-04-22	Two Sigma	https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Internship-Summer-2026/13585	Data Scientist Internship Summer 2026	dedup_075
 2026-04-22	Jane Street	https://www.janestreet.com/join-jane-street/internships/	(board scan)	no_match_closed
 2026-04-22	Citadel	https://www.citadel.com/careers/details/software-engineer-intern-us/	Software Engineer Intern (US)	dedup_039
+2026-04-25	Google	https://www.google.com/about/careers/applications/internships	(board scan)	no_new_bs_roles
+2026-04-25	Meta	https://www.metacareers.com/careerprograms/students	(board scan)	no_new_bs_roles
+2026-04-25	Amazon	https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category=software-development&business_category[]=amazon-university-talent-acquisition	(board scan)	no_new_bs_roles
+2026-04-25	Microsoft	https://jobs.careers.microsoft.com/global/en/job/1743242/Software-Engineering:-Internship-Opportunity	Software Engineering: Internship Opportunity	dedup_034_083_variant
+2026-04-25	Microsoft	https://jobs.careers.microsoft.com/global/en/job/1755598/Software-Engineer---The-Coalition-Summer-Internship-Opportunities	Software Engineer - The Coalition Summer Internship	no_match_domain_gaming
+2026-04-25	Apple	https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN	(board scan)	no_new_bs_roles
+2026-04-25	Netflix	https://jobs.netflix.com/intern-program	(board scan)	no_fetch_403
+2026-04-25	Uber	https://jobs.uber.com/en/teams/emerging-talent/	(board scan)	no_new_interns
+2026-04-25	Lyft	https://boards-api.greenhouse.io/v1/boards/lyft/jobs	(board scan)	api_403
+2026-04-25	Airbnb	https://boards-api.greenhouse.io/v1/boards/airbnb/jobs	(board scan)	api_403
+2026-04-25	Airbnb	https://careers.airbnb.com/connect-engineering-apprenticeship/	Engineering Apprentice, Connect Program	no_match_eligibility_enrolled_students_excluded
+2026-04-25	DoorDash	https://boards-api.greenhouse.io/v1/boards/doordash/jobs	(board scan)	api_403
+2026-04-25	Instacart	https://boards-api.greenhouse.io/v1/boards/instacart/jobs	(board scan)	api_403
+2026-04-25	Snap	https://boards-api.greenhouse.io/v1/boards/snap/jobs	(board scan)	api_403
+2026-04-25	Pinterest	https://boards-api.greenhouse.io/v1/boards/pinterest/jobs	(board scan)	api_403
+2026-04-25	Reddit	https://boards-api.greenhouse.io/v1/boards/reddit/jobs	(board scan)	api_403
+2026-04-25	Discord	https://boards-api.greenhouse.io/v1/boards/discord/jobs	(board scan)	api_403
+2026-04-25	Spotify	https://jobs.lever.co/spotify	(board scan)	all_closed_deadline_passed
+2026-04-25	Palantir	https://jobs.lever.co/palantir/2fb19022-bb65-4af8-b6fa-31beb345c140	Software Engineer, Internship	no_match_grad_2027_only
+2026-04-25	Palantir	https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636	Forward Deployed Software Engineer, Internship - Commercial	no_match_grad_2027_only
+2026-04-25	Palantir	https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e	Forward Deployed Software Engineer, Internship - US Government	no_match_grad_2026_only
+2026-04-25	Palantir	https://jobs.lever.co/palantir/9410b487-c6c0-4178-903c-3311ce6b1861	Year at Palantir, Internship - Washington DC	no_match_grad_2026_only
+2026-04-25	Two Sigma	https://careers.twosigma.com/careers/JobDetail	(board scan)	no_new_interns
+2026-04-25	Jane Street	https://www.janestreet.com/join-jane-street/internships/	(board scan)	no_match_closed
+2026-04-25	Citadel	https://www.citadel.com/careers/	(board scan)	no_new_interns
+2026-04-25	DE Shaw	https://www.deshaw.com/careers/internships	(board scan)	no_new_interns
+2026-04-25	HRT	https://www.hudsonrivertrading.com/student-opportunities/	(board scan)	all_closed_summer2026
+2026-04-25	Jump Trading	https://www.jumptrading.com/careers/	(board scan)	no_new_interns
