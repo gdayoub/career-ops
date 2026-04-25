@@ -813,3 +813,98 @@ date	company	url	title	result
 2026-04-25	Mistral	https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5	Applied AI Forward Deployed ML Eng Internship	no_match_location
 2026-04-25	W&B	https://jobs.lever.co/wandb	(board scan)	no_interns
 2026-04-25	Hugging Face	https://apply.workable.com/huggingface	(board scan)	no_new_interns
+date	company	url	title	result
+2026-04-25	Stripe	https://boards-api.greenhouse.io/v1/boards/stripe/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (Software Engineer Intern, Data Analyst Intern, PhD DS/MLE Interns — all closed)
+2026-04-25	Plaid	https://boards-api.greenhouse.io/v1/boards/plaid/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs no listings (0 active or inactive)
+2026-04-25	Brex	https://boards-api.greenhouse.io/v1/boards/brex/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (Software Engineer Intern — closed 2mo ago)
+2026-04-25	Mercury	https://boards-api.greenhouse.io/v1/boards/mercury/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (Android Intern, Full-stack Intern, Data Science Intern — all closed)
+2026-04-25	Ramp	https://boards-api.greenhouse.io/v1/boards/ramp/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (Backend report_006, Frontend report_077, Forward Deployed: no_match_score, AI Ops: closed, Applied Scientist 🎓: no_match_degree)
+2026-04-25	Robinhood	https://boards-api.greenhouse.io/v1/boards/robinhood/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (Backend SWE Intern, MLE Intern — all closed; iOS/Android/Web previously no_match_grad)
+2026-04-25	Coinbase	https://boards-api.greenhouse.io/v1/boards/coinbase/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (SWE report_024, MLE report_078, PM Intern, Sales Intern, Payments Risk Intern — all closed)
+2026-04-25	Block	https://boards-api.greenhouse.io/v1/boards/block/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (SWE report_026, Mobile no_match_skills, AI PhD Intern 🎓, DL Research Intern 🎓, Embedded no_match_skills)
+2026-04-25	Chime	https://boards-api.greenhouse.io/v1/boards/chime/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs 0 listings found (active or inactive)
+2026-04-25	Affirm	https://boards-api.greenhouse.io/v1/boards/affirm/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs 1 active (Apprentice — see below)
+2026-04-25	Affirm	https://job-boards.greenhouse.io/affirm/jobs/7647925003	Software Engineering Apprentice - Backend	no_match_eligibility — apprenticeship (12mo program for career changers, not enrolled students; pattern matches Airbnb/Gusto exclusions)
+2026-04-25	SoFi	https://boards-api.greenhouse.io/v1/boards/sofi/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (6 SWE roles, 2 Data roles — all closed; grad req mismatch confirmed per dedup)
+2026-04-25	Atlassian	https://boards-api.greenhouse.io/v1/boards/atlassian/jobs	(board scan)	no_match_grad — SWE/DE/DS interns all require graduating by June 2027; George graduates June 2028. ML Intern requires active masters enrollment. All roles fail grad constraint.
+2026-04-25	HubSpot	https://boards-api.greenhouse.io/v1/boards/hubspot/jobs	(board scan)	no_interns — No active Summer 2026 SWE/DS/ML intern posting found. General program info only.
+2026-04-25	Twilio	https://boards-api.greenhouse.io/v1/boards/twilio/jobs	Software Engineer Intern - United States (job 7560246)	report_102 — 3.6/5. Summer 2026 (Jun 22–Sep 11), remote-US, bachelor+, Python/JS/C++/Go. Apply.
+2026-04-25	Grammarly	https://boards-api.greenhouse.io/v1/boards/grammarly/jobs	Software Engineer Intern Summer 2026 (gh_jid 7491439)	report_103 — 3.7/5. New listing distinct from report_021 (7255327). SF or Berlin hub. Apply SF only.
+2026-04-25	Zoom	https://boards-api.greenhouse.io/v1/boards/zoomvideocommunications/jobs	Software Developer Engineer Intern - San Jose	report_104 — 3.2/5. San Jose on-site, Java/Spring Boot required, AI Contact Center. Do not apply (Java gap).
+2026-04-25	Intercom	https://boards-api.greenhouse.io/v1/boards/intercom/jobs	Engineering Intern (job 6262761)	no_match_location — Greenhouse listing active but Intercom HQ Dublin; hybrid 3 days/week in-office. George is US-only. Logged as no_match_location.
+2026-04-25	CrowdStrike	https://boards-api.greenhouse.io/v1/boards/crowdstrike/jobs	Software Engineer Intern – Summer 2026 (R26636)	no_match_grad — Still requires graduation Dec 2026 – Aug 2027. George graduates June 2028. Dedup confirmed.
+2026-04-25	SentinelOne	https://boards-api.greenhouse.io/v1/boards/sentinelone/jobs	(board scan)	no_interns — No Summer 2026 SWE/DS/ML intern posting found on Greenhouse (sentinellabs board).
+2026-04-25	Palo Alto Networks	https://boards-api.greenhouse.io/v1/boards/paloaltonetworks/jobs	(board scan)	dedup — report_055 already covers bachelor SWE intern. Master's SWE intern also found but requires masters enrollment. No new qualifying roles.
+2026-04-25	Vanta	https://boards-api.greenhouse.io/v1/boards/vanta/jobs	(board scan)	no_interns_2026 — Vanta uses Ashby (jobs.ashbyhq.com/vanta), not Greenhouse. No active Summer 2026 intern posting confirmed.
+2026-04-25	Cloudflare	https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs	(board scan)	API 403 — used WebSearch fallback. Found: SWE (dedup_005), DS (dedup_073), Research Engineer (NEW→report_107), Data Engineer (no_match_ms_required), Data Analytics (no_match_role), Research Engineer (report_107)
+2026-04-25	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/7358525	Research Engineer Intern (Summer 2026)	report_107 (3.8/5)
+2026-04-25	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/7374706	Data Engineer Intern (Summer 2026)	no_match_ms_required (requires M.S. enrollment, George is B.S.)
+2026-04-25	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/7206269	Software Engineer Intern (Summer 2026) - Austin TX	dedup (report_005 exists)
+2026-04-25	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/7444764	Data Science Intern (Summer 2026)	dedup (report_073 exists)
+2026-04-25	MongoDB	https://boards-api.greenhouse.io/v1/boards/mongodb/jobs	(board scan)	API 403 — used WebSearch fallback. SWE AMER = same posting as dedup (report_019).
+2026-04-25	MongoDB	https://www.mongodb.com/careers/job/?gh_jid=7239454	2026 - Software Engineering Intern, AMER	dedup (report_019 exists, same posting)
+2026-04-25	Snowflake	https://boards-api.greenhouse.io/v1/boards/snowflake/jobs	(board scan)	API 403 — used careers.snowflake.com + WebSearch fallback. AI/ML SWE dedup (report_053). Two new DS/DE roles found.
+2026-04-25	Snowflake	https://careers.snowflake.com/us/en/job/SNCOUS7FDC4A005ECE47ABBEFADE494832CBB8EXTERNALENUS3F8011FD91DC4DC0AE7786AC641AFF3E/Data-Science-Intern-Summer-2026	Data Science Intern - Summer 2026	report_108 (4.2/5)
+2026-04-25	Snowflake	https://careers.snowflake.com/us/en/job/SNCOUS4D3EECA579D242A29DE41B7710A39043EXTERNALENUSB33F19C8E57E4D9F87D9EC2E3E3E3A22/Data-Engineering-Intern-Summer-2026	Data Engineering Intern - Summer 2026	report_109 (3.9/5)
+2026-04-25	Snowflake	https://careers.snowflake.com/us/en/job/SNCOUSD120A7EED3624463BFE2C36B2C3A5720EXTERNALENUSC300639AA6CC4D72818582FE23119E87/Product-Management-Intern-Summer-2026	Product Management Intern - Summer 2026	no_match_role (PM role, not SWE/DS/ML)
+2026-04-25	Elastic	https://boards-api.greenhouse.io/v1/boards/elastic/jobs	(board scan)	API 403 — WebSearch found no 2026 intern postings. Confirmed no_interns.
+2026-04-25	Confluent	https://boards-api.greenhouse.io/v1/boards/confluent/jobs	(board scan)	API 403 — WebSearch found SWE intern but grad requirement Dec 2026–Aug 2027 only. George (Jun 2028) ineligible. Confirmed no_match_grad.
+2026-04-25	Confluent	https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a	2026 Confluent Software Engineering Intern (Austin)	no_match_grad (requires Dec 2026 – Aug 2027 graduation; George = Jun 2028)
+2026-04-25	HashiCorp	https://boards-api.greenhouse.io/v1/boards/hashicorp/jobs	(board scan)	API 403 — WebSearch confirmed "no open intern positions." Confirmed no_interns.
+2026-04-25	Grafana Labs	https://boards-api.greenhouse.io/v1/boards/grafanalabs/jobs	(board scan)	API 403 — WebSearch found no 2026 intern postings on Greenhouse. Confirmed no_interns.
+2026-04-25	DigitalOcean	https://boards-api.greenhouse.io/v1/boards/digitalocean/jobs	(board scan)	API 403 — WebSearch found Engineering Intern (Summer 2026) = same posting as dedup (report_056).
+2026-04-25	DigitalOcean	https://boards.greenhouse.io/embed/job_board?for=digitalocean98	Engineering Intern (Summer 2026)	dedup (report_056 exists, same posting, 4.0/5)
+2026-04-25	PagerDuty	https://boards-api.greenhouse.io/v1/boards/pagerduty/jobs	(board scan)	API 403 — WebSearch found no 2026 intern postings. Confirmed no_interns.
+2026-04-25	Figma	https://boards-api.greenhouse.io/v1/boards/figma/jobs	(board scan)	api_blocked — dedup_010 (SWE Intern already evaluated)
+2026-04-25	Notion	https://boards-api.greenhouse.io/v1/boards/notion/jobs	(board scan)	api_blocked — dedup_002 (SWE), dedup_003 (AI), dedup_096 (Fall SWE)
+2026-04-25	Notion	https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4	Software Engineer Intern, Mobile (Summer 2026)	dedup_no_match_skills (logged 2026-04-16)
+2026-04-25	Canva	https://boards-api.greenhouse.io/v1/boards/canva/jobs	(board scan)	api_blocked — no_interns (confirmed via community list; AU-only position not US)
+2026-04-25	Airtable	https://boards-api.greenhouse.io/v1/boards/airtable/jobs	(board scan)	api_blocked — no_interns (not found in community lists)
+2026-04-25	Asana	https://boards-api.greenhouse.io/v1/boards/asana/jobs	(board scan)	api_blocked — SWE no_match_grad
+2026-04-25	Asana	https://asana.com/jobs/apply/7078152	Data Science Intern (San Francisco, CA) — Summer 2026	likely_no_match_grad (same Asana window Dec2026-May2027; verify before applying)
+2026-04-25	Asana	https://asana.com/jobs/apply/7071272	Data Science Intern (New York, NY) — Summer 2026	likely_no_match_grad (same Asana window; verify before applying)
+2026-04-25	Asana	https://asana.com/jobs/apply/7078192	Data Science Intern (Vancouver, Canada) — Summer 2026	skipped_location_canada
+2026-04-25	Dropbox	https://boards-api.greenhouse.io/v1/boards/dropbox/jobs	(board scan)	api_blocked — dedup_014 (DS), dedup_076 (DS Engineer), dedup_095 (SWE)
+2026-04-25	Rippling	https://ats.rippling.com/en-GB/rippling/jobs/4e31af9a-22ae-467c-aac6-24c5569aa459	Machine Learning Engineer Intern	report_111 (4.3/5 — NEW)
+2026-04-25	Rippling	https://ats.rippling.com/en-GB/rippling/jobs/2f242b59-eee3-41f5-a5d7-55b7545cb9fb	Full Stack Software Engineer Intern	dedup_027
+2026-04-25	Rippling	https://ats.rippling.com/en-GB/rippling/jobs/e4caf979-a0aa-48c8-94f6-31bb3deeef5b	Software Engineer Intern, Backend Focused	report_112 (4.4/5 — NEW)
+2026-04-25	Navan	https://boards-api.greenhouse.io/v1/boards/navan/jobs	(board scan)	api_blocked — no_interns (not found in community lists)
+2026-04-25	Flexport	https://boards-api.greenhouse.io/v1/boards/flexport/jobs	(board scan)	api_blocked — no_interns (not found in community lists)
+2026-04-25	Verkada	https://boards-api.greenhouse.io/v1/boards/verkada/jobs	(board scan)	api_blocked — Backend no_match_grad (Jun2027 req); Frontend no_match_grad
+2026-04-25	Samsara	https://boards-api.greenhouse.io/v1/boards/samsara/jobs	(board scan)	api_blocked — no_match_grad (Spring 2028 not in window)
+2026-04-25	Whatnot	https://boards-api.greenhouse.io/v1/boards/whatnot/jobs	(board scan)	api_blocked — no_match_grad (Dec2026/Summer2027 req)
+2026-04-25	Etsy	https://boards-api.greenhouse.io/v1/boards/etsy/jobs	(board scan)	api_blocked — no_match_grad (mid-2027 grads)
+2026-04-25	Deel	https://boards-api.greenhouse.io/v1/boards/deel/jobs	(board scan)	api_blocked — no_interns
+2026-04-25	Webflow	https://boards-api.greenhouse.io/v1/boards/webflow/jobs	(board scan)	api_blocked — no_interns
+date	company	url	title	result
+2026-04-25	Anduril	https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	(board scan)	api_403 — dedup: no_match_grad (rising senior req; confirmed 2026-04-22)
+2026-04-25	Shield AI	https://boards-api.greenhouse.io/v1/boards/shieldai/jobs	(board scan)	api_403 — dedup: no_match_grad (Dec2026-Spring2027 req; confirmed 2026-04-22)
+2026-04-25	Tempus	https://boards-api.greenhouse.io/v1/boards/tempus/jobs	(board scan)	api_403 — dedup: no_match_grad (graduating Summer2026 req; confirmed 2026-04-22)
+2026-04-25	Recursion	https://boards-api.greenhouse.io/v1/boards/recursion/jobs	(board scan)	api_403 — dedup_020 (already evaluated; confirmed 2026-04-22)
+2026-04-25	insitro	https://boards-api.greenhouse.io/v1/boards/insitro/jobs	(board scan)	api_403 — dedup_057 (already evaluated; confirmed 2026-04-22)
+2026-04-25	Cruise	https://boards-api.greenhouse.io/v1/boards/cruise/jobs	(board scan)	api_403 — no_interns_confirmed (confirmed 2026-04-16)
+2026-04-25	Nuro	https://boards-api.greenhouse.io/v1/boards/nuro/jobs	(board scan)	api_403 — dedup_023 (already evaluated; confirmed 2026-04-22)
+2026-04-25	Aurora	https://boards-api.greenhouse.io/v1/boards/auroradriver/jobs	(board scan)	api_403 — dedup_028 (already evaluated; confirmed 2026-04-22)
+2026-04-25	Duolingo	https://boards-api.greenhouse.io/v1/boards/duolingo/jobs	(board scan)	api_403 — no_match_grad_deadline_past (confirmed 2026-04-22)
+2026-04-25	Toast	https://boards-api.greenhouse.io/v1/boards/toast/jobs	(board scan)	api_403 — no_interns_2026 (confirmed 2026-04-22)
+2026-04-25	Gusto	https://boards-api.greenhouse.io/v1/boards/gusto/jobs	(board scan)	api_403 — dedup_054 (already evaluated; confirmed 2026-04-22)
+2026-04-25	Glean	https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	(board scan)	api_403 — no_match_grad (Fall2026/Spring2027 req; confirmed 2026-04-22)
+2026-04-25	Sigma Computing	https://boards-api.greenhouse.io/v1/boards/sigmacomputing/jobs	(board scan)	api_403 — dedup_008 (SWE intern already eval'd); AI/ML grad intern: no_match_degree (confirmed 2026-04-22)
+2026-04-25	Salesforce	https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/	Summer 2026 Intern - Software Engineer	already tracked (report_025)
+2026-04-25	Salesforce	https://careers.salesforce.com/en/jobs/jr313214/summer-2026-intern-ai-research/	Summer 2026 Intern - AI Research	skipped — PhD/MS required, not for undergrad
+2026-04-25	Salesforce	https://careers.salesforce.com/en/jobs/jr326900/summer-2026-intern-software-engineering/	Summer 2026 Intern - Software Engineering (Dublin)	skipped — international (Ireland)
+2026-04-25	Salesforce	https://careers.salesforce.com/en/jobs/jr326948/summer-2026-intern-solution-engineer/	Summer 2026 Intern - Solution Engineer	skipped — consulting/sales engineering role
+2026-04-25	ServiceNow	https://careers.servicenow.com/jobs/744000080670612/machine-learning-engineer-intern-summer-2026/	Machine Learning Engineer Intern - Summer 2026	already tracked (report_072)
+2026-04-25	ServiceNow	https://careers.servicenow.com/jobs/744000079993731/utg-software-engineer-internships-summer-2026/	UTG - Software Engineer Internships - Summer 2026	already tracked (report_018)
+2026-04-25	Waymo	https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineer-multiverse-mountain-view-california-united-states	2026 Summer Intern BS/MS Software Engineer Multiverse	already tracked (report_015 — multiple teams noted)
+2026-04-25	Waymo	https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineer-sqr-san-francisco-california-united-states	2026 Summer Intern BS/MS Software Engineer SQR	already tracked (report_015 — multiple teams noted)
+2026-04-25	Waymo	https://app.joinrunway.io/explore/job/cmh0zoule0022ju05i5t6ak40	2026 Summer Intern BS/MS Software Engineering Fleet Response	already tracked (report_015 — multiple teams noted)
+2026-04-25	Two Sigma	https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Product-Capital-Strategy-Intern-Summer-2026/13652	Product & Capital Strategy Intern Summer 2026	already tracked (report_088)
+2026-04-25	Two Sigma	https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Internship-Summer-2026/13585	Data Scientist Internship Summer 2026	already tracked (report_075)
+2026-04-25	The Voleon Group	https://jobs.lever.co/voleon/100b2cb6-f9cc-42c3-add9-db143a76f0f0	Software Engineer Intern Summer 2026	NEW — report_097 (3.8/5)
+2026-04-25	Dex (YC W25)	https://www.ycombinator.com/companies/joindex/jobs/jgOpS9K-2026-summer-ai-ml-engineer-intern	2026 Summer AI/ML Engineer Intern	NEW — report_098 (3.7/5)
+2026-04-25	Cloudglue (YC S24)	https://www.ycombinator.com/companies/cloudglue/jobs/yPXR95r-summer-2026-full-stack-ai-engineer-intern	Summer 2026 Full-Stack AI Engineer Intern	NEW — report_099 (3.6/5)
+2026-04-25	Adobe	https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer	2026 AI/ML Intern - Machine Learning Engineer	skipped — Masters/PhD required
+2026-04-25	Atlassian	https://join.atlassian.com/atlassian-talent-community/jobs/20962	Data Science Intern 2026 Summer US	skipped — Masters required, graduating June 2027 or earlier
+2026-04-25	Crustdata	https://www.ycombinator.com/companies/crustdata/jobs/NS9hTSC-ml-engineer-intern-summer-2026	ML Engineer Intern Summer 2026	skipped — Masters/PhD preferred, research profile required
+2026-04-25	Pendo	https://job-boards.greenhouse.io/pendo/jobs/8185867002	Software Engineer Intern Summer 2026	NEW — report_100 (3.1/5, SKIP — $30/hr below target)

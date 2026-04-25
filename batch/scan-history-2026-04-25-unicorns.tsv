@@ -1,0 +1,21 @@
+2026-04-25	Figma	https://boards-api.greenhouse.io/v1/boards/figma/jobs	(board scan)	api_blocked — dedup_010 (SWE Intern already evaluated)
+2026-04-25	Notion	https://boards-api.greenhouse.io/v1/boards/notion/jobs	(board scan)	api_blocked — dedup_002 (SWE), dedup_003 (AI), dedup_096 (Fall SWE)
+2026-04-25	Notion	https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4	Software Engineer Intern, Mobile (Summer 2026)	dedup_no_match_skills (logged 2026-04-16)
+2026-04-25	Canva	https://boards-api.greenhouse.io/v1/boards/canva/jobs	(board scan)	api_blocked — no_interns (confirmed via community list; AU-only position not US)
+2026-04-25	Airtable	https://boards-api.greenhouse.io/v1/boards/airtable/jobs	(board scan)	api_blocked — no_interns (not found in community lists)
+2026-04-25	Asana	https://boards-api.greenhouse.io/v1/boards/asana/jobs	(board scan)	api_blocked — SWE no_match_grad
+2026-04-25	Asana	https://asana.com/jobs/apply/7078152	Data Science Intern (San Francisco, CA) — Summer 2026	likely_no_match_grad (same Asana window Dec2026-May2027; verify before applying)
+2026-04-25	Asana	https://asana.com/jobs/apply/7071272	Data Science Intern (New York, NY) — Summer 2026	likely_no_match_grad (same Asana window; verify before applying)
+2026-04-25	Asana	https://asana.com/jobs/apply/7078192	Data Science Intern (Vancouver, Canada) — Summer 2026	skipped_location_canada
+2026-04-25	Dropbox	https://boards-api.greenhouse.io/v1/boards/dropbox/jobs	(board scan)	api_blocked — dedup_014 (DS), dedup_076 (DS Engineer), dedup_095 (SWE)
+2026-04-25	Rippling	https://ats.rippling.com/en-GB/rippling/jobs/4e31af9a-22ae-467c-aac6-24c5569aa459	Machine Learning Engineer Intern	report_111 (4.3/5 — NEW)
+2026-04-25	Rippling	https://ats.rippling.com/en-GB/rippling/jobs/2f242b59-eee3-41f5-a5d7-55b7545cb9fb	Full Stack Software Engineer Intern	dedup_027
+2026-04-25	Rippling	https://ats.rippling.com/en-GB/rippling/jobs/e4caf979-a0aa-48c8-94f6-31bb3deeef5b	Software Engineer Intern, Backend Focused	report_112 (4.4/5 — NEW)
+2026-04-25	Navan	https://boards-api.greenhouse.io/v1/boards/navan/jobs	(board scan)	api_blocked — no_interns (not found in community lists)
+2026-04-25	Flexport	https://boards-api.greenhouse.io/v1/boards/flexport/jobs	(board scan)	api_blocked — no_interns (not found in community lists)
+2026-04-25	Verkada	https://boards-api.greenhouse.io/v1/boards/verkada/jobs	(board scan)	api_blocked — Backend no_match_grad (Jun2027 req); Frontend no_match_grad
+2026-04-25	Samsara	https://boards-api.greenhouse.io/v1/boards/samsara/jobs	(board scan)	api_blocked — no_match_grad (Spring 2028 not in window)
+2026-04-25	Whatnot	https://boards-api.greenhouse.io/v1/boards/whatnot/jobs	(board scan)	api_blocked — no_match_grad (Dec2026/Summer2027 req)
+2026-04-25	Etsy	https://boards-api.greenhouse.io/v1/boards/etsy/jobs	(board scan)	api_blocked — no_match_grad (mid-2027 grads)
+2026-04-25	Deel	https://boards-api.greenhouse.io/v1/boards/deel/jobs	(board scan)	api_blocked — no_interns
+2026-04-25	Webflow	https://boards-api.greenhouse.io/v1/boards/webflow/jobs	(board scan)	api_blocked — no_interns

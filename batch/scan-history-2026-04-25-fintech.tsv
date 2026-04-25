@@ -1,0 +1,13 @@
+date	company	url	title	result
+2026-04-25	Stripe	https://boards-api.greenhouse.io/v1/boards/stripe/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (Software Engineer Intern, Data Analyst Intern, PhD DS/MLE Interns — all closed)
+2026-04-25	Plaid	https://boards-api.greenhouse.io/v1/boards/plaid/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs no listings (0 active or inactive)
+2026-04-25	Brex	https://boards-api.greenhouse.io/v1/boards/brex/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (Software Engineer Intern — closed 2mo ago)
+2026-04-25	Mercury	https://boards-api.greenhouse.io/v1/boards/mercury/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (Android Intern, Full-stack Intern, Data Science Intern — all closed)
+2026-04-25	Ramp	https://boards-api.greenhouse.io/v1/boards/ramp/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (Backend report_006, Frontend report_077, Forward Deployed: no_match_score, AI Ops: closed, Applied Scientist 🎓: no_match_degree)
+2026-04-25	Robinhood	https://boards-api.greenhouse.io/v1/boards/robinhood/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (Backend SWE Intern, MLE Intern — all closed; iOS/Android/Web previously no_match_grad)
+2026-04-25	Coinbase	https://boards-api.greenhouse.io/v1/boards/coinbase/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (SWE report_024, MLE report_078, PM Intern, Sales Intern, Payments Risk Intern — all closed)
+2026-04-25	Block	https://boards-api.greenhouse.io/v1/boards/block/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (SWE report_026, Mobile no_match_skills, AI PhD Intern 🎓, DL Research Intern 🎓, Embedded no_match_skills)
+2026-04-25	Chime	https://boards-api.greenhouse.io/v1/boards/chime/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs 0 listings found (active or inactive)
+2026-04-25	Affirm	https://boards-api.greenhouse.io/v1/boards/affirm/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs 1 active (Apprentice — see below)
+2026-04-25	Affirm	https://job-boards.greenhouse.io/affirm/jobs/7647925003	Software Engineering Apprentice - Backend	no_match_eligibility — apprenticeship (12mo program for career changers, not enrolled students; pattern matches Airbnb/Gusto exclusions)
+2026-04-25	SoFi	https://boards-api.greenhouse.io/v1/boards/sofi/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (6 SWE roles, 2 Data roles — all closed; grad req mismatch confirmed per dedup)
