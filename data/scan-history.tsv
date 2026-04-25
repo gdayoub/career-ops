@@ -775,3 +775,41 @@ date	company	url	title	result
 2026-04-25	DE Shaw	https://www.deshaw.com/careers/internships	(board scan)	no_new_interns
 2026-04-25	HRT	https://www.hudsonrivertrading.com/student-opportunities/	(board scan)	all_closed_summer2026
 2026-04-25	Jump Trading	https://www.jumptrading.com/careers/	(board scan)	no_new_interns
+2026-04-25	Anthropic	https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	(board scan)	api_403
+2026-04-25	xAI	https://boards-api.greenhouse.io/v1/boards/xai/jobs	(board scan)	api_403
+2026-04-25	Character AI	https://boards-api.greenhouse.io/v1/boards/characterai/jobs	(board scan)	api_403
+2026-04-25	Together AI	https://boards-api.greenhouse.io/v1/boards/togetherai/jobs	(board scan)	api_403
+2026-04-25	Inflection AI	https://boards-api.greenhouse.io/v1/boards/inflectionai/jobs	(board scan)	api_403
+2026-04-25	AI21 Labs	https://boards-api.greenhouse.io/v1/boards/ai21labs/jobs	(board scan)	api_403
+2026-04-25	Stability AI	https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs	(board scan)	api_403
+2026-04-25	Scale AI	https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	(board scan)	api_403
+2026-04-25	Databricks	https://boards-api.greenhouse.io/v1/boards/databricks/jobs	(board scan)	api_403
+2026-04-25	Datadog	https://boards-api.greenhouse.io/v1/boards/datadog/jobs	(board scan)	api_403
+2026-04-25	Arize AI	https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	(board scan)	api_403
+2026-04-25	Weaviate	https://boards-api.greenhouse.io/v1/boards/weaviate/jobs	(board scan)	api_403
+2026-04-25	Vercel	https://boards-api.greenhouse.io/v1/boards/vercel/jobs	(board scan)	api_403
+2026-04-25	GitHub	https://boards-api.greenhouse.io/v1/boards/github/jobs	(board scan)	api_403
+2026-04-25	GitLab	https://boards-api.greenhouse.io/v1/boards/gitlab/jobs	(board scan)	api_403
+2026-04-25	Replit	https://boards-api.greenhouse.io/v1/boards/replit/jobs	(board scan)	api_403
+2026-04-25	Retool	https://boards-api.greenhouse.io/v1/boards/retool/jobs	(board scan)	api_403
+2026-04-25	Supabase	https://boards-api.greenhouse.io/v1/boards/supabase/jobs	(board scan)	api_403
+2026-04-25	Render	https://boards-api.greenhouse.io/v1/boards/render/jobs	(board scan)	api_403
+2026-04-25	Sourcegraph	https://boards-api.greenhouse.io/v1/boards/sourcegraph/jobs	(board scan)	api_403
+2026-04-25	dbt Labs	https://boards-api.greenhouse.io/v1/boards/dbtlabsinc/jobs	(board scan)	api_403
+2026-04-25	Postman	https://boards-api.greenhouse.io/v1/boards/postman/jobs	(board scan)	api_403
+2026-04-25	OpenAI	https://openai.com/careers	(board scan)	found_new_systems_research_intern
+2026-04-25	OpenAI	https://openai.com/careers/software-engineer-systems-research-internship-applied-emerging-talent-(summer-2026)-san-francisco/	Software Engineer Systems Research Internship (Summer 2026)	no_match_degree
+2026-04-25	Cursor/Anysphere	https://jobs.ashbyhq.com/anysphere	(board scan)	no_interns
+2026-04-25	Perplexity	https://jobs.ashbyhq.com/perplexity	(board scan)	UK_intern_only_no_match_location
+2026-04-25	Cohere	https://jobs.ashbyhq.com/cohere	(board scan)	no_new_interns
+2026-04-25	Adept	https://jobs.ashbyhq.com/adept	(board scan)	no_interns
+2026-04-25	Modal	https://jobs.ashbyhq.com/modal	(board scan)	no_interns
+2026-04-25	LangChain	https://jobs.ashbyhq.com/langchain	(board scan)	no_interns
+2026-04-25	Pinecone	https://jobs.ashbyhq.com/pinecone	(board scan)	no_new_interns_science_nyc_dedup
+2026-04-25	Linear	https://jobs.ashbyhq.com/linear	(board scan)	no_interns
+2026-04-25	Fly.io	https://jobs.ashbyhq.com/fly.io	(board scan)	no_interns
+2026-04-25	Railway	https://jobs.ashbyhq.com/railway	(board scan)	no_interns
+2026-04-25	Mistral	https://jobs.lever.co/mistral	(board scan)	found_new_forward_deployed_intern
+2026-04-25	Mistral	https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5	Applied AI Forward Deployed ML Eng Internship	no_match_location
+2026-04-25	W&B	https://jobs.lever.co/wandb	(board scan)	no_interns
+2026-04-25	Hugging Face	https://apply.workable.com/huggingface	(board scan)	no_new_interns
