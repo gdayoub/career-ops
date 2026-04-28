@@ -2,6 +2,9 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 114 | 2026-04-28 | Duolingo | Software Engineer, Intern (Summer 2026) | 3.7/5 | Evaluada | ❌ | [114](reports/114-duolingo-swe-intern-2026-04-28.md) | $52/hr. Pittsburgh PA. Jun 22-Sep 18. Grad Spring 2028 ✓. Verify listing active & GPA req. |
+| 115 | 2026-04-28 | Notion | Data Science Intern (Winter or Summer 2026) | 3.8/5 | Evaluada | ❌ | [115](reports/115-notion-data-science-intern-2026-04-28.md) | $55/hr SF/NYC hybrid. New DS track (≠ reports 002/003). VERIFY grad req (prior Notion flagged pre-Jul 2027 — confirm June 2028 OK). |
+| 116 | 2026-04-28 | Credit Karma | Machine Learning Intern (Summer 2026) | 3.6/5 | Evaluada | ❌ | [116](reports/116-credit-karma-ml-intern-2026-04-28.md) | Charlotte NC onsite 3d/wk. Intuit subsidiary. VERIFY comp ≥$40/hr before applying. Housing stipend. ML classifier proof point. |
 | 113 | 2026-04-28 | Inflection AI | Summer 2026 Technical Internship | 3.7/5 | Evaluada | ❌ | [113](reports/113-inflection-technical-intern-2026-04-28.md) | $50-65/hr. Palo Alto on-site 5d/wk. BS eligible. ML/DS/AI/infra tracks. Verify active on inflection.ai/careers before applying. |
 | 111 | 2026-04-25 | Rippling | Machine Learning Engineer Intern | 4.3/5 | Evaluada | ❌ | [111](reports/111-rippling-mle-intern-2026-04-25.md) | New role vs 027. SF only. Applied ML/NLP match. Est $75/hr. Verify still active (listed Sep 2025). |
 | 112 | 2026-04-25 | Rippling | Software Engineer Intern, Backend Focused | 4.4/5 | Evaluada | ❌ | [112](reports/112-rippling-swe-backend-intern-2026-04-25.md) | Distinct from 027 Full Stack. NY/SF. SQL pipeline + API match. Est $75/hr. Verify active. |

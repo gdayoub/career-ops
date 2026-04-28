@@ -946,3 +946,41 @@ date	company	url	title	result
 2026-04-28	Mistral	https://jobs.lever.co/mistral	(board scan)	no_new_us_interns — Applied AI Forward Deployed (no_match_location confirmed). No US intern posting.
 2026-04-28	W&B	https://jobs.lever.co/wandb	(board scan)	no_interns — confirmed, no active intern listings.
 2026-04-28	Hugging Face	https://apply.workable.com/huggingface	(board scan)	no_new_eligible_interns — SmolLMs (EMEA Remote: no_match_location). All US roles previously evaluated (reports 050, 066, 094).
+2026-04-28	Plaid	https://boards-api.greenhouse.io/v1/boards/plaid/jobs	Software Engineering Intern, Summer 2026 (via RippleMatch)	no_match_grad — requires Winter 2026/Spring 2027 graduation; George is June 2028
+2026-04-28	Mercury	https://job-boards.greenhouse.io/mercury/jobs/5668761004	Backend Engineering Intern - Summer 2026	likely_closed — application deadline was October 17, 2025; also requires Haskell. Skip.
+2026-04-28	Robinhood	https://job-boards.greenhouse.io/robinhood/jobs/7235228	Software Developer Intern, Backend (Summer 2026)	no_match_grad — requires Winter 2026/Spring 2027 (penultimate year); George is June 2028
+2026-04-28	Chime	https://careers.chime.com/early-talent/	(board scan)	no_listing — 2026 intern program apps closed mid-November 2025. No active Summer 2026 Greenhouse listing found.
+2026-04-28	SoFi	https://boards-api.greenhouse.io/v1/boards/sofi/jobs	(board scan)	no_listing — no Summer 2026 intern listings found on Greenhouse or Lever
+2026-04-28	HubSpot	https://job-boards.greenhouse.io/hubspotstudents	(board scan)	no_match_location — only EMEA/Ireland intern listing for Summer 2026; no US posting active
+2026-04-28	Intercom	https://job-boards.greenhouse.io/intercom/jobs/6262761	Engineering Intern	unclear_timing — listing active but not confirmed as Summer 2026; hybrid SF. Below evaluation threshold without confirmed timing.
+2026-04-28	CrowdStrike	https://boards-api.greenhouse.io/v1/boards/crowdstrike/jobs	(board scan)	no_listing — no Summer 2026 software engineer intern found on Greenhouse or Lever
+2026-04-28	SentinelOne	https://boards.greenhouse.io/sentinellabs	(board scan)	no_listing — no Summer 2026 intern found (uses sentinellabs board); no new eligible postings
+2026-04-28	Vanta	https://boards.greenhouse.io/vanta	(board scan)	no_listing — no intern listings found; only FTE roles active
+2026-04-28	Elastic	https://jobs.elastic.co/	(board scan)	no_listing — no Summer 2026 intern found; uses own careers portal (not Greenhouse)
+2026-04-28	Confluent	https://jobs.lever.co/confluent	(board scan)	no_listing — only 2023 Lever listings; no Summer 2026 intern posted
+2026-04-28	HashiCorp	https://boards-api.greenhouse.io/v1/boards/hashicorp/jobs	(board scan)	no_listing — no Summer 2026 intern found on Greenhouse or Lever
+2026-04-28	Grafana Labs	https://job-boards.greenhouse.io/grafanalabs	(board scan)	no_current_listing — Software Development Intern listings on older boards.greenhouse.io format; no confirmed active Summer 2026 US intern posting
+2026-04-28	PagerDuty	https://job-boards.greenhouse.io/pagerduty	(board scan)	no_listing — only 2022 intern postings found; no Summer 2026 active listing
+2026-04-28	Canva	https://jobs.lever.co/canva	(board scan)	no_listing — only historical Summer 22/23 and 23/24 listings; no Summer 2026 US intern posted
+2026-04-28	Airtable	https://job-boards.greenhouse.io/airtable	(board scan)	no_listing — only New Grad (2026) found; no Summer 2026 intern posting
+2026-04-28	Asana	https://job-boards.greenhouse.io/earlycareerprograms	(board scan)	no_match_location — Summer 2026 intern listings in Reykjavik/Warsaw only; no US posting
+2026-04-28	Navan	https://boards-api.greenhouse.io/v1/boards/navan/jobs	(board scan)	no_listing — no Summer 2026 intern found on Greenhouse or Lever
+2026-04-28	Flexport	https://boards.greenhouse.io/flexport	(board scan)	no_listing — only 2022/2023 historical intern listings; no Summer 2026 active posting
+2026-04-28	Verkada	https://job-boards.greenhouse.io/verkada	(board scan)	no_match_grad — Summer 2026 intern listings require graduation by June 2027; George is June 2028
+2026-04-28	Samsara	https://boards.greenhouse.io/samsara	(board scan)	no_match_location — Summer 2026 intern listing is London UK only; no US intern posting found
+2026-04-28	Deel	https://jobs.ashbyhq.com/deel	(board scan)	no_listing — no intern listings found on Greenhouse, Lever, or Ashby
+2026-04-28	Webflow	https://job-boards.greenhouse.io/webflow	(board scan)	no_listing — no Summer 2026 intern found
+2026-04-28	Shield AI	https://jobs.lever.co/shieldai/da49232a-dc28-4085-a9b9-9059e643bc7f	Software Engineering Intern - 2026 Summer Intern	no_match_grad — requires graduation December 2026 or Spring 2027; George is June 2028
+2026-04-28	Tempus	https://boards.greenhouse.io/tempus/jobs/7787178002	Software Engineering Summer Analyst/Associate	no_match_grad — requires bachelor's completion summer of 2026; George is June 2028
+2026-04-28	Cruise	https://boards.greenhouse.io/cruiseuniversity/jobs/4542475	Intern, Software Engineer, ML Orchestration	unverified — listing found but active status and Summer 2026 timing not confirmed; Greenhouse JD inaccessible
+2026-04-28	Toast	https://boards-api.greenhouse.io/v1/boards/toast/jobs	(board scan)	no_listing — no Summer 2026 intern found on Greenhouse or Lever
+2026-04-28	Decagon	https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6	Agent Software Engineer - Intern (Summer 2026)	no_match_grad — requires graduation by summer 2027; George is June 2028; listing also reportedly no longer accepting applications
+2026-04-28	Credit Karma	https://job-boards.greenhouse.io/creditkarma/jobs/7500619003	Machine Learning Intern (Summer 2026)	NEW — report_116 (3.6/5)
+2026-04-28	Notion	https://jobs.ashbyhq.com/notion/5c3de83e-8992-445c-a424-bfa9e623dd95	Data Science Intern (Winter or Summer 2026)	NEW — report_115 (3.8/5). Verify graduation requirement (prior Notion listings flagged pre-Jul 2027)
+2026-04-28	Duolingo	https://job-boards.greenhouse.io/duolingo/jobs/7582860002	Software Engineer, Intern (Summer 2026)	NEW — report_114 (3.7/5)
+2026-04-28	Salesforce	https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/	Summer 2026 Intern - Software Engineer	already tracked (report_025)
+2026-04-28	ServiceNow	https://www.servicenow.com/company/careers.html	(websearch scan)	already tracked (reports 018, 072)
+2026-04-28	Waymo	https://careers.withwaymo.com/	(websearch scan)	already tracked (report_015)
+2026-04-28	Two Sigma	https://careers.twosigma.com/	(websearch scan)	already tracked (reports 038, 075, 088)
+2026-04-28	Jane Street	https://www.janestreet.com/join-jane-street/	(websearch scan)	already tracked (report_041 — app closed)
+2026-04-28	Citadel	https://www.citadel.com/careers/	(websearch scan)	already tracked (reports 039, 086, 092)
