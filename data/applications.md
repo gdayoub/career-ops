@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 113 | 2026-04-28 | Inflection AI | Summer 2026 Technical Internship | 3.7/5 | Evaluada | ❌ | [113](reports/113-inflection-technical-intern-2026-04-28.md) | $50-65/hr. Palo Alto on-site 5d/wk. BS eligible. ML/DS/AI/infra tracks. Verify active on inflection.ai/careers before applying. |
 | 111 | 2026-04-25 | Rippling | Machine Learning Engineer Intern | 4.3/5 | Evaluada | ❌ | [111](reports/111-rippling-mle-intern-2026-04-25.md) | New role vs 027. SF only. Applied ML/NLP match. Est $75/hr. Verify still active (listed Sep 2025). |
 | 112 | 2026-04-25 | Rippling | Software Engineer Intern, Backend Focused | 4.4/5 | Evaluada | ❌ | [112](reports/112-rippling-swe-backend-intern-2026-04-25.md) | Distinct from 027 Full Stack. NY/SF. SQL pipeline + API match. Est $75/hr. Verify active. |
 | 97 | 2026-04-25 | The Voleon Group | Software Engineer Intern | 3.8/5 | Evaluada | ❌ | [097](reports/097-voleon-swe-intern-2026-04-25.md) | $83/hr quant hedge fund. ML infra + trading systems. Berkeley CA. Rolling deadline. Apply soon. |

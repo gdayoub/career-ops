@@ -908,3 +908,41 @@ date	company	url	title	result
 2026-04-25	Atlassian	https://join.atlassian.com/atlassian-talent-community/jobs/20962	Data Science Intern 2026 Summer US	skipped — Masters required, graduating June 2027 or earlier
 2026-04-25	Crustdata	https://www.ycombinator.com/companies/crustdata/jobs/NS9hTSC-ml-engineer-intern-summer-2026	ML Engineer Intern Summer 2026	skipped — Masters/PhD preferred, research profile required
 2026-04-25	Pendo	https://job-boards.greenhouse.io/pendo/jobs/8185867002	Software Engineer Intern Summer 2026	NEW — report_100 (3.1/5, SKIP — $30/hr below target)
+2026-04-28	Anthropic	https://job-boards.greenhouse.io/anthropic	(board scan)	no_new_interns — Fellows Program (report_093) still active, deadline passed (Apr 26). No new SWE intern.
+2026-04-28	xAI	https://job-boards.greenhouse.io/xai	(board scan)	no_new_interns — Engineering Intern (4730948007) = no_match_skills (datacenter/mechanical/elec/controls). Engineering Internship Summer 2026 (5054417007) = no_match_skills confirmed.
+2026-04-28	Character AI	https://job-boards.greenhouse.io/characterai	(board scan)	no_interns — confirmed via WebSearch, no active intern listings.
+2026-04-28	Together AI	https://job-boards.greenhouse.io/togetherai	(board scan)	no_new_interns — SWE Intern closed (no longer accepting apps). Eligible roles exhausted.
+2026-04-28	Inflection AI	https://www.builtinsf.com/job/inflection-ai-summer-internship-program/4280881	Summer 2026 Technical Internship	report_113 (3.7/5 — NEW)
+2026-04-28	Inflection AI	https://www.linkedin.com/jobs/view/summer-2026-technical-internship-at-inflection-ai-4318152560	Summer 2026 Technical Internship (LinkedIn)	report_113_primary
+2026-04-28	AI21 Labs	https://job-boards.greenhouse.io/ai21labs	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	Stability AI	https://job-boards.greenhouse.io/stabilityai	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	Scale AI	https://job-boards.greenhouse.io/scaleai	(board scan)	no_new_interns — SWE Intern (dedup_012), ML Research (no_match_grad), AI Deployment Strategist (no_match_role). No new eligible.
+2026-04-28	Databricks	https://www.databricks.com/company/careers/university-recruiting	(board scan)	no_new_interns — SWE Intern still requires Fall2026-Summer2027 grad. George (Jun2028) ineligible. Confirmed.
+2026-04-28	Datadog	https://careers.datadoghq.com/early-careers/	(board scan)	no_new_interns — SWE Intern (Summer) requires graduation 2026. George ineligible. Confirmed.
+2026-04-28	Arize AI	https://job-boards.greenhouse.io/arizeai	(board scan)	no_interns — confirmed via WebSearch, no active intern listings.
+2026-04-28	Weaviate	https://job-boards.greenhouse.io/weaviate	(board scan)	no_interns — confirmed via WebSearch, no active intern listings.
+2026-04-28	Vercel	https://job-boards.greenhouse.io/vercel	(board scan)	no_new_interns — Engineering Summer (no_match_grad Dec2026/May2027), Data Platform (report_065), Spring (no_match_timing). No new eligible.
+2026-04-28	GitHub	https://www.github.careers/early-in-profession	(board scan)	no_new_interns — no new BS-eligible SWE intern postings found since Apr 25.
+2026-04-28	GitLab	https://job-boards.greenhouse.io/gitlab	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	Replit	https://jobs.ashbyhq.com/replit	(board scan)	dedup_004 — same SWE Intern posting active.
+2026-04-28	Retool	https://job-boards.greenhouse.io/retool	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	Supabase	https://jobs.ashbyhq.com/supabase	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	Render	https://job-boards.greenhouse.io/render	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	Sourcegraph	https://sourcegraph.com/jobs	(board scan)	no_interns — confirmed, below_comp confirmed from prior scan.
+2026-04-28	dbt Labs	https://job-boards.greenhouse.io/dbtlabsinc	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	Postman	https://job-boards.greenhouse.io/postman	(board scan)	dedup_051 — same SWE intern posting, no new eligible.
+2026-04-28	OpenAI	https://openai.com/careers	(board scan)	no_new_interns — SWE Intern (dedup_013), Systems Research (no_match_degree), Applied ET (no_match_role). No new summer intern.
+2026-04-28	Cursor (Anysphere)	https://jobs.ashbyhq.com/anysphere	(board scan)	no_interns — confirmed via WebSearch.
+2026-04-28	Perplexity	https://jobs.ashbyhq.com/perplexity	(board scan)	no_new_us_interns — UK Internship only (no_match_location). US intern postings confirmed absent.
+2026-04-28	Cohere	https://jobs.ashbyhq.com/cohere	(board scan)	no_new_eligible_interns — SWE (dedup_049), ML (dedup), Research RL (a8c8bc3e): no_match_degree (PhD required).
+2026-04-28	Cohere	https://jobs.ashbyhq.com/cohere/a8c8bc3e-2fbc-43e0-8020-f7cf6078c525	Research Internship Reinforcement Learning (Summer)	no_match_degree — requires PhD (exceptional non-PhD may be considered but "currently pursuing PhD" is stated requirement).
+2026-04-28	Adept	https://jobs.ashbyhq.com/adept	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	Modal	https://jobs.ashbyhq.com/modal	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	LangChain	https://jobs.ashbyhq.com/langchain	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	Pinecone	https://jobs.ashbyhq.com/pinecone	(board scan)	no_new_interns — Science NYC (no_match_research) confirmed, no new US eligible intern.
+2026-04-28	Linear	https://jobs.ashbyhq.com/linear	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	Fly.io	https://jobs.ashbyhq.com/fly.io	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	Railway	https://jobs.ashbyhq.com/railway	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	Mistral	https://jobs.lever.co/mistral	(board scan)	no_new_us_interns — Applied AI Forward Deployed (no_match_location confirmed). No US intern posting.
+2026-04-28	W&B	https://jobs.lever.co/wandb	(board scan)	no_interns — confirmed, no active intern listings.
+2026-04-28	Hugging Face	https://apply.workable.com/huggingface	(board scan)	no_new_eligible_interns — SmolLMs (EMEA Remote: no_match_location). All US roles previously evaluated (reports 050, 066, 094).
