@@ -1013,3 +1013,51 @@ date	company	url	title	result
 2026-05-01	Salesforce	https://careers.salesforce.com/en/jobs/jr334473/summer-2026-intern-applied-ai-strategy-research/	Summer 2026 Intern — Applied AI Strategy & Research	report_121
 2026-05-01	TikTok	https://lifeattiktok.com/search/7499689149813950727	AI/ML Software Engineer Intern Data Platform 2026 Summer BS/MS	report_118
 2026-05-01	TikTok	https://lifeattiktok.com/search/7585114089765947701	Machine Learning Engineer Intern Video Recommendation 2026 Summer BS/MS	report_119
+2026-05-01	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5023394008	Anthropic Fellows Program (general)	new_cohort_dedup_093_deadline_may3
+2026-05-01	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5183051008	Anthropic Fellows Program — ML Systems & Performance	new_cohort_dedup_093_deadline_may3
+2026-05-01	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5183052008	Anthropic Fellows Program — Reinforcement Learning	new_cohort_dedup_093_deadline_may3
+2026-05-01	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5030244008	Anthropic Fellows Program — AI Security	new_cohort_dedup_093_deadline_may3
+2026-05-01	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5183053008	Anthropic Fellows Program — Economics & Policy	no_match_focus
+2026-05-01	xAI	https://job-boards.greenhouse.io/xai/jobs/5054417007	Engineering Internship (Summer 2026)	no_match_focus_datacenter_infra
+2026-05-01	Character AI	https://job-boards.greenhouse.io/characterai	(board scan)	no_interns
+2026-05-01	Together AI	https://job-boards.greenhouse.io/togetherai/jobs/5014291007	Research Intern, Inference (Summer 2026)	no_match_grad_final_year_only
+2026-05-01	Together AI	https://job-boards.greenhouse.io/togetherai/jobs/5012768007	Software Engineer Intern (Summer 2026)	no_match_grad_by_summer2027
+2026-05-01	Inflection AI	https://job-boards.greenhouse.io/inflectionai	(board scan)	no_interns
+2026-05-01	AI21	https://job-boards.greenhouse.io/ai21labs	(board scan)	no_interns
+2026-05-01	Stability AI	https://job-boards.greenhouse.io/stabilityai	(board scan)	no_interns
+2026-05-01	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs/4606060005	Machine Learning Research Intern (Summer 2026)	no_match_grad_fall2026_spring2027
+2026-05-01	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs/4677519005	AI Deployment Strategist Intern	no_match_level_mba_4yr_exp
+2026-05-01	Databricks	https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6866531002	Software Engineering Intern (2026)	no_match_grad_by_summer2027
+2026-05-01	Databricks	https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6866534002	Software Engineering Intern (2026) variant	no_match_grad_by_summer2027
+2026-05-01	Datadog	https://careers.datadoghq.com/detail/7367016/	Software Engineering Intern, SRE	report_122
+2026-05-01	Datadog	https://careers.datadoghq.com/detail/7158118/	Software Engineering Intern	no_match_grad_2026_only
+2026-05-01	Arize AI	https://job-boards.greenhouse.io/arizeai	(board scan)	no_interns
+2026-05-01	Weaviate	https://job-boards.greenhouse.io/weaviate	(board scan)	no_interns
+2026-05-01	Vercel	https://job-boards.greenhouse.io/vercel	(board scan)	no_interns_current
+2026-05-01	GitHub	https://job-boards.greenhouse.io/github	(board scan)	no_interns
+2026-05-01	GitLab	https://job-boards.greenhouse.io/gitlab	(board scan)	no_interns
+2026-05-01	Replit	https://job-boards.greenhouse.io/replit	(board scan)	no_interns
+2026-05-01	Retool	https://job-boards.greenhouse.io/retool	(board scan)	no_interns
+2026-05-01	Supabase	https://job-boards.greenhouse.io/supabase	(board scan)	no_interns
+2026-05-01	Render	https://job-boards.greenhouse.io/render	(board scan)	no_interns
+2026-05-01	Sourcegraph	https://sourcegraph.com/jobs	(board scan)	no_interns_current
+2026-05-01	dbt Labs	https://job-boards.greenhouse.io/dbtlabsinc	(board scan)	no_interns
+2026-05-01	Postman	https://job-boards.greenhouse.io/postman	(board scan)	dedup_051_no_new_role
+2026-05-01	OpenAI	https://openai.com/careers/software-engineer-systems-research-internship-applied-emerging-talent-(summer-2026)-san-francisco/	Software Engineer Systems Research Internship	no_match_level_phd_preferred
+2026-05-01	OpenAI	https://openai.com/careers/software-engineer-internship-co-op-applied-emerging-talent-(summer-2026)/	Software Engineer Internship / Co-op (Summer 2026)	dedup_013
+2026-05-01	Cursor (Anysphere)	https://jobs.ashbyhq.com/anysphere	(board scan)	no_interns
+2026-05-01	Perplexity	https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763	UK Internship Program	no_match_location_uk_only
+2026-05-01	Cohere	https://jobs.ashbyhq.com/cohere/6e850172-a79d-4128-abd2-677731312857	Research Internship (Spring/Summer 2026)	no_match_research
+2026-05-01	Cohere	https://jobs.ashbyhq.com/cohere/a8c8bc3e-2fbc-43e0-8020-f7cf6078c525	Research Internship Reinforcement Learning (Summer)	no_match_research
+2026-05-01	Adept	https://jobs.ashbyhq.com/adept	(board scan)	no_interns
+2026-05-01	Modal	https://jobs.ashbyhq.com/modal	(board scan)	no_interns
+2026-05-01	LangChain	https://jobs.ashbyhq.com/langchain	(board scan)	no_interns
+2026-05-01	Pinecone	https://jobs.ashbyhq.com/pinecone/ee430f96-5d27-40c4-a1e9-1442ad7f9aed	Intern: Science NYC	dedup_no_match_research
+2026-05-01	Linear	https://jobs.ashbyhq.com/linear	(board scan)	no_interns
+2026-05-01	Mistral	https://jobs.lever.co/mistral/292397f0-4ac7-4309-a0e8-63c97761a2cb	AI Scientist Internship (Paris/London, Masters)	no_match_location
+2026-05-01	Mistral	https://jobs.lever.co/mistral/589527e0-4f15-4e54-90db-83b2c49f263d	AI Scientist Internship (Palo Alto, PhD)	no_match_level_phd
+2026-05-01	W&B	https://jobs.lever.co/wandb	(board scan)	no_interns
+2026-05-01	Hugging Face	https://apply.workable.com/huggingface/j/423E512A62/	ML Research Engineer Internship, Multimodal	no_match_research_phd_preferred
+2026-05-01	Hugging Face	https://apply.workable.com/huggingface/j/DAB6199FAF/	Machine Learning Engineer Internship, Computer Vision	dedup_094
+2026-05-01	Hugging Face	https://apply.workable.com/huggingface/j/B952461BFF	Machine Learning Engineer Internship, AI Energy Score	no_match_focus
+2026-05-01	Hugging Face	https://apply.workable.com/huggingface/j/6E9686A620/	ML Open Source Engineer Internship - skops	no_match_focus

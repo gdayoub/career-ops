@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 122 | 2026-05-01 | Datadog | Software Engineering Intern, SRE | 3.3/5 | Evaluada | ❌ | [122](reports/122-datadog-sre-intern-2026-05-01.md) | $45-55/hr NY/Boston on-site. LLM automation angle. No Go/SRE experience but no grad year restriction. Verify active. |
 | 118 | 2026-05-01 | TikTok | AI/ML Software Engineer Intern — Data Platform (Summer 2026) | 4.0/5 | Evaluada | ❌ | [118](reports/118-tiktok-aiml-swe-data-platform-intern-2026-05-01.md) | $45/hr. BS eligible. LLM+data platform. San Jose. Apply as one of two TikTok roles. |
 | 119 | 2026-05-01 | TikTok | Machine Learning Engineer Intern — Recommendation (Summer 2026) | 3.8/5 | Evaluada | ❌ | [119](reports/119-tiktok-mle-recommendation-intern-2026-05-01.md) | $45-60/hr. BS eligible. DL framework gap. Secondary TikTok option vs report 118. |
 | 121 | 2026-05-01 | Salesforce | Summer 2026 Intern — Applied AI Strategy & Research | 3.2/5 | Evaluada | ❌ | [121](reports/121-salesforce-applied-ai-strategy-intern-2026-05-01.md) | $44-53/hr. Rising junior exact grad match (2027-2028). Strategy-heavy; fallback after report 117. |
