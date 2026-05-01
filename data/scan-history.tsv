@@ -984,3 +984,32 @@ date	company	url	title	result
 2026-04-28	Two Sigma	https://careers.twosigma.com/	(websearch scan)	already tracked (reports 038, 075, 088)
 2026-04-28	Jane Street	https://www.janestreet.com/join-jane-street/	(websearch scan)	already tracked (report_041 — app closed)
 2026-04-28	Citadel	https://www.citadel.com/careers/	(websearch scan)	already tracked (reports 039, 086, 092)
+2026-05-01	Google	https://www.google.com/about/careers/applications/jobs/results/116505799294886598-software-engineering-intern-summer-2026	Software Engineering Intern BS Summer 2026	no_match_grad (deadline May 8, grad Dec 2026-2027 only)
+2026-05-01	Google	https://www.google.com/about/careers/applications/internships	(Google careers scan)	dedup_082 (already tracked, grad mismatch confirmed)
+2026-05-01	Meta	https://www.metacareers.com/jobs/1471056164046415	Software Engineer Intern/Co-op	no_match_grad (grad Dec 2026-Jul 2027 required)
+2026-05-01	Meta	https://www.metacareers.com/jobs/804300811922734	Data Scientist Intern, Product Analytics Summer 2026	no_match_grad (grad Dec 2026-Jul 2027)
+2026-05-01	Amazon	https://amazon.jobs/en/jobs/3137707/robotics-data-science-intern-co-op-2026	Robotics Data Science Intern/Co-op 2026	no_match_degree (MS/PhD required)
+2026-05-01	Microsoft	https://jobs.careers.microsoft.com/global/en/job/1755598/Software-Engineer---The-Coalition-Summer-Internship-Opportunities	Software Engineer — The Coalition Summer Internship	no_match_location (Vancouver Canada only)
+2026-05-01	Netflix	https://jobs.netflix.com/intern-program	(Netflix intern scan)	no_interns (no new 2026 listings since last scan)
+2026-05-01	Uber	https://jobs.uber.com/en/teams/emerging-talent/	(Uber intern scan)	no_match_grad (Uber Freight: Fall 2026-Spring 2027 only)
+2026-05-01	Lyft	https://www.lyft.com/careers/early-talent	Data Science Intern Algorithms Summer 2026	no_match_grad (MS/PhD + Dec 2026-Jun 2027)
+2026-05-01	Airbnb	https://careers.airbnb.com/positions/7453837/	Software Engineering Intern	no_match_grad (Dec 2026-Jun 2027)
+2026-05-01	DoorDash	https://careersatdoordash.com/jobs/software-engineer-intern-summer-2026---us/7262223/	Software Engineer Intern Summer 2026 US	no_match_grad (Fall 2026-Summer 2027)
+2026-05-01	Instacart	https://www.instacart.careers/current-openings	(Instacart careers scan)	no_interns
+2026-05-01	Snap	https://careers.snap.com	(Snap scan)	no_interns (no accessible listings found)
+2026-05-01	Pinterest	https://www.pinterestcareers.com/jobs/7268767/masters-machine-learning-internship-summer-term-2026-toronto/	Master's Machine Learning Internship Summer 2026 Toronto	no_match_degree (MS required, Toronto)
+2026-05-01	Pinterest	https://www.pinterestcareers.com/jobs/7241588/masters-data-science-internship-2026-usa/	Master's Data Science Internship 2026 USA	no_match_degree (MS required)
+2026-05-01	Reddit	https://job-boards.greenhouse.io/reddit	(Reddit board scan)	no_interns (no 2026 intern postings)
+2026-05-01	Discord	https://discord.com/jobs/7005241002	Software Engineer Intern, Data Products	report_120
+2026-05-01	Spotify	https://jobs.lever.co/spotify/69f52b9b-9e73-4134-b366-7e9e77ac192d/apply	2026 Summer Internship Engineering & Data Science NYC	no_match_closed (deadline Feb 5 2026)
+2026-05-01	Palantir	https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d	Software Engineer Internship	no_match_grad (graduating 2027 final intern only)
+2026-05-01	Two Sigma	https://careerservices.fas.harvard.edu/jobs/two-sigma-first-year-software-engineering-internship-2026-nyc/	First Year Software Engineering Internship 2026 NYC	no_match_grad (first-year students only, graduating 2029)
+2026-05-01	Jane Street	https://www.janestreet.com/join-jane-street/open-roles/	(Jane Street scan)	dedup_041 (app closed, already tracked)
+2026-05-01	Citadel	https://www.citadel.com/careers/open-opportunities/internships/	(Citadel scan)	no_match_grad (2027 grads only, already tracked)
+2026-05-01	D.E. Shaw	https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2026-5521	Software Developer Intern New York Summer 2026	dedup_040 (same role, pre-graduation requirement)
+2026-05-01	Hudson River Trading	https://www.hudsonrivertrading.com/hrt-job/c-software-engineering-internship-summer-2026/	Software Engineering Internship Summer 2026	no_match_closed (applications now closed)
+2026-05-01	Jump Trading	https://www.jumptrading.com/hr/job?gh_jid=7543377	Campus Software Engineer Dec 2026-Feb 2027 Intern	no_match_closed (winter only, summer closed)
+2026-05-01	Salesforce	https://careers.salesforce.com/en/jobs/jr340354/summer-2026-intern-ai-data-science-analyst/	Summer 2026 Intern — AI & Data Science Analyst	report_117
+2026-05-01	Salesforce	https://careers.salesforce.com/en/jobs/jr334473/summer-2026-intern-applied-ai-strategy-research/	Summer 2026 Intern — Applied AI Strategy & Research	report_121
+2026-05-01	TikTok	https://lifeattiktok.com/search/7499689149813950727	AI/ML Software Engineer Intern Data Platform 2026 Summer BS/MS	report_118
+2026-05-01	TikTok	https://lifeattiktok.com/search/7585114089765947701	Machine Learning Engineer Intern Video Recommendation 2026 Summer BS/MS	report_119
