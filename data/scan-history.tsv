@@ -1234,3 +1234,68 @@ date	company	url	title	result
 2026-05-04	Hugging Face	https://apply.workable.com/huggingface	(board scan)	found_new: TRL (E39256D0B1) no_match_skills; Post-Training (5D57D607E2) no_match_degree. Others dedup.
 2026-05-04	Hugging Face	https://apply.workable.com/huggingface/j/E39256D0B1	MLE Internship, TRL - US Remote	no_match_skills (requires RLHF/fine-tuning depth George lacks)
 2026-05-04	Hugging Face	https://apply.workable.com/huggingface/j/5D57D607E2	ML Research Engineer Internship, Post-Training - US Remote	no_match_degree (ML research background required, MS/PhD preferred)
+2026-05-04	Stripe	https://boards-api.greenhouse.io/v1/boards/stripe/jobs	(board scan)	api_403 — dedup_052 (WebSearch confirmed still active SWE intern listing)
+2026-05-04	Plaid	https://boards-api.greenhouse.io/v1/boards/plaid/jobs	(board scan)	api_403 — no_match_grad (Winter 2026/Spring 2027 req, confirmed via WebSearch)
+2026-05-04	Brex	https://boards-api.greenhouse.io/v1/boards/brex/jobs	(board scan)	api_403 — no_match_grad (2026 grad req, confirmed prior scan)
+2026-05-04	Mercury	https://boards-api.greenhouse.io/v1/boards/mercury/jobs	(board scan)	api_403 — likely_closed (Summer 2026 deadline was Oct 2025, confirmed via WebSearch)
+2026-05-04	Ramp	https://boards-api.greenhouse.io/v1/boards/ramp/jobs	(board scan)	api_403 — dedup_006/077
+2026-05-04	Robinhood	https://boards-api.greenhouse.io/v1/boards/robinhood/jobs	(board scan)	api_403 — no_match_grad (Winter 2026/Spring 2027 req)
+2026-05-04	Coinbase	https://boards-api.greenhouse.io/v1/boards/coinbase/jobs	(board scan)	api_403 — dedup_024/078
+2026-05-04	Block	https://boards-api.greenhouse.io/v1/boards/block/jobs	(board scan)	api_403 — dedup_026
+2026-05-04	Chime	https://boards-api.greenhouse.io/v1/boards/chime/jobs	(board scan)	api_403 — no_listing (Summer 2025 listing only found, no Summer 2026 posting)
+2026-05-04	Affirm	https://boards-api.greenhouse.io/v1/boards/affirm/jobs	(board scan)	api_403 — dedup_009
+2026-05-04	SoFi	https://boards-api.greenhouse.io/v1/boards/sofi/jobs	(board scan)	api_403 — no_match_grad (Dec 2026/Spring 2027 grad req confirmed via WebSearch)
+2026-05-04	Atlassian	https://boards-api.greenhouse.io/v1/boards/atlassian/jobs	(board scan)	api_403 — report_128 (SWE Intern U.S.); Atlassian DS no_match_grad (masters required, grad by Jun 2027)
+2026-05-04	HubSpot	https://boards-api.greenhouse.io/v1/boards/hubspot/jobs	(board scan)	api_403 — no_match_location (EMEA only, confirmed prior scan)
+2026-05-04	Twilio	https://boards-api.greenhouse.io/v1/boards/twilio/jobs	(board scan)	api_403 — dedup_102
+2026-05-04	Grammarly	https://boards-api.greenhouse.io/v1/boards/grammarly/jobs	(board scan)	api_403 — dedup_021/103
+2026-05-04	Zoom	https://boards-api.greenhouse.io/v1/boards/zoomvideocommunications/jobs	(board scan)	api_403 — dedup_104
+2026-05-04	Intercom	https://boards-api.greenhouse.io/v1/boards/intercom/jobs	(board scan)	api_403 — no new listing confirmed; prior unclear_timing status unchanged
+2026-05-04	CrowdStrike	https://boards-api.greenhouse.io/v1/boards/crowdstrike/jobs	(board scan)	api_403 — no_match_grad (grad Dec 2026-Aug 2027, George graduates June 2028)
+2026-05-04	SentinelOne	https://boards-api.greenhouse.io/v1/boards/sentinelone/jobs	(board scan)	api_403 — no_match_grad (AI/ML intern requires PhD program)
+2026-05-04	Palo Alto Networks	https://boards-api.greenhouse.io/v1/boards/paloaltonetworks/jobs	(board scan)	api_403 — dedup_055
+2026-05-04	Vanta	https://boards-api.greenhouse.io/v1/boards/vanta/jobs	(board scan)	api_403 — no_listing (no active Summer 2026 intern posting confirmed; year-round program has no grad date — not scored due to uncertain timing)
+2026-05-04	Cloudflare	https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs	(board scan)	api_403 — dedup_005/073/107
+2026-05-04	MongoDB	https://boards-api.greenhouse.io/v1/boards/mongodb/jobs	(board scan)	api_403 — dedup_019
+2026-05-04	Snowflake	https://boards-api.greenhouse.io/v1/boards/snowflake/jobs	(board scan)	api_403 — dedup_053/108/109
+2026-05-04	Elastic	https://boards-api.greenhouse.io/v1/boards/elastic/jobs	(board scan)	api_403 — no_listing (confirmed prior scan)
+2026-05-04	Confluent	https://boards-api.greenhouse.io/v1/boards/confluent/jobs	(board scan)	api_403 — no_match_grad (Dec 2026-Aug 2027 req, confirmed prior scan)
+2026-05-04	HashiCorp	https://boards-api.greenhouse.io/v1/boards/hashicorp/jobs	(board scan)	api_403 — no_match_grad (grad Dec 2024-May 2026 req — too early for George)
+2026-05-04	Grafana Labs	https://boards-api.greenhouse.io/v1/boards/grafanalabs/jobs	(board scan)	api_403 — no_current_listing (confirmed prior scan)
+2026-05-04	DigitalOcean	https://boards-api.greenhouse.io/v1/boards/digitalocean/jobs	(board scan)	api_403 — report_133 (Engineering Intern, grad 2027/2028 confirmed)
+2026-05-04	PagerDuty	https://boards-api.greenhouse.io/v1/boards/pagerduty/jobs	(board scan)	api_403 — no_listing (confirmed prior scan)
+2026-05-04	Figma	https://boards-api.greenhouse.io/v1/boards/figma/jobs	(board scan)	api_403 — dedup_010
+2026-05-04	Notion	https://boards-api.greenhouse.io/v1/boards/notion/jobs	(board scan)	api_403 — dedup_002/003/096/115 (Summer 2026 active, grad by Jul 2027 = no_match_grad for George)
+2026-05-04	Canva	https://boards-api.greenhouse.io/v1/boards/canva/jobs	(board scan)	api_403 — no_listing (Australia/NZ only, confirmed prior scan)
+2026-05-04	Airtable	https://boards-api.greenhouse.io/v1/boards/airtable/jobs	(board scan)	api_403 — no_listing (confirmed prior scan)
+2026-05-04	Asana	https://boards-api.greenhouse.io/v1/boards/asana/jobs	(board scan)	api_403 — no_match_grad (grad Dec 2026-Jul 2027 req; prior scan no_match_location was Reykjavik/Warsaw, SF listing exists but same grad mismatch)
+2026-05-04	Dropbox	https://boards-api.greenhouse.io/v1/boards/dropbox/jobs	(board scan)	api_403 — report_130 (DS Intern, new role, grad 2027+ confirmed); SWE Intern dedup_014/095
+2026-05-04	Rippling	https://boards-api.greenhouse.io/v1/boards/rippling/jobs	(board scan)	api_403 — dedup_027/111/112
+2026-05-04	Navan	https://boards-api.greenhouse.io/v1/boards/navan/jobs	(board scan)	api_403 — no_listing (confirmed prior scan)
+2026-05-04	Flexport	https://boards-api.greenhouse.io/v1/boards/flexport/jobs	(board scan)	api_403 — no_listing (confirmed prior scan)
+2026-05-04	Verkada	https://boards-api.greenhouse.io/v1/boards/verkada/jobs	(board scan)	api_403 — no_match_grad (requires graduating by Jun 2027, George Jun 2028)
+2026-05-04	Samsara	https://boards-api.greenhouse.io/v1/boards/samsara/jobs	(board scan)	api_403 — no_match_grad (requires graduate Summer/Spring 2026 — incompatible)
+2026-05-04	Whatnot	https://boards-api.greenhouse.io/v1/boards/whatnot/jobs	(board scan)	api_403 — dedup_007 (Summer 2026 listing active but grad Dec 2026/Summer 2027 = no_match_grad for George)
+2026-05-04	Etsy	https://boards-api.greenhouse.io/v1/boards/etsy/jobs	(board scan)	api_403 — dedup_032 (Brooklyn NY active but grad mid-2027 req = no_match_grad for George)
+2026-05-04	Deel	https://boards-api.greenhouse.io/v1/boards/deel/jobs	(board scan)	api_403 — no_listing (no Summer 2026 intern listing found)
+2026-05-04	Webflow	https://boards-api.greenhouse.io/v1/boards/webflow/jobs	(board scan)	api_403 — no_listing (confirmed prior scan)
+2026-05-04	Anduril	https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	(board scan)	api_403 — dedup_029 (requires rising senior = no_match_grad for George as rising junior)
+2026-05-04	Shield AI	https://boards-api.greenhouse.io/v1/boards/shieldai/jobs	(board scan)	api_403 — no_match_grad (confirmed prior scan)
+2026-05-04	Tempus	https://boards-api.greenhouse.io/v1/boards/tempus/jobs	(board scan)	api_403 — no_match_grad (confirmed prior scan)
+2026-05-04	Recursion	https://boards-api.greenhouse.io/v1/boards/recursion/jobs	(board scan)	api_403 — dedup_020 (no active Summer 2026 US listing found)
+2026-05-04	insitro	https://boards-api.greenhouse.io/v1/boards/insitro/jobs	(board scan)	api_403 — dedup_057 (no active Summer 2026 listing confirmed)
+2026-05-04	Cruise	https://boards-api.greenhouse.io/v1/boards/cruise/jobs	(board scan)	api_403 — skipped_title (ML intern found via WebSearch but Cruise is undergoing restructuring; listings appear old/unverified; no clean Summer 2026 listing confirmed)
+2026-05-04	Nuro	https://boards-api.greenhouse.io/v1/boards/nuro/jobs	(board scan)	api_403 — dedup_023 (only Winter 2025/2026 and older listings found, no Summer 2026)
+2026-05-04	Aurora	https://boards-api.greenhouse.io/v1/boards/auroradriver/jobs	(board scan)	api_403 — dedup_028 (Summer 2026 listing active but same company already tracked)
+2026-05-04	Duolingo	https://boards-api.greenhouse.io/v1/boards/duolingo/jobs	(board scan)	api_403 — report_129 (Thrive Intern, new/distinct program for rising juniors, grad Fall 2027-Spring 2028)
+2026-05-04	Toast	https://boards-api.greenhouse.io/v1/boards/toast/jobs	(board scan)	api_403 — no_listing (no active Summer 2026 listing confirmed)
+2026-05-04	Gusto	https://boards-api.greenhouse.io/v1/boards/gusto/jobs	(board scan)	api_403 — report_134 (SWE Intern Summer 2026, grad Dec 2026-Jun 2029 confirmed, distinct from prior 054)
+2026-05-04	Glean	https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	(board scan)	api_403 — dedup_031 (active listing but grad Fall 2026/Spring 2027 = no_match_grad for George)
+2026-05-04	Sigma	https://boards-api.greenhouse.io/v1/boards/sigmacomputing/jobs	(board scan)	api_403 — dedup_008 (Summer 2026 listing active, same role already tracked)
+2026-05-04	Salesforce	https://careers.salesforce.com/en/jobs/jr340354	Summer 2026 Intern - AI & Data Science Analyst	report_131 (distinct from SWE intern 025/117/121; Office of CEO AI role)
+2026-05-04	ServiceNow	https://careers.servicenow.com/jobs/744000080670612	Machine Learning Engineer Intern - Summer 2026	report_132 (distinct from SWE intern 018/072)
+2026-05-04	Waymo	https://www.builtinsf.com/job/2026-summer-intern-bs-ms-fullstack-software-engineer-data-tooling/7337214	2026 Summer Intern BS/MS Fullstack SWE Data Tooling	dedup_015 (same company, all Waymo intern roles deduped)
+2026-05-04	Two Sigma	https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Internship-Summer-2026/13585	Data Scientist Internship Summer 2026	dedup_038/075/088
+2026-05-04	Jane Street	https://www.janestreet.com/join-jane-street/internships/	(board scan)	dedup_041
+2026-05-04	Citadel	https://www.citadel.com/careers/open-opportunities/students/internships/	(board scan)	dedup_039/086/092
+2026-05-04	Broad Institute	https://www.broadinstitute.org/for-students	(board scan)	no_listing (no SWE/DS intern for Summer 2026 found; BSRP is research program for biomedical focus)
