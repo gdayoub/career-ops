@@ -1187,3 +1187,50 @@ date	company	url	title	result
 2026-05-04	HRT	https://www.hudsonrivertrading.com/hrt-job/c-software-engineering-internship-summer-2026/	Software Engineering Internship Summer 2026	no_match_closed (applications closed for Summer 2026)
 2026-05-04	HRT	https://www.hudsonrivertrading.com/hrt-job/sophomore-internship-summer-2026/	Sophomore Internship Summer 2026	no_match_closed (applications closed for Summer 2026)
 2026-05-04	Jump Trading	https://www.jumptrading.com/hr/job?gh_jid=7543377	Campus Software Engineer Dec2026-Feb2027 Intern	no_match_grad (Dec2026-Feb2027 grad window; excludes Jun2028)
+2026-05-04	Anthropic	https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	(board scan)	dedup_093 — Fellows Program workstreams (5183051008 ML Systems, 5183044008 AI Safety, 5030244008 AI Security, 5183052008 RL, 5183053008 Econ/Policy) deadline May 3 PASSED
+2026-05-04	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5183051008	Anthropic Fellows Program — ML Systems & Performance	deadline_passed (May 3, 2026)
+2026-05-04	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5183044008	Anthropic Fellows Program — AI Safety	deadline_passed (May 3, 2026)
+2026-05-04	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5030244008	Anthropic Fellows Program — AI Security	deadline_passed (May 3, 2026)
+2026-05-04	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5183052008	Anthropic Fellows Program — Reinforcement Learning	deadline_passed (May 3, 2026)
+2026-05-04	xAI	https://boards-api.greenhouse.io/v1/boards/xai/jobs	(board scan)	no_match_role — Engineering Intern (4730948007) is hardware/civil/data center, not SWE
+2026-05-04	xAI	https://job-boards.greenhouse.io/xai/jobs/4730948007	Engineering Intern (hardware/data center)	no_match_role
+2026-05-04	Character AI	https://boards-api.greenhouse.io/v1/boards/characterai/jobs	(board scan)	no_interns
+2026-05-04	Together AI	https://boards-api.greenhouse.io/v1/boards/togetherai/jobs	(board scan)	dedup — Research Intern Inference (5014291007), Security Eng Intern (5012785007) both previously logged
+2026-05-04	Inflection	https://boards-api.greenhouse.io/v1/boards/inflectionai/jobs	(board scan)	dedup_113 — same Inflection Technical Internship
+2026-05-04	AI21	https://boards-api.greenhouse.io/v1/boards/ai21labs/jobs	(board scan)	no_interns
+2026-05-04	Stability AI	https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs	(board scan)	no_interns
+2026-05-04	Scale AI	https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	(board scan)	found_new: ML Research Intern (4606060005) no_match_grad (Fall2026/Spring2027 req)
+2026-05-04	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs/4606060005	Machine Learning Research Intern (Summer 2026)	no_match_grad (Fall 2026/Spring 2027 graduation required; George June 2028)
+2026-05-04	Databricks	https://boards-api.greenhouse.io/v1/boards/databricks/jobs	(board scan)	found_new: SWE Intern 7640764002 no_match_grad (fall2026-summer2027)
+2026-05-04	Databricks	https://job-boards.greenhouse.io/databricks/jobs/7640764002	Software Engineering Intern (2026)	no_match_grad (fall 2026-summer 2027 required; George June 2028)
+2026-05-04	Datadog	https://boards-api.greenhouse.io/v1/boards/datadog/jobs	(board scan)	dedup — same SWE Intern (7158137) already no_match_grad
+2026-05-04	Arize AI	https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	(board scan)	no_interns
+2026-05-04	Weaviate	https://boards-api.greenhouse.io/v1/boards/weaviate/jobs	(board scan)	no_interns
+2026-05-04	Vercel	https://boards-api.greenhouse.io/v1/boards/vercel/jobs	(board scan)	dedup_065 (Data Platform); Spring intern timing past; Summer Intern no_match_grad
+2026-05-04	Vercel	https://job-boards.greenhouse.io/vercel/jobs/5628286004	Engineering Spring Intern	no_match_timing (spring 2026 past)
+2026-05-04	GitHub	https://boards-api.greenhouse.io/v1/boards/github/jobs	(board scan)	no_interns_found
+2026-05-04	GitLab	https://boards-api.greenhouse.io/v1/boards/gitlab/jobs	(board scan)	no_active_interns (interest registration only)
+2026-05-04	Replit	https://boards-api.greenhouse.io/v1/boards/replit/jobs	(board scan)	no_new_listings (uses Ashby, dedup_004)
+2026-05-04	Retool	https://boards-api.greenhouse.io/v1/boards/retool/jobs	(board scan)	no_interns
+2026-05-04	Supabase	https://boards-api.greenhouse.io/v1/boards/supabase/jobs	(board scan)	no_interns
+2026-05-04	Render	https://boards-api.greenhouse.io/v1/boards/render/jobs	(board scan)	no_interns
+2026-05-04	Sourcegraph	https://boards-api.greenhouse.io/v1/boards/sourcegraph/jobs	(board scan)	no_interns
+2026-05-04	dbt Labs	https://boards-api.greenhouse.io/v1/boards/dbtlabsinc/jobs	(board scan)	no_interns
+2026-05-04	Postman	https://boards-api.greenhouse.io/v1/boards/postman/jobs	(board scan)	no_new_interns (dedup_051)
+2026-05-04	OpenAI	https://jobs.ashbyhq.com/openai	(board scan)	found_new: Fall 2026 SWE Intern (1f3353ed) = report_127 (4.0/5). Systems Research (13a9e4e4) dedup no_match_degree.
+2026-05-04	OpenAI	https://jobs.ashbyhq.com/openai/1f3353ed-78eb-4a01-b783-c44b1c086711	Software Engineer Internship/Co-op, Applied Emerging Talent (Fall 2026)	report_127 (4.0/5) — $60/hr SF. Different from Summer 2026 report_013. VERIFY PSU co-op leave.
+2026-05-04	Cursor (Anysphere)	https://jobs.ashbyhq.com/anysphere	(board scan)	no_interns
+2026-05-04	Perplexity	https://jobs.ashbyhq.com/perplexity	(board scan)	no_match_location — all intern roles in Belgrade/Berlin offices
+2026-05-04	Cohere	https://jobs.ashbyhq.com/cohere	(board scan)	dedup_049 (SWE Spring/Summer), dedup_timing (Winter/Fall tracks); Research RL no_match_degree; Fall/Winter 2026 tracks no_match_timing for Summer target
+2026-05-04	Adept	https://jobs.ashbyhq.com/adept	(board scan)	no_interns
+2026-05-04	Modal	https://jobs.ashbyhq.com/modal	(board scan)	no_interns
+2026-05-04	LangChain	https://jobs.ashbyhq.com/langchain	(board scan)	no_interns
+2026-05-04	Pinecone	https://jobs.ashbyhq.com/pinecone	(board scan)	dedup (Intern: Science NYC already no_match_research)
+2026-05-04	Linear	https://jobs.ashbyhq.com/linear	(board scan)	no_interns
+2026-05-04	Fly.io	https://jobs.ashbyhq.com/fly.io	(board scan)	no_interns
+2026-05-04	Railway	https://jobs.ashbyhq.com/railway	(board scan)	no_interns (Developer Relations is FTE)
+2026-05-04	Mistral	https://jobs.lever.co/mistral	(board scan)	no_match_location — all intern roles Paris/London/Berlin
+2026-05-04	W&B	https://jobs.lever.co/wandb	(board scan)	no_interns
+2026-05-04	Hugging Face	https://apply.workable.com/huggingface	(board scan)	found_new: TRL (E39256D0B1) no_match_skills; Post-Training (5D57D607E2) no_match_degree. Others dedup.
+2026-05-04	Hugging Face	https://apply.workable.com/huggingface/j/E39256D0B1	MLE Internship, TRL - US Remote	no_match_skills (requires RLHF/fine-tuning depth George lacks)
+2026-05-04	Hugging Face	https://apply.workable.com/huggingface/j/5D57D607E2	ML Research Engineer Internship, Post-Training - US Remote	no_match_degree (ML research background required, MS/PhD preferred)
