@@ -2,6 +2,11 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 139 | 2026-05-07 | Waymo | Summer Intern BS/MS Systems Engineering Applied GenAI | 3.9/5 | Evaluada | ❌ | [139](reports/139-waymo-applied-genai-systems-intern-2026-05-07.md) | Mtn View hybrid. $48.08/hr BS. CoverMe=exact prompt eng proof point. Distinct from report 015. Rolling deadline — apply ASAP. |
+| 138 | 2026-05-07 | Coinbase | Machine Learning Engineer Intern | 3.6/5 | Evaluada | ❌ | [138](reports/138-coinbase-mle-intern-2026-05-07.md) | SF hybrid. TF/PyTorch gap = stretch. Distinct role from report 024 (SWE). Apply low-priority alongside 024+137. |
+| 136 | 2026-05-07 | Samsara | Software Engineering Intern | 4.0/5 | Evaluada | ❌ | [136](reports/136-samsara-swe-intern-2026-05-07.md) | SF hybrid or remote, $52.40/hr, grad Winter 2028 OK. TypeScript/React track matches CoverMe. Apply after AI-native roles. |
+| 137 | 2026-05-07 | Coinbase | Data Science Intern | 3.9/5 | Evaluada | ❌ | [137](reports/137-coinbase-ds-intern-2026-05-07.md) | NYC hybrid. 12 wks. SQL+Python product analytics match. No grad year req. Apply alongside report 024. |
+| 140 | 2026-05-07 | Mercury | Full-Stack Engineering Intern | 3.1/5 | Evaluada | ❌ | [140](reports/140-mercury-fullstack-intern-2026-05-07.md) | Deadline Oct 2025 — likely closed. Haskell gap. $55/hr remote. Do not apply. Monitor Fall 2026 cycle. |
 | 135 | 2026-05-07 | Microsoft | Software Engineer: Applied AI/ML Intern | 4.0/5 | Evaluated | ❌ | [135](reports/135-microsoft-applied-aiml-intern-2026-05-07.md) | New job ID 1872468 (distinct from report_091 job 1766916); strong AI/ML match, CoverMe+LionPlanner directly cited in preferred quals; Redmond WA |
 | 134 | 2026-05-04 | Gusto | Software Engineering Intern | 3.5/5 | Evaluated | ❌ | [134](reports/134-gusto-swe-intern-2026-05-04.md) | SF/NYC/Denver hybrid. $58.65/hr. TypeScript/Python match. Gap: Ruby/Go primary stack. |
 | 133 | 2026-05-04 | DigitalOcean | Engineering Intern | 3.7/5 | Evaluated | ❌ | [133](reports/133-digitalocean-eng-intern-2026-05-04.md) | Remote/5 US cities. ~$45-54/hr. Cloud/AI focus. Grad 2027-2028 explicitly accepted. |

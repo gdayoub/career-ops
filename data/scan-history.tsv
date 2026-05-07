@@ -1376,3 +1376,64 @@ date	company	url	title	result
 2026-05-07	Mistral	https://jobs.lever.co/mistral	(board scan)	WebSearch: AI Scientist Paris/London (292397f0) = dedup no_match_location. Applied AI MLE Intern (881941e1) = already in history. PhD Palo Alto (589527e0) = already in history. No new eligible US interns.
 2026-05-07	W&B	https://jobs.lever.co/wandb	(board scan)	WebSearch: no intern listings, only FT SWE roles.
 2026-05-07	Hugging Face	https://apply.workable.com/huggingface	(board scan)	WebSearch: WebML (D04BE4F4A3), Accelerate (F860248372), Generative AI (07FBA391F1), Gradio (9E5944D267), Multimodal (423E512A62), TRL (E39256D0B1), Embodied AI (B3CDE6C150) — all previously logged. No new eligible interns.
+2026-05-07	Stripe	https://boards-api.greenhouse.io/v1/boards/stripe/jobs	(board scan)	api_blocked; WebSearch: Software Engineer Intern (Summer & Winter) token=6142753 = dedup_052. No new intern listings.
+2026-05-07	Plaid	https://boards-api.greenhouse.io/v1/boards/plaid/jobs	(board scan)	api_blocked; WebSearch: SWE Intern Summer 2026 found — grad Winter 2026/Spring 2027 required. no_match_grad (George Jun 2028).
+2026-05-07	Mercury	https://job-boards.greenhouse.io/mercury	(board scan)	api_blocked; WebSearch: Full-Stack/Backend/Frontend Intern Summer 2026 found. Backend/Full-Stack requires Haskell; deadline Oct 2025 likely closed. Evaluated report_140 (3.1/5, Discarded).
+2026-05-07	Robinhood	https://boards-api.greenhouse.io/v1/boards/robinhood/jobs	(board scan)	api_blocked; WebSearch: Backend SWE Intern Summer 2026 found — grad Winter 2026/Spring 2027 only. no_match_grad.
+2026-05-07	SoFi	https://boards-api.greenhouse.io/v1/boards/sofi/jobs	(board scan)	api_blocked; WebSearch: SWE Intern Summer 2026 — grad Dec 2026/Spring 2027 only. no_match_grad.
+2026-05-07	Chime	https://boards-api.greenhouse.io/v1/boards/chime/jobs	(board scan)	api_blocked; WebSearch: only Summer 2025 listings found. No Summer 2026 intern postings active.
+2026-05-07	HubSpot	https://boards-api.greenhouse.io/v1/boards/hubspot/jobs	(board scan)	api_blocked; WebSearch: no current Summer 2026 openings on Greenhouse students board.
+2026-05-07	Intercom	https://boards-api.greenhouse.io/v1/boards/intercom/jobs	(board scan)	api_blocked; WebSearch: no intern listings found for Summer 2026.
+2026-05-07	CrowdStrike	https://boards-api.greenhouse.io/v1/boards/crowdstrike/jobs	(board scan)	api_blocked; WebSearch: SWE Intern Redmond/Sunnyvale — grad Dec 2026-Aug 2027 required. DS Intern = PhD only. no_match_grad + no_match_degree.
+2026-05-07	SentinelOne	https://boards-api.greenhouse.io/v1/boards/sentinelone/jobs	(board scan)	api_blocked; WebSearch: AI/ML Intern Summer 2026 found — $31/hr (below $40 target). no_match_comp.
+2026-05-07	Vanta	https://boards-api.greenhouse.io/v1/boards/vanta/jobs	(board scan)	api_blocked; WebSearch: no intern listings found.
+2026-05-07	Palo Alto Networks	https://boards-api.greenhouse.io/v1/boards/paloaltonetworks/jobs	(board scan)	api_blocked; WebSearch: no new Summer 2026 intern listings beyond dedup_055.
+2026-05-07	Cloudflare	https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_005, dedup_073, dedup_107.
+2026-05-07	MongoDB	https://boards-api.greenhouse.io/v1/boards/mongodb/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_019.
+2026-05-07	Snowflake	https://boards-api.greenhouse.io/v1/boards/snowflake/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_053, dedup_108, dedup_109.
+2026-05-07	Elastic	https://boards-api.greenhouse.io/v1/boards/elastic/jobs	(board scan)	api_blocked; WebSearch: no intern listings found for Summer 2026.
+2026-05-07	Confluent	https://boards-api.greenhouse.io/v1/boards/confluent/jobs	(board scan)	api_blocked; WebSearch: no intern listings found for Summer 2026.
+2026-05-07	HashiCorp	https://boards-api.greenhouse.io/v1/boards/hashicorp/jobs	(board scan)	api_blocked; WebSearch: no intern listings found for Summer 2026.
+2026-05-07	Grafana Labs	https://boards-api.greenhouse.io/v1/boards/grafanalabs/jobs	(board scan)	api_blocked; WebSearch: no US intern listings found for Summer 2026.
+2026-05-07	PagerDuty	https://boards-api.greenhouse.io/v1/boards/pagerduty/jobs	(board scan)	api_blocked; WebSearch: no intern listings found for Summer 2026.
+2026-05-07	Figma	https://boards-api.greenhouse.io/v1/boards/figma/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_010.
+2026-05-07	Notion	https://boards-api.greenhouse.io/v1/boards/notion/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_002, dedup_003, dedup_096, dedup_115.
+2026-05-07	Canva	https://boards-api.greenhouse.io/v1/boards/canva/jobs	(board scan)	api_blocked; WebSearch: internships in Sydney Australia only — no_match_location (US required).
+2026-05-07	Airtable	https://boards-api.greenhouse.io/v1/boards/airtable/jobs	(board scan)	api_blocked; WebSearch: only New Grad 2026 role found — no_match_role (requires 2026 grad, not intern).
+2026-05-07	Asana	https://boards-api.greenhouse.io/v1/boards/asana/jobs	(board scan)	api_blocked; WebSearch: SWE Intern Summer 2026 — Warsaw and Reykjavik locations only. no_match_location (US required).
+2026-05-07	Dropbox	https://boards-api.greenhouse.io/v1/boards/dropbox/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_014, dedup_095, dedup_130.
+2026-05-07	Rippling	https://boards-api.greenhouse.io/v1/boards/rippling/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_027, dedup_111, dedup_112.
+2026-05-07	Navan	https://boards-api.greenhouse.io/v1/boards/navan/jobs	(board scan)	api_blocked; WebSearch: no intern listings found for Summer 2026.
+2026-05-07	Flexport	https://boards-api.greenhouse.io/v1/boards/flexport/jobs	(board scan)	api_blocked; WebSearch: SWE Intern — grad within 1 year required. no_match_grad.
+2026-05-07	Verkada	https://boards-api.greenhouse.io/v1/boards/verkada/jobs	(board scan)	api_blocked; WebSearch: Backend/Frontend SWE Intern 2026 — grad by June 2027 required. no_match_grad.
+2026-05-07	Samsara	https://boards-api.greenhouse.io/v1/boards/samsara/jobs	(board scan)	api_blocked; WebSearch: SWE Intern Summer 2026 (gh_jid=7179025) found. $52.40/hr, grad Winter 2028 OK. Evaluated report_136 (4.0/5).
+2026-05-07	Whatnot	https://boards-api.greenhouse.io/v1/boards/whatnot/jobs	(board scan)	api_blocked; WebSearch: SWE Intern Summer 2026 — grad Dec 2026/Summer 2027 required. no_match_grad (confirms dedup_007).
+2026-05-07	Etsy	https://boards-api.greenhouse.io/v1/boards/etsy/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_032.
+2026-05-07	Deel	https://boards-api.greenhouse.io/v1/boards/deel/jobs	(board scan)	api_blocked; WebSearch: no intern listings found for Summer 2026.
+2026-05-07	Webflow	https://boards-api.greenhouse.io/v1/boards/webflow/jobs	(board scan)	api_blocked; WebSearch: no intern listings found for Summer 2026.
+2026-05-07	Anduril Industries	https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	(board scan)	api_blocked; WebSearch: SWE Intern (jid=4159665007) — same role as dedup_029 (requires rising senior). no_match_level.
+2026-05-07	Shield AI	https://boards-api.greenhouse.io/v1/boards/shieldai/jobs	(board scan)	api_blocked; WebSearch: no specific Summer 2026 intern listings found on boards.
+2026-05-07	Tempus	https://boards-api.greenhouse.io/v1/boards/tempus/jobs	(board scan)	api_blocked; WebSearch: ML Summer Associate — Master's/PhD required, grad Winter 2025-Summer 2026. no_match_degree + no_match_grad.
+2026-05-07	Recursion	https://boards-api.greenhouse.io/v1/boards/recursion/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_020.
+2026-05-07	Insitro	https://boards-api.greenhouse.io/v1/boards/insitro/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_057.
+2026-05-07	Cruise	https://boards-api.greenhouse.io/v1/boards/cruise/jobs	(board scan)	api_blocked; WebSearch: ML Orchestration Intern found (board.greenhouse.io/cruiseuniversity) — no Summer 2026 timing confirmed. Already tracked Aurora+Nuro; Cruise status uncertain.
+2026-05-07	Nuro	https://boards-api.greenhouse.io/v1/boards/nuro/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_023.
+2026-05-07	Aurora	https://boards-api.greenhouse.io/v1/boards/auroradriver/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_028.
+2026-05-07	Duolingo	https://boards-api.greenhouse.io/v1/boards/duolingo/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_114/dedup_129.
+2026-05-07	Toast	https://boards-api.greenhouse.io/v1/boards/toast/jobs	(board scan)	api_blocked; WebSearch: no intern listings found for Summer 2026.
+2026-05-07	Gusto	https://boards-api.greenhouse.io/v1/boards/gusto/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_054, dedup_134.
+2026-05-07	Glean	https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	(board scan)	api_blocked; WebSearch: SWE Intern (Summer) jid=4463752005 found — grad Fall 2025/Spring 2026 required. no_match_grad (confirms dedup_031 pattern).
+2026-05-07	Sigma Computing	https://boards-api.greenhouse.io/v1/boards/sigmacomputing/jobs	(board scan)	api_blocked; WebSearch: no active Summer 2026 intern posting found (last listing was Summer 2024). Already dedup_008.
+2026-05-07	Coinbase	https://boards-api.greenhouse.io/v1/boards/coinbase/jobs	(board scan)	api_blocked; WebSearch: DS Intern (token=7309504) NYC hybrid — new role. Evaluated report_137 (3.9/5). MLE Intern (token=7294075) SF hybrid — new role. Evaluated report_138 (3.6/5). SWE Intern = dedup_024.
+2026-05-07	Block	https://boards-api.greenhouse.io/v1/boards/block/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_026.
+2026-05-07	Affirm	https://boards-api.greenhouse.io/v1/boards/affirm/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_009, dedup_022.
+2026-05-07	Atlassian	https://boards-api.greenhouse.io/v1/boards/atlassian/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_128.
+2026-05-07	Grammarly	https://boards-api.greenhouse.io/v1/boards/grammarly/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_021, dedup_103.
+2026-05-07	Twilio	https://boards-api.greenhouse.io/v1/boards/twilio/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_102.
+2026-05-07	Zoom	https://boards-api.greenhouse.io/v1/boards/zoomvideocommunications/jobs	(board scan)	api_blocked; WebSearch: no new intern listings beyond dedup_104.
+2026-05-07	Waymo	https://careers.withwaymo.com/jobs	(board scan)	WebSearch: multiple new BS/MS tracks found. Applied GenAI (Systems Eng) new — evaluated report_139 (3.9/5). Simulation, Positioning, Fleet Response, SQR, Commercialization, Multiverse tracks = dedup_015 umbrella (same general SWE pool, different teams).
+2026-05-07	Salesforce	https://careers.salesforce.com	(web search)	WebSearch: no new listings beyond dedup_025, dedup_117, dedup_121, dedup_131.
+2026-05-07	ServiceNow	https://servicenow.com/careers	(web search)	WebSearch: no new listings beyond dedup_018, dedup_072, dedup_132.
+2026-05-07	Two Sigma	https://twosigma.com/careers	(web search)	WebSearch: no new listings beyond dedup_038, dedup_075, dedup_088.
+2026-05-07	Jane Street	https://janestreet.com/careers	(web search)	WebSearch: no new listings beyond dedup_041.
+2026-05-07	Citadel	https://citadel.com/careers	(web search)	WebSearch: no new listings beyond dedup_039, dedup_086, dedup_092.
