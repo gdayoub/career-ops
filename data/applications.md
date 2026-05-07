@@ -2,6 +2,12 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 135 | 2026-05-07 | Microsoft | Software Engineer: Applied AI/ML Intern | 4.0/5 | Evaluated | ❌ | [135](reports/135-microsoft-applied-aiml-intern-2026-05-07.md) | New job ID 1872468 (distinct from report_091 job 1766916); strong AI/ML match, CoverMe+LionPlanner directly cited in preferred quals; Redmond WA |
+| 134 | 2026-05-04 | Gusto | Software Engineering Intern | 3.5/5 | Evaluated | ❌ | [134](reports/134-gusto-swe-intern-2026-05-04.md) | SF/NYC/Denver hybrid. $58.65/hr. TypeScript/Python match. Gap: Ruby/Go primary stack. |
+| 133 | 2026-05-04 | DigitalOcean | Engineering Intern | 3.7/5 | Evaluated | ❌ | [133](reports/133-digitalocean-eng-intern-2026-05-04.md) | Remote/5 US cities. ~$45-54/hr. Cloud/AI focus. Grad 2027-2028 explicitly accepted. |
+| 132 | 2026-05-04 | ServiceNow | Machine Learning Engineer Intern | 3.8/5 | Evaluated | ❌ | [132](reports/132-servicenow-ml-eng-intern-2026-05-04.md) | Santa Clara hybrid. LLM/Python/pandas match. Gap: TensorFlow/PyTorch, Java. Apply if can bridge. |
+| 131 | 2026-05-04 | Salesforce | Summer 2026 Intern — AI & Data Science Analyst | 4.0/5 | Evaluated | ❌ | [131](reports/131-salesforce-ai-ds-analyst-intern-2026-05-04.md) | SF. $46-59/hr. Office of CEO AI role — CoverMe Claude API is the lead proof point. |
+| 130 | 2026-05-04 | Dropbox | Data Science Intern | 4.2/5 | Evaluated | ❌ | [130](reports/130-dropbox-ds-intern-2026-05-04.md) | Remote US. ~$46/hr. Python/pandas/NLP/LLM exact match. CoverMe + OSINT are top proof points. |
 | 128 | 2026-05-04 | Atlassian | Software Engineer Intern, 2026 Summer U.S. | 4.3/5 | Evaluada | ❌ | [128](reports/128-atlassian-swe-intern-2026-05-04.md) | SF/Seattle hybrid. $59-75/hr. Grad by Jan 2028 — June 2028 borderline, clarify with recruiter. |
 | 127 | 2026-05-04 | OpenAI | Software Engineer Internship/Co-op, Applied Emerging Talent (Fall 2026) | 4.0/5 | Evaluada | ❌ | [127](reports/127-openai-fall-swe-intern-2026-05-04.md) | $60/hr SF in-person. Fall 2026 (15wks). CoverMe=exact stack match. VERIFY PSU co-op leave first. Top-priority backup/co-op path if summer role closed. |
 | 123 | 2026-05-04 | Amazon | SDE Intern – Amazon Leo (Summer 2026) | 4.2/5 | Evaluada | ❌ | [123](reports/123-amazon-leo-swe-intern-2026-05-04.md) | BS-eligible Oct2026-Sep2029; satellite internet SWE; ~$50-55/hr; export control req (confirm US citizenship/PR). Apply promptly. |
