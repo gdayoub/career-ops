@@ -1336,3 +1336,43 @@ date	company	url	title	result
 2026-05-07	HRT	https://www.hudsonrivertrading.com/student-opportunities/	(board scan)	no_match_closed (summer 2026 applications closed per HRT website)
 2026-05-07	Jump Trading	https://www.jumptrading.com/careers/6165570/	Campus UI Software Engineer (Intern)	no_match_skills (UI/frontend-only role; George has deal-breaker against 100% frontend)
 2026-05-07	Jump Trading	https://www.jumptrading.com/hr/job?gh_jid=7543377	Campus Software Engineer (Dec 2026 - Feb 2027 Intern)	dedup_042 (same Dec 2026 role as report_042)
+2026-05-07	Anthropic	https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	(board scan)	api_blocked; WebSearch fallback: Fellows Program tracks (5183051008 ML Systems, 5183044008 AI Safety, 5030244008 AI Security, 5183052008 RL, 5183053008 Econ/Policy) — deadline May 3 PASSED. No new eligible interns.
+2026-05-07	xAI	https://boards-api.greenhouse.io/v1/boards/xai/jobs	(board scan)	api_blocked; WebSearch fallback: Engineering Intern (5054417007) = datacenter mechanical/electrical focus, no_match_role. No new SWE/ML/DS interns.
+2026-05-07	Character AI	https://boards-api.greenhouse.io/v1/boards/characterai/jobs	(board scan)	api_blocked; WebSearch: no intern listings found.
+2026-05-07	Together AI	https://boards-api.greenhouse.io/v1/boards/togetherai/jobs	(board scan)	api_blocked; WebSearch: all Summer 2026 interns already logged (5014291007, 5012768007, 5015203007, 5015074007, 5014290007). No new eligible listings.
+2026-05-07	Inflection AI	https://boards-api.greenhouse.io/v1/boards/inflectionai/jobs	(board scan)	api_blocked; WebSearch: no intern listings found.
+2026-05-07	AI21 Labs	https://boards-api.greenhouse.io/v1/boards/ai21labs/jobs	(board scan)	api_blocked; WebSearch: no intern listings found.
+2026-05-07	Stability AI	https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs	(board scan)	api_blocked; WebSearch: no intern listings found.
+2026-05-07	Scale AI	https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	(board scan)	api_blocked; WebSearch: all Summer 2026 interns already logged (4606014005, 4606060005, 4677519005, 4611533005). No new eligible listings.
+2026-05-07	Databricks	https://boards-api.greenhouse.io/v1/boards/databricks/jobs	(board scan)	api_blocked; WebSearch: SWE Intern (6866531002, 6866534002) grad mismatch Fall2026-Summer2027, already in history. DS Intern requires Masters/PhD. No new eligible.
+2026-05-07	Datadog	https://boards-api.greenhouse.io/v1/boards/datadog/jobs	(board scan)	api_blocked; WebSearch: all interns (7158118, 7367016, 7158137, 7406578) grad mismatch (2026 grads only). Already in history. No new eligible.
+2026-05-07	Arize AI	https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	(board scan)	api_blocked; WebSearch: no intern listings. New Grad AI Product Engineer (5396470004) = full-time, no_match_level.
+2026-05-07	Weaviate	https://boards-api.greenhouse.io/v1/boards/weaviate/jobs	(board scan)	api_blocked; WebSearch: no intern listings found.
+2026-05-07	Vercel	https://boards-api.greenhouse.io/v1/boards/vercel/jobs	(board scan)	api_blocked; WebSearch: no intern listings. Only full-time SWE/sales roles found.
+2026-05-07	GitHub	https://boards-api.greenhouse.io/v1/boards/github/jobs	(board scan)	api_blocked; WebSearch (github.careers): no new SWE interns. MDM & Data Quality Intern (5239) = no_match_grad (Dec2026-Aug2027 req) + no_match_role (data governance/CRM). Product Designer (4773) = no_match_role.
+2026-05-07	GitHub	https://www.github.careers/careers-home/jobs/5239	Master Data Management & Data Quality Intern	no_match_grad (req Dec2026-Aug2027, George Jun2028) + no_match_role (CRM data governance, not engineering)
+2026-05-07	GitLab	https://boards-api.greenhouse.io/v1/boards/gitlab/jobs	(board scan)	api_blocked; WebSearch: no intern listings, only senior/mid FT roles.
+2026-05-07	Replit	https://boards-api.greenhouse.io/v1/boards/replit/jobs	(board scan)	api_blocked; AshbyHQ scan: SWE Intern (12737078) = dedup_004. Education Team Intern (3590c5b2) = no_match_role (community/hackathons, not engineering).
+2026-05-07	Replit	https://jobs.ashbyhq.com/replit/3590c5b2-3983-40f3-a787-ef3b1bc8218c	Education Team Intern	no_match_role (community programs/hackathons/campus ambassador, not engineering/data/ML)
+2026-05-07	Retool	https://boards-api.greenhouse.io/v1/boards/retool/jobs	(board scan)	api_blocked; WebSearch: no intern listings found.
+2026-05-07	Supabase	https://jobs.ashbyhq.com/supabase	(board scan)	WebSearch: no intern listings found.
+2026-05-07	Render	https://boards-api.greenhouse.io/v1/boards/render/jobs	(board scan)	api_blocked; WebSearch: no intern listings found.
+2026-05-07	Sourcegraph	https://sourcegraph.com/jobs	(board scan)	WebSearch: no intern listings found.
+2026-05-07	dbt Labs	https://boards-api.greenhouse.io/v1/boards/dbtlabsinc/jobs	(board scan)	api_blocked; WebSearch: only senior FT roles, no intern listings.
+2026-05-07	Postman	https://boards-api.greenhouse.io/v1/boards/postman/jobs	(board scan)	api_blocked; WebSearch: Newmanaut = India-based, no_match_location. No US interns.
+2026-05-07	OpenAI	https://openai.com/careers	(board scan)	WebSearch: no new listings since last scan. SWE Intern/Co-op Summer 2026 = dedup_013. Fall 2026 = dedup_127. Systems Research = no_match_degree. Applied ET 2026 = no_match_role.
+2026-05-07	Cursor (Anysphere)	https://jobs.ashbyhq.com/anysphere	(board scan)	WebSearch: no intern listings found.
+2026-05-07	Perplexity	https://jobs.ashbyhq.com/perplexity	(board scan)	WebSearch: Search MLE Intern (71168628) = UK/London only, no_match_location. UK Internship Program (79a07e2d) = dedup. No eligible US interns.
+2026-05-07	Perplexity	https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d	Internship - Search Machine Learning Engineer	no_match_location (London UK only)
+2026-05-07	Cohere	https://jobs.ashbyhq.com/cohere	(board scan)	WebSearch: SWE Fall/Winter 2026 (8c035d3d) = no_match_timing (George targets Summer 2026). SWE Spring/Summer (66c98ca3) = dedup_049. ML Spring/Summer (2c669d85) = dedup. Research RL (a8c8bc3e) = no_match_degree.
+2026-05-07	Cohere	https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254	Software Engineer Intern (Fall/Winter 2026)	no_match_timing (Fall/Winter 2026; George targets Summer 2026)
+2026-05-07	Adept	https://jobs.ashbyhq.com/adept	(board scan)	WebSearch: no intern listings found.
+2026-05-07	Modal	https://jobs.ashbyhq.com/modal	(board scan)	WebSearch: no intern listings, only FT staff/engineer roles.
+2026-05-07	LangChain	https://jobs.ashbyhq.com/langchain	(board scan)	WebSearch: no intern listings, only FT engineer/GTM roles.
+2026-05-07	Pinecone	https://jobs.ashbyhq.com/pinecone	(board scan)	WebSearch: Science NYC Intern (ee430f96) = already in history. No new intern listings.
+2026-05-07	Linear	https://jobs.ashbyhq.com/linear	(board scan)	WebSearch: no intern listings found.
+2026-05-07	Fly.io	https://jobs.ashbyhq.com/fly.io	(board scan)	WebSearch: no intern listings found.
+2026-05-07	Railway	https://jobs.ashbyhq.com/railway	(board scan)	WebSearch: no intern listings, only FT DevRel roles.
+2026-05-07	Mistral	https://jobs.lever.co/mistral	(board scan)	WebSearch: AI Scientist Paris/London (292397f0) = dedup no_match_location. Applied AI MLE Intern (881941e1) = already in history. PhD Palo Alto (589527e0) = already in history. No new eligible US interns.
+2026-05-07	W&B	https://jobs.lever.co/wandb	(board scan)	WebSearch: no intern listings, only FT SWE roles.
+2026-05-07	Hugging Face	https://apply.workable.com/huggingface	(board scan)	WebSearch: WebML (D04BE4F4A3), Accelerate (F860248372), Generative AI (07FBA391F1), Gradio (9E5944D267), Multimodal (423E512A62), TRL (E39256D0B1), Embodied AI (B3CDE6C150) — all previously logged. No new eligible interns.
