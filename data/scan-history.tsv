@@ -813,7 +813,6 @@ date	company	url	title	result
 2026-04-25	Mistral	https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5	Applied AI Forward Deployed ML Eng Internship	no_match_location
 2026-04-25	W&B	https://jobs.lever.co/wandb	(board scan)	no_interns
 2026-04-25	Hugging Face	https://apply.workable.com/huggingface	(board scan)	no_new_interns
-date	company	url	title	result
 2026-04-25	Stripe	https://boards-api.greenhouse.io/v1/boards/stripe/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (Software Engineer Intern, Data Analyst Intern, PhD DS/MLE Interns — all closed)
 2026-04-25	Plaid	https://boards-api.greenhouse.io/v1/boards/plaid/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs no listings (0 active or inactive)
 2026-04-25	Brex	https://boards-api.greenhouse.io/v1/boards/brex/jobs	(board scan)	api_403 — cross-ref: SimplifyJobs inactive only (Software Engineer Intern — closed 2mo ago)
@@ -876,7 +875,6 @@ date	company	url	title	result
 2026-04-25	Etsy	https://boards-api.greenhouse.io/v1/boards/etsy/jobs	(board scan)	api_blocked — no_match_grad (mid-2027 grads)
 2026-04-25	Deel	https://boards-api.greenhouse.io/v1/boards/deel/jobs	(board scan)	api_blocked — no_interns
 2026-04-25	Webflow	https://boards-api.greenhouse.io/v1/boards/webflow/jobs	(board scan)	api_blocked — no_interns
-date	company	url	title	result
 2026-04-25	Anduril	https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	(board scan)	api_403 — dedup: no_match_grad (rising senior req; confirmed 2026-04-22)
 2026-04-25	Shield AI	https://boards-api.greenhouse.io/v1/boards/shieldai/jobs	(board scan)	api_403 — dedup: no_match_grad (Dec2026-Spring2027 req; confirmed 2026-04-22)
 2026-04-25	Tempus	https://boards-api.greenhouse.io/v1/boards/tempus/jobs	(board scan)	api_403 — dedup: no_match_grad (graduating Summer2026 req; confirmed 2026-04-22)
