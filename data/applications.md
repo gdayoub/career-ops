@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 154 | 2026-05-13 | Citadel Securities | Software Engineer Intern | 3.2/5 | Evaluada | ❌ | [154](reports/154-citadel-securities-swe-intern-2026-05-13.md) | ⚠️ TIMING: Summer 2026 likely closed — apply Aug 2026 for 2027 cycle. $132.50/hr NYC/Chicago/Miami. C++ gap. NLP/ML match. Distinct entity from Citadel LLC (reports 039/086/092). |
 | 153 | 2026-05-10 | Discord | Product Engineering Intern Revenue Infrastructure | 3.6/5 | Evaluada | ❌ | [153](reports/153-discord-revenue-infra-intern-2026-05-10.md) | GH job 6561196002. SF in-person. $63/hr. Payments/billing backend. CoverMe Stripe = direct proof point. SF housing required. Secondary after remote Discord roles. |
 | 152 | 2026-05-10 | Discord | Software Engineer Intern Design Systems | 3.3/5 | Evaluada | ❌ | [152](reports/152-discord-design-systems-intern-2026-05-10.md) | GH job 7003736002. SF in-person only. $63/hr. React component library, design tokens. Poor strategic fit for DS/ML trajectory. Apply only if other Discord roles stall. |
 | 151 | 2026-05-10 | Discord | Software Engineer Intern Platform Ecosystems | 3.9/5 | Evaluada | ❌ | [151](reports/151-discord-platform-ecosystems-intern-2026-05-10.md) | GH job 7003744002. Remote/SF. $63/hr. React+TypeScript+Python full-stack. CoverMe = exact stack match. Top Discord application alongside ML Platform (148). |
