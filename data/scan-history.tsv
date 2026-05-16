@@ -252,3 +252,49 @@ date	company	url	title	result
 2026-05-16	Jump Trading	https://www.jumptrading.com/careers/7123075/	Campus Python Software Engineer Intern	report_161 (3.8/5; Chicago in-office; ~$86/hr; Python/Pandas/NumPy exact match; verify Summer 2026 timing)
 2026-05-16	Jump Trading	https://www.jumptrading.com/hr/job?gh_jid=7543377	Campus Software Engineer Intern Dec 2026-Feb 2027	dedup_042 (same winter track, new job ID 7543377; existing report 3.4/5 sufficient)
 2026-05-16	Jump Trading	https://www.jumptrading.com/hr/job?gh_jid=7565728	Campus Trading Team Software Engineer Intern	no_match_geo (Sydney/Singapore office only; not US-based)
+2026-05-16	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5023394008	Fellows Program (July 2026+ cohort)	dedup_093 (new cohort cycle open; same research fellowship; no SWE internship)
+2026-05-16	xAI	https://job-boards.greenhouse.io/xai/jobs/4730948007	Engineering Intern (Mechanical/Datacenter)	no_match (datacenter mechanical engineering; not SWE/ML)
+2026-05-16	Character AI	https://boards-api.greenhouse.io/v1/boards/characterai/jobs	(board scan)	no_interns
+2026-05-16	Together AI	https://job-boards.greenhouse.io/togetherai/jobs/5014291007	Research Intern Inference (Summer 2026)	no_match_grad (final year BS/MS/PhD req; George Jun 2028 ineligible; $58-63/hr)
+2026-05-16	Together AI	https://job-boards.greenhouse.io/togetherai/jobs/5012785007	Security Engineer Intern (Summer 2026)	no_match_grad (earned or expected by Summer 2027; George Jun 2028 ineligible; $58/hr; AI-driven security detection)
+2026-05-16	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs/4606014005	(board scan refresh)	dedup_012 (same SWE listing confirmed active)
+2026-05-16	Databricks	https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6866534002	Software Engineering Intern (2026)	no_match_grad (Fall 2026-Summer 2027 req; $54.50/hr; same grad req as 6866531002)
+2026-05-16	Datadog	https://careers.datadoghq.com/detail/7158118/	Software Engineering Intern (Summer)	unclear_grad (URL blocked; appears to be new listing; summer dates May 18-Aug 21 confirmed; ~$48-53/hr NY/Boston; no explicit grad restriction seen but similar to 7158137 which was no_match_grad; verify directly before applying)
+2026-05-16	Datadog	https://careers.datadoghq.com/detail/7367016/	Software Engineering Intern SRE (new listing)	no_match_timing (6-month internship Feb-Jun start; conflicts with PSU fall semester Aug 2026; distinct from report_122)
+2026-05-16	Arize AI	https://arize.com/careers/	(board scan)	no_interns
+2026-05-16	Weaviate	https://weaviate.io/company/careers	(board scan)	no_match_skills (Software Engineer Intern exists but requires Go preferred; George has no Go)
+2026-05-16	Vercel	https://job-boards.greenhouse.io/vercel/jobs/5628292004	Engineering Summer Intern	no_match_grad (Dec 2026 or May 2027 graduation required; George Jun 2028 ineligible; SF hybrid; $58/hr est)
+2026-05-16	GitHub	https://www.github.careers/careers-home/jobs/5239	Master Data Management & Data Quality Intern	no_match_grad (Dec 2026-Aug 2027 conf. req; George Jun 2028 ineligible; remote 12wks)
+2026-05-16	GitHub	https://www.github.careers/careers-home/jobs/4149	Applied Researcher II Intern	no_match_skills (2+ yrs exp req; published ML research preferred; $50-71/hr; too senior for undergrad)
+2026-05-16	GitLab	https://boards-api.greenhouse.io/v1/boards/gitlab/jobs	(board scan)	no_interns
+2026-05-16	Replit	https://replit.com/careers	(board scan)	dedup_004 (no new 2026 Summer intern listing found)
+2026-05-16	Retool	https://boards-api.greenhouse.io/v1/boards/retool/jobs	(board scan)	no_interns
+2026-05-16	Supabase	https://boards-api.greenhouse.io/v1/boards/supabase/jobs	(board scan)	no_interns
+2026-05-16	Render	https://boards-api.greenhouse.io/v1/boards/render/jobs	(board scan)	no_interns
+2026-05-16	Sourcegraph	https://sourcegraph.com/jobs	(board scan)	no_interns (no 2026 active intern listing found)
+2026-05-16	dbt Labs	https://job-boards.greenhouse.io/dbtlabsinc	(board scan)	no_interns
+2026-05-16	Postman	https://boards.greenhouse.io/postman/jobs/4670749003	Software Engineer - Intern	dedup_051 (same role confirmed active; Node.js/React; no summer timing specified)
+2026-05-16	OpenAI	https://jobs.ashbyhq.com/openai/566ce27d-8a1c-497c-a301-0912010d7b29	Software Engineer Internship/Co-op Applied Emerging Talent (Summer 2026)	dedup_013 (same role confirmed active; $60/hr SF/Seattle 12wks; BS/MS eligible)
+2026-05-16	Cursor (Anysphere)	https://jobs.ashbyhq.com/anysphere	(board scan)	no_interns
+2026-05-16	Perplexity	https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c	Internship - Machine Learning Research Engineer	no_match_geo (Berlin office only; 12-24wks in-person)
+2026-05-16	Perplexity	https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2	Internship - Search Machine Learning Engineer	no_match_geo (Belgrade office only; 12-24wks in-person)
+2026-05-16	Perplexity	https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92	Internship - Search Backend Infrastructure Engineer	no_match_geo (Belgrade office only; 12-24wks in-person)
+2026-05-16	Perplexity	https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763	UK Internship Program	no_match_geo (UK office only)
+2026-05-16	Cohere	https://jobs.ashbyhq.com/cohere/66c98ca3-334b-4a6a-a27c-5807b3686121	Software Engineer Intern (Spring/Summer 2026)	no_match_comp ($25-35/hr confirmed; well below $40/hr target; Toronto/SF/NYC/London/Paris; new URL — report_049 was earlier listing)
+2026-05-16	Cohere	https://jobs.ashbyhq.com/cohere/6e850172-a79d-4128-abd2-677731312857	Research Internship (Spring/Summer 2026)	no_match_degree (PhD in ML/NLP required; exceptional non-PhD rare; 4-6mo)
+2026-05-16	Adept AI	https://jobs.ashbyhq.com/adept.ai	(board scan)	no_interns
+2026-05-16	Modal	https://jobs.ashbyhq.com/modal	(board scan)	no_interns
+2026-05-16	LangChain	https://jobs.ashbyhq.com/langchain	(board scan)	no_interns
+2026-05-16	Pinecone	https://jobs.ashbyhq.com/pinecone/ee430f96-5d27-40c4-a1e9-1442ad7f9aed	Intern: Science NYC	dedup (no_match_degree PhD required; same as May 13 entry)
+2026-05-16	Linear	https://jobs.ashbyhq.com/linear	(board scan)	no_interns
+2026-05-16	Fly.io	https://fly.io/jobs/	(board scan)	no_intern_program (confirmed no internship program)
+2026-05-16	Railway	https://jobs.ashbyhq.com/railway	(board scan)	no_interns
+2026-05-16	Mistral	https://jobs.lever.co/mistral	(board scan)	no_match_geo (all internships Paris/EMEA; Master's/PhD required)
+2026-05-16	W&B	https://jobs.lever.co/wandb	(board scan)	no_interns
+2026-05-16	Hugging Face	https://apply.workable.com/huggingface/j/F860248372/	Machine Learning Engineer Internship Accelerate - US Remote	no_match_skills (requires PyTorch/distributed training/GPU expertise; George has scikit-learn not PyTorch)
+2026-05-16	Hugging Face	https://apply.workable.com/huggingface/j/07FBA391F1	Machine Learning Engineer Internship Generative AI - US Remote	dedup_050 (same title/team as report_050 3.7/5; role confirmed still active)
+2026-05-16	Hugging Face	https://apply.workable.com/huggingface/j/30EDE6502E/	Machine Learning Engineer Internship Hardware Optimization - US Remote	no_match_skills (hardware-specific model optimization; no background in hardware acceleration)
+2026-05-16	Hugging Face	https://apply.workable.com/huggingface/j/DB77EC837E/	Machine Learning Engineer Internship Tokenizers & Maintenance - US Remote	no_match_skills (transformer tokenizer specialization; George has TF-IDF not Transformers tokenizer impl)
+2026-05-16	Stability AI	https://stability.ai/careers	(board scan)	no_interns
+2026-05-16	AI21 Labs	https://www.ai21.com/careers/	(board scan)	no_interns
+2026-05-16	Inflection AI	https://www.builtinsf.com/job/inflection-ai-summer-internship-program/4280881	Technical Internship (Jun 2026)	dedup_113 (same role confirmed active; $50-65/hr; Palo Alto on-site 5d/wk; Jun 2-16 start; BS/MS/PhD eligible)
