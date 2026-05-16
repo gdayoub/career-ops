@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 161 | 2026-05-16 | Jump Trading | Campus Python Software Engineer Intern | 3.8/5 | Evaluated | ❌ | [161](reports/161-jump-trading-python-swe-intern-2026-05-16.md) | Chicago in-office ~$86/hr. Python/Pandas/NumPy exact match. OSINT+Seismos proof points. Verify Summer 2026 timing before applying. DISTINCT from report 087 (Python-specific track, no C++). |
 | 160 | 2026-05-13 | Waymo | 2026 Summer Intern BS/MS Software Engineering Simulation | 3.2/5 | Evaluada | ❌ | [160](reports/160-waymo-simulation-intern-2026-05-13.md) | Mountain View hybrid. $60-70/hr. C++ heavy = major gap. Do not apply over SQR (159). Distinct from 015+139. |
 | 159 | 2026-05-13 | Waymo | 2026 Summer Intern BS/MS Software Engineer SQR | 3.9/5 | Evaluada | ❌ | [159](reports/159-waymo-sqr-intern-2026-05-13.md) | SF hybrid. $60-70/hr. SQL+Python data pipeline = near-exact Seismos match. Rolling deadline. DISTINCT from reports 015+139. |
 | 154 | 2026-05-13 | Citadel Securities | Software Engineer Intern | 3.2/5 | Evaluada | ❌ | [154](reports/154-citadel-securities-swe-intern-2026-05-13.md) | ⚠️ TIMING: Summer 2026 likely closed — apply Aug 2026 for 2027 cycle. $132.50/hr NYC/Chicago/Miami. C++ gap. NLP/ML match. Distinct entity from Citadel LLC (reports 039/086/092). |
