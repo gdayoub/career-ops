@@ -456,3 +456,91 @@ date	company	url	title	result
 2026-05-19	Hugging Face	https://apply.workable.com/huggingface/j/AB7B65D426/	Machine Learning Engineer Internship, Biomedical - US Remote	no_match_skills (biomedical domain; no biomedical background; Gradio/Spaces work = similar to report_157 3.2/5; score would be ~2.8/5; skip)
 2026-05-19	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/7914628	Machine Learning Engineer Intern (Summer 2026)	report_169 (3.6/5; Austin TX in-office; 12wks; LLM eval + AI agents; BS qualifies no grad year restriction; VERIFY comp ≥$40/hr before applying — DS track was ~$25/hr est; DISTINCT from SWE 005 + Research Eng 107)
 2026-05-19	Decagon	https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6	Agent Software Engineer - Intern (Summer 2026)	no_match_grad (graduating by Summer 2027 required; George Jun 2028 ineligible; SF in-office; AI agents focus; comp unconfirmed)
+2026-05-19	Stripe	https://boards-api.greenhouse.io/v1/boards/stripe/jobs	(board scan)	api_error (403 Forbidden - host not in allowlist)
+2026-05-19	Plaid	https://boards-api.greenhouse.io/v1/boards/plaid/jobs	(board scan)	api_error (403 Forbidden - host not in allowlist)
+2026-05-19	Brex	https://boards-api.greenhouse.io/v1/boards/brex/jobs	(board scan)	api_error (403 Forbidden - host not in allowlist)
+2026-05-19	Mercury	https://boards-api.greenhouse.io/v1/boards/mercury/jobs	(board scan)	api_error (403 Forbidden - host not in allowlist)
+2026-05-19	Ramp	https://boards-api.greenhouse.io/v1/boards/ramp/jobs	(board scan)	api_error (403 Forbidden - host not in allowlist)
+2026-05-19	Robinhood	https://boards-api.greenhouse.io/v1/boards/robinhood/jobs	(board scan)	api_error; fallback WebSearch
+2026-05-19	Coinbase	https://boards-api.greenhouse.io/v1/boards/coinbase/jobs	(board scan)	api_error; all prev evaluated (dedup_024/dedup_137/dedup_138/dedup_162)
+2026-05-19	Block	https://boards-api.greenhouse.io/v1/boards/block/jobs	(board scan)	api_error; dedup_026
+2026-05-19	Chime	https://boards-api.greenhouse.io/v1/boards/chime/jobs	(board scan)	api_error; fallback WebSearch
+2026-05-19	Affirm	https://boards-api.greenhouse.io/v1/boards/affirm/jobs	(board scan)	api_error; dedup_009/dedup_022
+2026-05-19	SoFi	https://boards-api.greenhouse.io/v1/boards/sofi/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	Atlassian	https://boards-api.greenhouse.io/v1/boards/atlassian/jobs	(board scan)	api_error; dedup_128
+2026-05-19	HubSpot	https://boards-api.greenhouse.io/v1/boards/hubspot/jobs	(board scan)	api_error; only EMEA/Ireland intern found via WebSearch - no_match_geo
+2026-05-19	Twilio	https://boards-api.greenhouse.io/v1/boards/twilio/jobs	(board scan)	api_error; dedup_102
+2026-05-19	Grammarly	https://boards-api.greenhouse.io/v1/boards/grammarly/jobs	(board scan)	api_error; dedup_021/dedup_103
+2026-05-19	Zoom	https://boards-api.greenhouse.io/v1/boards/zoomvideocommunications/jobs	(board scan)	api_error; dedup_104
+2026-05-19	Intercom	https://boards-api.greenhouse.io/v1/boards/intercom/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	CrowdStrike	https://boards-api.greenhouse.io/v1/boards/crowdstrike/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	SentinelOne	https://boards-api.greenhouse.io/v1/boards/sentinelone/jobs	(board scan)	api_error; only TA Data Analyst Intern found - no_match_title (not SWE/DS/ML)
+2026-05-19	Palo Alto Networks	https://boards-api.greenhouse.io/v1/boards/paloaltonetworks/jobs	(board scan)	api_error; dedup_055
+2026-05-19	Vanta	https://boards-api.greenhouse.io/v1/boards/vanta/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	Cloudflare	https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs	(board scan)	api_error; dedup_005/dedup_073/dedup_107/dedup_169
+2026-05-19	MongoDB	https://boards-api.greenhouse.io/v1/boards/mongodb/jobs	(board scan)	api_error; dedup_019
+2026-05-19	Snowflake	https://boards-api.greenhouse.io/v1/boards/snowflake/jobs	(board scan)	api_error; dedup_053/dedup_108/dedup_109
+2026-05-19	Elastic	https://boards-api.greenhouse.io/v1/boards/elastic/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	Confluent	https://boards-api.greenhouse.io/v1/boards/confluent/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	HashiCorp	https://boards-api.greenhouse.io/v1/boards/hashicorp/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	Grafana	https://boards-api.greenhouse.io/v1/boards/grafanalabs/jobs	(board scan)	api_error; only FT roles found via WebSearch - no interns
+2026-05-19	DigitalOcean	https://boards-api.greenhouse.io/v1/boards/digitalocean/jobs	(board scan)	api_error; dedup_056/dedup_133
+2026-05-19	PagerDuty	https://boards-api.greenhouse.io/v1/boards/pagerduty/jobs	(board scan)	api_error; only 2022 intern found via WebSearch - no active 2026
+2026-05-19	Figma	https://boards-api.greenhouse.io/v1/boards/figma/jobs	(board scan)	api_error; dedup_010
+2026-05-19	Notion	https://boards-api.greenhouse.io/v1/boards/notion/jobs	(board scan)	api_error; dedup_002/dedup_003/dedup_115/dedup_096
+2026-05-19	Canva	https://boards-api.greenhouse.io/v1/boards/canva/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	Airtable	https://boards-api.greenhouse.io/v1/boards/airtable/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	Asana	https://boards-api.greenhouse.io/v1/boards/asana/jobs	(board scan)	api_error; only old/closed postings found via WebSearch
+2026-05-19	Dropbox	https://boards-api.greenhouse.io/v1/boards/dropbox/jobs	(board scan)	api_error; dedup_014/dedup_130/dedup_095
+2026-05-19	Rippling	https://boards-api.greenhouse.io/v1/boards/rippling/jobs	(board scan)	api_error; dedup_027/dedup_111/dedup_112
+2026-05-19	Navan	https://boards-api.greenhouse.io/v1/boards/navan/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	Flexport	https://boards-api.greenhouse.io/v1/boards/flexport/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	Verkada	https://boards-api.greenhouse.io/v1/boards/verkada/jobs	(board scan)	api_error; fallback WebSearch; multiple roles found
+2026-05-19	Samsara	https://boards-api.greenhouse.io/v1/boards/samsara/jobs	(board scan)	api_error; dedup_136
+2026-05-19	Whatnot	https://boards-api.greenhouse.io/v1/boards/whatnot/jobs	(board scan)	api_error; dedup_007
+2026-05-19	Etsy	https://boards-api.greenhouse.io/v1/boards/etsy/jobs	(board scan)	api_error; dedup_032
+2026-05-19	Deel	https://boards-api.greenhouse.io/v1/boards/deel/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	Webflow	https://boards-api.greenhouse.io/v1/boards/webflow/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	Anduril	https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	(board scan)	api_error; dedup_029
+2026-05-19	Shield AI	https://boards-api.greenhouse.io/v1/boards/shieldai/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	Tempus	https://boards-api.greenhouse.io/v1/boards/tempus/jobs	(board scan)	api_error; ML Summer Associate found via WebSearch - no_match_grad (MS/PhD req; George is BS)
+2026-05-19	Recursion	https://boards-api.greenhouse.io/v1/boards/recursion/jobs	(board scan)	api_error; dedup_020
+2026-05-19	Insitro	https://boards-api.greenhouse.io/v1/boards/insitro/jobs	(board scan)	api_error; dedup_057
+2026-05-19	Cruise	https://boards-api.greenhouse.io/v1/boards/cruise/jobs	(board scan)	api_error; no intern results found via WebSearch
+2026-05-19	Nuro	https://boards-api.greenhouse.io/v1/boards/nuro/jobs	(board scan)	api_error; dedup_023
+2026-05-19	Aurora	https://boards-api.greenhouse.io/v1/boards/auroradriver/jobs	(board scan)	api_error; dedup_028
+2026-05-19	Duolingo	https://boards-api.greenhouse.io/v1/boards/duolingo/jobs	(board scan)	api_error; dedup_114/dedup_129
+2026-05-19	Toast	https://boards-api.greenhouse.io/v1/boards/toast/jobs	(board scan)	api_error; no active 2026 intern found via WebSearch
+2026-05-19	Gusto	https://boards-api.greenhouse.io/v1/boards/gusto/jobs	(board scan)	api_error; dedup_054/dedup_134
+2026-05-19	Glean	https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	(board scan)	api_error; dedup_031
+2026-05-19	Sigma Computing	https://boards-api.greenhouse.io/v1/boards/sigmacomputing/jobs	(board scan)	api_error; dedup_008
+2026-05-19	Robinhood	https://job-boards.greenhouse.io/robinhood/jobs/7163239	Machine Learning Engineer Intern, Agentic ML (Summer 2026)	report_171 (4.3/5; Menlo Park; $48/hr; LLM agents; grad year mismatch)
+2026-05-19	Robinhood	https://job-boards.greenhouse.io/robinhood/jobs/7163234	Machine Learning Engineer Intern, Applied ML (Summer 2026)	report_175 (3.8/5; Menlo Park; $48/hr; personalization ML)
+2026-05-19	Robinhood	https://job-boards.greenhouse.io/robinhood/jobs/7235228	Software Developer Intern, Backend (Summer 2026)	report_179 (3.2/5; Toronto Canada - not US)
+2026-05-19	Robinhood	https://job-boards.greenhouse.io/robinhood/jobs/7239268	Software Engineering Intern, iOS (Summer 2026)	no_match_title (mobile iOS - no mobile experience)
+2026-05-19	Robinhood	https://job-boards.greenhouse.io/robinhood/jobs/7239199	Software Engineering Intern, Android (Summer 2026)	no_match_title (mobile Android - no Android experience)
+2026-05-19	Robinhood	https://job-boards.greenhouse.io/robinhood/jobs/7238998	Software Developer Intern, Web (Summer 2026)	no_match_geo (Toronto Canada)
+2026-05-19	ServiceNow	https://careers.servicenow.com/jobs/744000080670612/machine-learning-engineer-intern-summer-2026/	Machine Learning Engineer Intern (Summer 2026)	report_170 (4.2/5; Santa Clara hybrid; $55-63/hr; NLP+Python+ML match)
+2026-05-19	Salesforce	https://careers.salesforce.com/en/jobs/jr340354/summer-2026-intern-ai-data-science-analyst/	Summer 2026 Intern - AI & Data Science Analyst	report_172 (4.4/5; SF; $46-59/hr; Office of CEO; LLM req = perfect match)
+2026-05-19	Salesforce	https://careers.salesforce.com/en/jobs/jr308796/summer-2026-intern-software-engineer/	Summer 2026 Intern - Software Engineer	report_173 (4.0/5; SF/NYC/Seattle; $52-59/hr; full-stack SWE)
+2026-05-19	Salesforce	https://careers.salesforce.com/en/jobs/jr313214/summer-2026-intern-ai-research/	Summer 2026 Intern - AI Research	no_match_grad (PhD/MS researcher required)
+2026-05-19	Together AI	https://job-boards.greenhouse.io/togetherai/jobs/5012768007	Software Engineer Intern (Summer 2026)	report_174 (4.2/5; SF; $58/hr; ML platform; grad year mismatch - re-evaluated from 2026-04-07)
+2026-05-19	Verkada	https://job-boards.greenhouse.io/verkada/jobs/4836993007	Backend Software Engineering Intern 2026	report_176 (4.0/5; San Mateo; ~$65/hr; Python+Docker+GCP match)
+2026-05-19	Verkada	https://job-boards.greenhouse.io/verkada/jobs/5117760007	AI Software Engineering Intern - Fall 2026	no_match_title (Fall 2026 - wrong timing; Aug 31-Dec 18; not summer)
+2026-05-19	Verkada	https://job-boards.greenhouse.io/verkada/jobs/5024322007	Frontend Software Engineering Intern 2026	no_match_title (100% frontend - no backend/data/ML component)
+2026-05-19	Verkada	https://job-boards.greenhouse.io/verkada/jobs/4873796007	Software Engineering Intern, Mobile 2026	no_match_title (mobile - no mobile experience)
+2026-05-19	Verkada	https://job-boards.greenhouse.io/verkada/jobs/5099422007	Backend Software Engineering Intern - Fall 2026	no_match_title (Fall 2026 - wrong timing)
+2026-05-19	Harvey	https://jobs.ashbyhq.com/harvey/b6509622-5c1e-4a3f-916b-6e56b8fd212f	Software Engineering Intern (Summer 2026)	report_177 (4.1/5; SF; comp unconfirmed; legal AI LLM; Spring 2028 grad ✅)
+2026-05-19	Replit	https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1	Software Engineering Intern (Summer 2026)	report_178 (4.0/5; Foster City CA; $53-99/hr equiv; AI dev tools; 1 semester remaining ✅)
+2026-05-19	Plaid	https://job-boards.greenhouse.io/ripplematchinterns/jobs/8161513002	Software Engineering Intern, Summer 2026 (via RippleMatch)	report_181 (2.5/5; NYC; grad Winter 2026/Spring 2027 hard req - SKIP)
+2026-05-19	Chime	https://boards.greenhouse.io/chime/jobs/7106567002	Software Engineer Intern, Pay Anyone Engineering	report_180 (3.1/5; SF; $29-42/hr borderline comp)
+2026-05-19	Tempus	https://boards.greenhouse.io/tempus/jobs/7841796002	Machine Learning Summer Associate, Applied AI & Research	no_match_grad (MS/PhD graduating Winter 2025-Summer 2027 required; George is BS Jun 2028)
+2026-05-19	Salesforce	https://careers.salesforce.com/en/jobs/jr334473/summer-2026-intern-applied-ai-strategy-research/	Summer 2026 Intern - Applied AI Strategy & Research	skipped_low_score (pure consulting/strategy - deal-breaker; no building component)
+2026-05-19	WebSearch	site:salesforce.com/careers intern 2026 software OR data OR ML	(WebSearch scan)	found 172/173/research roles
+2026-05-19	WebSearch	site:servicenow.com/careers intern 2026 software OR data OR ML	(WebSearch scan)	found 170
+2026-05-19	WebSearch	Waymo intern software OR ML 2026	(WebSearch scan)	dedup_015/dedup_139/dedup_159/dedup_160/dedup_163
+2026-05-19	WebSearch	site:twosigma.com intern 2026 software OR data	(WebSearch scan)	no results found - no active listings
+2026-05-19	WebSearch	site:janestreet.com intern 2026	(WebSearch scan)	no results found via WebSearch
+2026-05-19	WebSearch	site:citadel.com intern 2026 software	(WebSearch scan)	dedup_154 (Citadel Securities evaluated)
+2026-05-19	WebSearch	Software Engineering Intern Summer 2026 startup AI OR data	(WebSearch scan)	found Harvey (177) and Replit (178)
+2026-05-19	WebSearch	Data Science Intern Summer 2026 python remote	(WebSearch scan)	no new qualifying roles (Hone Health <$25/hr; Credit Karma Charlotte NC; Bandwidth data analyst not SWE/ML)
