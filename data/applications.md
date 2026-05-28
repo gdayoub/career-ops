@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 192 | 2026-05-28 | Lambda | 2026 ML Research Intern | 3.0/5 | Evaluada | ❌ | [192](reports/192-lambda-ml-research-intern-2026-05-28.md) | SF 4d/wk in-person. Comp UNVERIFIED — verify ≥$40/hr. BS eligible, no grad yr restriction. PyTorch gap = primary blocker. Reach apply after all 3.5+ roles done. |
 | 189 | 2026-05-25 | Censys | 2026 AI/ML Engineering Intern | 4.0/5 | Evaluada | ❌ | [189](reports/189-censys-aiml-intern-2026-05-25.md) | Remote+Ann Arbor (2 wks). $46-52/hr. Python/NLP/LLM exact match. OSINT=security intel direct proof. ASM track (8167154002) + Platform track (8167601002). No grad yr restriction. TOP PRIORITY. |
 | 190 | 2026-05-25 | Muon Space | Data Science Intern (Summer 2026) | 3.3/5 | Evaluada | ❌ | [190](reports/190-muon-space-ds-intern-2026-05-25.md) | Remote or Mountain View. $50/hr. Python/pandas/scikit-learn match. Geospatial/remote sensing gap. FireSat wildfire satellite data. No grad year restriction. Apply if options thin. |
 | 191 | 2026-05-25 | Veeam | Software Engineering Intern (Summer 2026) | 3.3/5 | Evaluada | ❌ | [191](reports/191-veeam-swe-intern-2026-05-25.md) | San Jose CA on-site. $40-50/hr borderline. Go preferred=gap. GenAI/RAG/LangChain via CoverMe. 12wks Jun-Aug. No grad yr restriction. US work auth req. Low priority vs Censys (189). |
