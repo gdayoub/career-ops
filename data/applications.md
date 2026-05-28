@@ -171,7 +171,7 @@
 | 5 | 2026-04-06 | Cloudflare | Software Engineer Intern | 4.0/5 | Evaluada | ❌ | [005](reports/005-cloudflare-swe-2026-04-06.md) | Austin TX. 12-16 weeks. Systems-level work at massive scale (330+ cities). |
 | 6 | 2026-04-06 | Ramp | Software Engineer Intern, Backend | 4.4/5 | Evaluada | ❌ | [006](reports/006-ramp-backend-2026-04-06.md) | NYC. $11K/month + housing. Python/Flask/PostgreSQL. Graduation timeline fits perfectly. |
 | 7 | 2026-04-06 | Whatnot | Software Engineer Intern | 4.0/5 | Evaluada | ❌ | [007](reports/007-whatnot-2026-04-06.md) | NYC/LA/Seattle. $65/hr + housing. Graduation mismatch (requires Dec 2026/Summer 2027). |
-| 8 | 2026-04-06 | Sigma Computing | Software Engineering Intern | 3.8/5 | Evaluada | ❌ | [008](reports/008-sigma-2026-04-06.md) | SF in-office. $50/hr. Data analytics platform — good data science alignment. |
+| 8 | 2026-05-28 | Sigma Computing | Software Engineering Intern (Summer 2026) | 4.0/5 | Evaluada | ❌ | [193](reports/193-sigma-computing-swe-intern-2026-05-28.md) | Re-eval 2026-05-28 (3.8→4). $50/hr SF in-person; full-stack product eng; Dec 2026+ grad OK; production features on BI analytics platform |
 | 9 | 2026-04-06 | Affirm | Software Engineering Intern | 4.0/5 | Evaluada | ❌ | [009](reports/009-affirm-2026-04-06.md) | Remote US. $55/hr. Fintech. Mentor-led project. Stripe experience relevant. |
 | 10 | 2026-04-06 | Figma | Software Engineer Intern | 3.8/5 | Evaluada | ❌ | [010](reports/010-figma-2026-04-06.md) | SF/NYC. $51/hr + housing. Multiple team options. Strong brand. |
 | 11 | 2026-04-06 | Farsight AI | Software Engineering Intern | 3.7/5 | Evaluada | ❌ | [011](reports/011-farsight-2026-04-06.md) | NYC. $4K/month — below target. Agentic AI for finance. Early-stage risk. |
