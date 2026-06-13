@@ -1044,3 +1044,47 @@ date	company	url	title	result
 2026-06-13	TikTok	https://lifeattiktok.com/search/7533388869200333074	Software Engineer Intern - Data Ecosystem 2026 Summer (BS/MS)	no_match_skills (NEW URL; Java/Scala primary + Apache Flink/Lakehouse/Parquet expertise required; George has Python but not Java/Scala streaming data infra; $42.75-45/hr San Jose/Seattle; June 22 start still possible; no grad year restriction; 2-application limit means prioritize reports 118/119 over this)
 2026-06-13	TikTok	https://lifeattiktok.com/search/7534626306991016199	Software Engineer Intern - TikTok Search Architecture 2026 Summer (BS/MS)	no_priority (NEW URL; Python OK; NLP/IR/recommender focus; June 22 start possible; $45/hr est; no grad restriction; score ~3.0/5 — lower than existing reports 118 (4.0/5) and 119 (3.8/5); TikTok 2-application maximum = prioritize 118+119 over this role)
 2026-06-13	TikTok	https://lifeattiktok.com/	(board scan — FAANG+BigTech+Quant segment)	found 7533388869200333074 Data Ecosystem (no_match_skills) + 7534626306991016199 Search Architecture (no_priority); 7533106667609917703 PGC-AI Platform = not evaluated (application limit reached); 7535220827098302738 TikTok-Search = variant of Search Architecture; no new qualifying listings above reports 118/119
+2026-06-13	Anthropic	https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	(board scan)	api_403; Fellows Program new cohort IDs (5183053008/5183051008/5183044008) confirmed via search; application deadline Apr 26 2026 passed; dedup_093; no SWE internship
+2026-06-13	xAI	https://boards-api.greenhouse.io/v1/boards/xai/jobs	(board scan)	api_403; Engineering Internship 5054417007 confirmed still listed = dedup (no_match_grad); only new posting is Mechanical/Datacenter (not SWE/ML)
+2026-06-13	Character AI	https://boards-api.greenhouse.io/v1/boards/characterai/jobs	(board scan)	api_403; no interns found via search
+2026-06-13	Together AI	https://boards-api.greenhouse.io/v1/boards/togetherai/jobs	(board scan)	api_403; NEW: GTM Systems Analyst Intern 5014290007 ($35/hr; no_match_comp below $40 target; SF); existing roles unchanged
+2026-06-13	Together AI	https://job-boards.greenhouse.io/togetherai/jobs/5014290007	GTM Systems Analyst Intern (Summer 2026)	no_match_comp ($35/hr; below $40/hr target; SF 12wks May 18-Aug 7 or Jun 15-Sep 4; no ML/AI building component)
+2026-06-13	Inflection	https://boards-api.greenhouse.io/v1/boards/inflectionai/jobs	(board scan)	api_403; dedup_113 (confirmed active via search; same as before)
+2026-06-13	AI21	https://boards-api.greenhouse.io/v1/boards/ai21labs/jobs	(board scan)	api_403; no interns found
+2026-06-13	Stability AI	https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs	(board scan)	api_403; no interns found
+2026-06-13	Scale AI	https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	(board scan)	api_403; ML Research Intern 4606060005 = dedup (no_match_grad); Technical Advisor Intern = part-time/no_match_profile; no new qualifying listings
+2026-06-13	Databricks	https://boards-api.greenhouse.io/v1/boards/databricks/jobs	(board scan)	api_403; SWE Intern 6866534002 = dedup (no_match_grad fall 2026/spring 2027 req; $54.50/hr); no new listings
+2026-06-13	Datadog	https://boards-api.greenhouse.io/v1/boards/datadog/jobs	(board scan)	api_403; SWE Intern 7158137 = no_match_grad (targeting 2027 full-time start date confirmed); SWE Intern 7158118 = no_match_grad (same; previously unclear_grad now clarified); SRE Intern 7367016 = no_match_timing (6-month; Feb-Aug)
+2026-06-13	Arize AI	https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	(board scan)	api_403; no interns found
+2026-06-13	Weaviate	https://boards-api.greenhouse.io/v1/boards/weaviate/jobs	(board scan)	api_403; no qualifying interns (Go preferred; George no Go)
+2026-06-13	Vercel	https://boards-api.greenhouse.io/v1/boards/vercel/jobs	(board scan)	api_403; Engineering Summer Intern 5628292004 = dedup (no_match_grad); Engineering Spring Intern 5628286004 = no_match_timing (spring start; not summer)
+2026-06-13	GitHub	https://boards-api.greenhouse.io/v1/boards/github/jobs	(board scan)	api_403; Master Data Mgmt Intern 5239 = dedup (no_match_grad); Applied Science Intern 4958 = dedup (no_match_degree PhD); no new listings
+2026-06-13	GitLab	https://boards-api.greenhouse.io/v1/boards/gitlab/jobs	(board scan)	api_403; no interns found
+2026-06-13	Replit	https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1	Software Engineering Intern (Summer 2026)	dedup_004 (Replit relisted on Ashby; same role content; 12wks Foster City; at least 1 semester remaining = George qualifies; comp est $53-99/hr; existing report 4.3/5 sufficient; verify this posting is active at jobs.ashbyhq.com/replit)
+2026-06-13	Retool	https://boards-api.greenhouse.io/v1/boards/retool/jobs	(board scan)	api_403; no interns found (only FTE SWE roles)
+2026-06-13	Supabase	https://boards-api.greenhouse.io/v1/boards/supabase/jobs	(board scan)	api_403; no interns found
+2026-06-13	Render	https://boards-api.greenhouse.io/v1/boards/render/jobs	(board scan)	api_403; no interns found
+2026-06-13	Sourcegraph	https://boards-api.greenhouse.io/v1/boards/sourcegraph/jobs	(board scan)	api_403; no interns found
+2026-06-13	dbt Labs	https://boards-api.greenhouse.io/v1/boards/dbtlabsinc/jobs	(board scan)	api_403; no interns found (only senior FTE roles)
+2026-06-13	Postman	https://boards.greenhouse.io/postman/jobs/4668801003	Data Engineer Intern	no_match_geo (India-based role; "fresher" / "final year of college" Indian English terminology; comp well below $40/hr target; not US-based)
+2026-06-13	OpenAI	https://openai.com/careers/	(board scan)	no_new (dedup_013/127 confirmed active; same Summer/Fall listings; no new intern roles found)
+2026-06-13	Cursor (Anysphere)	https://jobs.ashbyhq.com/anysphere	(board scan)	no_interns
+2026-06-13	Perplexity	https://jobs.ashbyhq.com/perplexity	(board scan)	same 4 EMEA-only listings as 2026-05-16 scan; no US listings added; all no_match_geo
+2026-06-13	Cohere	https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b	Machine Learning Intern/Co-op (Fall, 2026)	no_match_timing (Fall 2026 start conflicts with PSU fall semester Aug 2026; 3-6 month co-op would require leaving school)
+2026-06-13	Cohere	https://jobs.ashbyhq.com/cohere/79e088a4-f232-4290-8d56-9c2432b8e661	Intern of Technical Staff - Sovereign AI	no_match_geo (Toronto ON Canada based; George targeting US roles)
+2026-06-13	Adept AI	https://jobs.ashbyhq.com/adept.ai	(board scan)	no_interns
+2026-06-13	Modal	https://jobs.ashbyhq.com/modal	(board scan)	no_interns (MTS FTE roles only)
+2026-06-13	LangChain	https://jobs.ashbyhq.com/langchain	(board scan)	no_interns (FTE roles only: sales, marketing, engineering)
+2026-06-13	Pinecone	https://jobs.ashbyhq.com/pinecone/ee430f96-5d27-40c4-a1e9-1442ad7f9aed	Intern: Science NYC	dedup (no_match_degree PhD required; same as prior scans)
+2026-06-13	Linear	https://jobs.ashbyhq.com/linear	(board scan)	no_interns
+2026-06-13	Fly.io	https://fly.io/jobs/	(board scan)	no_intern_program (confirmed)
+2026-06-13	Railway	https://jobs.ashbyhq.com/railway	(board scan)	no_interns (FTE only: DevRel Engineer)
+2026-06-13	Mistral	https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5	Applied AI Forward Deployed MLE Internship	no_match_geo (Paris-based; EMEA only; same as prior Mistral scans)
+2026-06-13	Mistral	https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7	Applied Scientist / Research Engineer Internship	no_match_geo (Paris/London EMEA only)
+2026-06-13	W&B	https://jobs.lever.co/wandb	(board scan)	no_interns
+2026-06-13	Hugging Face	https://apply.workable.com/huggingface/j/07FBA391F1	Machine Learning Engineer Internship Generative AI	dedup_050 (same listing confirmed active; existing report 3.7/5 sufficient)
+2026-06-13	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/7914628	Machine Learning Engineer Intern (Summer 2026)	report_194 (4.0/5; Austin TX in-person; est $55-82/hr; Python+AI agents+LLM evals+Docker match; NEW ML track distinct from SWE/DS/Research reports 005/073/107)
+2026-06-13	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/7206269	Software Engineer Intern (Summer 2026) - Austin TX	dedup_005 (confirmed Summer 2026 specific posting; TypeScript/Go/Rust/Python; Austin 3-5d/wk; 12wks; existing report 4.0/5 sufficient; ML track 194 is higher priority for George)
+2026-06-13	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/7296923	Software Engineer Intern (Summer 2026) - Austin TX	dedup_005 (variant URL; same role as 7206269; Austin; 12wks)
+2026-06-13	Decagon	https://jobs.ashbyhq.com/decagon/aa9c9d2a-aba9-429e-bf91-8303247fbcd6	Agent Software Engineer - Intern (Summer 2026)	no_match_grad (graduating by summer 2027 required; George June 2028 ineligible; AI agents + Python focus; SF in-person; monitor for 2027 cycle)
+2026-06-13	Whatnot	https://jobs.ashbyhq.com/whatnot/8250532f-4bfd-4ee5-a041-4a2e54047cf7	Software Engineer Intern (Summer 2026)	dedup_007 (same role confirmed active; grad mismatch Dec 2026/Summer 2027 req still applies)
