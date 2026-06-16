@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 196 | 2026-06-16 | Scale AI | AI Builder Intern (Summer 2026) | 3.8/5 | Evaluada | ❌ | [196](reports/196-scale-ai-builder-intern-2026-06-16.md) | SF on-site (unconfirmed remote claim on 1 aggregator). $35.77-53.65/hr equiv (annualized $74.4-111.6K). LLM API (Claude/Gemini) + agentic workflows direct match. No grad yr restriction — rare this cycle. LangChain gap, comp lower-bound borderline. |
 | 195 | 2026-06-13 | Cloudflare | Data Science Intern (Summer 2026) | 3.9/5 | Evaluada | ❌ | [195](reports/195-cloudflare-ds-intern-2026-06-13.md) | Austin TX in-person 3-5d/wk. est $55-75/hr (UNCONFIRMED). AI agents+RAG+NLP+LLM benchmarking. BS eligible, no grad yr restriction. Apply alongside MLE intern (194). VERIFY comp ≥$40/hr. Distinct from report 073 (old DS listing). |
 | 192 | 2026-05-28 | Lambda | 2026 ML Research Intern | 3.0/5 | Evaluada | ❌ | [192](reports/192-lambda-ml-research-intern-2026-05-28.md) | SF 4d/wk in-person. Comp UNVERIFIED — verify ≥$40/hr. BS eligible, no grad yr restriction. PyTorch gap = primary blocker. Reach apply after all 3.5+ roles done. |
 | 189 | 2026-05-25 | Censys | 2026 AI/ML Engineering Intern | 4.0/5 | Evaluada | ❌ | [189](reports/189-censys-aiml-intern-2026-05-25.md) | Remote+Ann Arbor (2 wks). $46-52/hr. Python/NLP/LLM exact match. OSINT=security intel direct proof. ASM track (8167154002) + Platform track (8167601002). No grad yr restriction. TOP PRIORITY. |
