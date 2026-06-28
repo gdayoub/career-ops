@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 212 | 2026-06-28 | Google | Software Engineering Intern, Summer 2027 | 4.2/5 | Evaluated | ❌ | [212](reports/212-google-swe-intern-summer-2027-2026-06-28.md) | Multiple US cities. ~$56/hr est. ⚠️ DEADLINE TODAY June 28 — apply immediately. LionPlanner GCP = direct Cloud team differentiator. Penultimate year match ✅. DSA prep required. DISTINCT from 060/082/141 (Summer 2026 cycle). |
 | 208 | 2026-06-25 | SentinelOne | AI/Machine Learning Engineer Intern (Summer 2026) | 3.5/5 | Evaluada | ❌ | [208](reports/208-sentinelone-aiml-intern-2026-06-25.md) | Remote US. Comp UNCONFIRMED (~$43/hr est) — VERIFY ≥$40. LLM+RAG+Python exact match. ⚠️ Cohort started June 8 — verify still accepting. Security domain gap. NEW company. |
 | 210 | 2026-06-25 | Lucid Motors | AI/ML Engineer Intern (Summer 2026) | 3.3/5 | Evaluada | ❌ | [210](reports/210-lucid-motors-aiml-intern-2026-06-25.md) | Newark CA in-person. $50-70/hr ✓. 12wks Jun-Sep flexible. ML+CV fundamentals needed. Gesture Canvas=CV proof (limited depth). No grad year restriction. EV domain. NEW company. Apply after 3.5+ roles. |
 | 211 | 2026-06-25 | C3 AI (Ascend) | Data Science Intern (Summer 2026) | 3.5/5 | Evaluada | ❌ | [209](reports/209-c3ai-ascend-ds-intern-2026-06-25.md) | Redwood City CA in-person. $6K-8K/mo ($37-49/hr). May-Sep. Python+scikit-learn+applied ML match. Ascend program distinct from reports 069/070 — verify if diversity-focused. VERIFY comp ≥$40. |
