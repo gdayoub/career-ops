@@ -1906,3 +1906,63 @@ date	company	url	title	result
 2026-07-04	Mistral	https://jobs.lever.co/mistral	(AI+DevTools segment board scan)	confirmed_dedup (EU only: Applied Scientist/Research Intern Paris/London; no US intern; no change from 2026-07-01)
 2026-07-04	W&B (Weights & Biases)	https://jobs.lever.co/wandb	(AI+DevTools segment board scan)	confirmed_dedup (acquired by CoreWeave; FTE SWE only; no intern program; no change from 2026-07-01)
 2026-07-04	Hugging Face	https://apply.workable.com/huggingface	(AI+DevTools segment board scan)	confirmed_dedup (GenAI dedup_050; IR dedup_198; CV dedup_094; other tracks no_match_skills; no change from 2026-07-01)
+2026-07-04	Stripe	https://boards-api.greenhouse.io/v1/boards/stripe/jobs	(board scan)	api_blocked (egress policy); dedup_052 (prior eval); no_new_roles confirmed
+2026-07-04	Plaid	https://boards-api.greenhouse.io/v1/boards/plaid/jobs	(board scan)	api_blocked (egress policy); dedup_181 (no_match_grad Jun 2028); no_new_roles
+2026-07-04	Brex	https://boards-api.greenhouse.io/v1/boards/brex/jobs	(board scan)	api_blocked (egress policy); dedup_016 (prior eval 4.1/5); no_new_roles confirmed
+2026-07-04	Mercury	https://boards-api.greenhouse.io/v1/boards/mercury/jobs	(board scan)	api_blocked (egress policy); dedup_140 (closed Oct 2025); no_new_roles
+2026-07-04	Ramp	https://boards-api.greenhouse.io/v1/boards/ramp/jobs	(board scan)	api_blocked (egress policy); dedup_006+166 (prior evals); no_new_roles confirmed
+2026-07-04	Robinhood	https://boards-api.greenhouse.io/v1/boards/robinhood/jobs	(board scan)	api_blocked (egress policy); dedup_171+175+179 (prior evals); no_new_roles confirmed
+2026-07-04	Coinbase	https://boards-api.greenhouse.io/v1/boards/coinbase/jobs	(board scan)	api_blocked (egress policy); dedup_024+137+138+162+214 (prior evals); no_new_roles confirmed
+2026-07-04	Block	https://boards-api.greenhouse.io/v1/boards/block/jobs	(board scan)	api_blocked (egress policy); dedup_026 (prior eval 4.2/5); no_new_roles confirmed
+2026-07-04	Chime	https://boards-api.greenhouse.io/v1/boards/chime/jobs	(board scan)	api_blocked (egress policy); dedup_180 (prior eval; comp borderline); no_new_roles confirmed
+2026-07-04	Affirm	https://boards-api.greenhouse.io/v1/boards/affirm/jobs	(board scan)	api_blocked (egress policy); dedup_009+022 (prior evals); no_new_roles confirmed
+2026-07-04	SoFi	https://boards-api.greenhouse.io/v1/boards/sofi/jobs	(board scan)	api_blocked (egress policy); no active SWE intern listing found via WebSearch; no_match
+2026-07-04	Atlassian	https://boards-api.greenhouse.io/v1/boards/atlassian/jobs	(board scan)	api_blocked (egress policy); dedup_128 (prior eval 4.3/5); no_new_roles confirmed
+2026-07-04	HubSpot	https://boards-api.greenhouse.io/v1/boards/hubspot/jobs	(board scan)	api_blocked (egress policy); dedup_202 (prior eval 3.3/5; Java gap); no_new_roles confirmed
+2026-07-04	Twilio	https://boards-api.greenhouse.io/v1/boards/twilio/jobs	(board scan)	api_blocked (egress policy); dedup_102 (prior eval 3.6/5); no_new_roles confirmed
+2026-07-04	Grammarly	https://boards-api.greenhouse.io/v1/boards/grammarly/jobs	(board scan)	api_blocked (egress policy); dedup_021+103 (prior evals); no_new_roles confirmed
+2026-07-04	Zoom	https://boards-api.greenhouse.io/v1/boards/zoomvideocommunications/jobs	(board scan)	api_blocked (egress policy); dedup_104 (no_match Java gap); no_new_roles confirmed
+2026-07-04	Intercom	https://boards-api.greenhouse.io/v1/boards/intercom/jobs	(board scan)	api_blocked (egress policy); no intern program found (FTE only); no_match
+2026-07-04	CrowdStrike	https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer-Intern---Summer-2026_R26636	Software Engineer Intern - Summer 2026	no_match_grad (Dec 2026-Aug 2027 req; George Jun 2028); $45/hr; Sunnyvale/Redmond onsite; NEW company; monitor for Summer 2027 cycle (apps open Sep 2026)
+2026-07-04	SentinelOne	https://boards-api.greenhouse.io/v1/boards/sentinelone/jobs	(board scan)	api_blocked (egress policy); dedup_208 (prior eval 3.5/5 AI/ML intern Summer 2026); no_new_roles confirmed
+2026-07-04	Palo Alto Networks	https://boards-api.greenhouse.io/v1/boards/paloaltonetworks/jobs	(board scan)	api_blocked (egress policy); dedup_055+213 (prior evals); no_new_roles confirmed
+2026-07-04	Vanta	https://jobs.ashbyhq.com/vanta/	(board scan)	api_blocked; year-round SWE intern program exists (TypeScript/Node.js/Golang focus; prior internship req — Seismos qualifies George); no active Summer 2027 posting found; monitor ashbyhq.com/vanta for Fall 2026/Summer 2027 opening; NEW company
+2026-07-04	Cloudflare	https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs	(board scan)	api_blocked (egress policy); dedup_005+073+107+194+195 (prior evals); no_new_roles confirmed
+2026-07-04	MongoDB	https://boards-api.greenhouse.io/v1/boards/mongodb/jobs	(board scan)	api_blocked (egress policy); dedup_019 (prior eval 4.0/5); no_new_roles confirmed
+2026-07-04	Snowflake	https://boards-api.greenhouse.io/v1/boards/snowflake/jobs	(board scan)	api_blocked (egress policy); dedup_053+108+109 (prior evals); no_new_roles confirmed
+2026-07-04	Elastic	https://www.elastic.co/careers	(board scan)	api_blocked; no active SWE intern listing found at elastic.co/careers; no_match; NEW company
+2026-07-04	Confluent	https://careers.confluent.io/jobs/job/d9ebd50b-967e-4f35-8ebd-f0ce2705136a	2026 Software Engineering Intern	no_match_grad (Dec 2026-Aug 2027 req; George Jun 2028); Austin TX hybrid; 12wks; $4K housing; NEW company; monitor for Summer 2027 cycle
+2026-07-04	HashiCorp	https://www.hashicorp.com/careers/early-careers	Software Engineering Intern (Undergraduate)	no_match_grad (Dec 2025-Jun 2027 req; George Jun 2028); $46/hr; Austin TX; Vault/Terraform/Cloud teams; NEW company; monitor for Summer 2027 cycle
+2026-07-04	Grafana Labs	https://grafana.com/about/careers/open-positions/	(board scan)	no active intern posting found; $42/hr historical (at/below $40 target); no_match; NEW company
+2026-07-04	DigitalOcean	https://boards-api.greenhouse.io/v1/boards/digitalocean/jobs	(board scan)	api_blocked (egress policy); dedup_056+133 (prior evals 4.0+3.7); no_new_roles confirmed
+2026-07-04	PagerDuty	https://careers.pagerduty.com/jobs/search	(board scan)	no active intern posting found; $44/hr historical; no_match; NEW company
+2026-07-04	Figma	https://boards-api.greenhouse.io/v1/boards/figma/jobs	(board scan)	api_blocked (egress policy); dedup_010 (prior eval 3.8/5); no_new_roles confirmed
+2026-07-04	Notion	https://boards-api.greenhouse.io/v1/boards/notion/jobs	(board scan)	api_blocked (egress policy); dedup_002+003+096+115 (prior evals); no_new_roles confirmed
+2026-07-04	Canva	https://www.lifeatcanva.com/en/jobs/	(board scan)	Australia/NZ only; no US intern program found; no_match; NEW company
+2026-07-04	Airtable	https://airtable.com/careers	(board scan)	no active SWE intern listing found; no_match; NEW company
+2026-07-04	Asana	https://asana.com/jobs/intern	Software Engineer Intern / Data Science Intern	no_match_geo+grad (Vancouver Canada; Dec 2026-Jul 2027 req; George Jun 2028); $52/hr DS intern; NEW company; monitor for US-based Summer 2027 opening
+2026-07-04	Dropbox	https://boards-api.greenhouse.io/v1/boards/dropbox/jobs	(board scan)	api_blocked (egress policy); dedup_014+095+130 (prior evals); no_new_roles confirmed
+2026-07-04	Rippling	https://boards-api.greenhouse.io/v1/boards/rippling/jobs	(board scan)	api_blocked (egress policy); dedup_027+111+112 (prior evals 4.5/4.3/4.4); no_new_roles confirmed
+2026-07-04	Navan	https://navan.com/careers	(board scan)	no active SWE intern listing found; no_match; NEW company
+2026-07-04	Flexport	https://boards.greenhouse.io/flexport	(board scan)	api_blocked; no active SWE intern listing found; $46/hr historical; Rails/Java/Kotlin stack; no_match; NEW company
+2026-07-04	Verkada	https://boards-api.greenhouse.io/v1/boards/verkada/jobs	(board scan)	api_blocked (egress policy); dedup_176 (prior eval 4.0/5); no_new_roles confirmed
+2026-07-04	Samsara	https://boards-api.greenhouse.io/v1/boards/samsara/jobs	(board scan)	api_blocked (egress policy); dedup_136 (prior eval 4.0/5); no_new_roles confirmed
+2026-07-04	Whatnot	https://boards-api.greenhouse.io/v1/boards/whatnot/jobs	(board scan)	api_blocked (egress policy); dedup_007 (no_match_grad; Dec 2026/Summer 2027 req); no_new_roles
+2026-07-04	Etsy	https://boards-api.greenhouse.io/v1/boards/etsy/jobs	(board scan)	api_blocked (egress policy); dedup_032 (no_match_grad); no_new_roles confirmed
+2026-07-04	Deel	https://boards-api.greenhouse.io/v1/boards/deel/jobs	(board scan)	api_blocked; no intern program found; no_match; NEW company
+2026-07-04	Webflow	https://job-boards.greenhouse.io/webflow	(board scan)	api_blocked; no active SWE intern listing found; no_match; NEW company
+2026-07-04	Anduril Industries	https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007	2027 Software Engineer Intern	report_223 (3.7/5); rising senior req ✅ George qualifies Summer 2027; US Person ✅; 6 US cities; ~$50/hr est; apply August 2026; DISTINCT from report_029 (Summer 2026 cycle)
+2026-07-04	Shield AI	https://shield.ai/careers/	Software Engineering Intern - 2026 Summer	no_match_grad (Dec 2026/Spring 2027 req; George Jun 2028); 10wks onsite; C++ heavy; defense domain; NEW company; monitor for Summer 2027 cycle
+2026-07-04	Tempus	https://www.tempus.com/about-us/#careers	Software Engineering Summer Analyst	no_match_grad (BS completion Summer 2026 req; George Jun 2028); Chicago hybrid; no_match; NEW company
+2026-07-04	Recursion	https://boards-api.greenhouse.io/v1/boards/recursion/jobs	(board scan)	api_blocked (egress policy); dedup_020 (prior eval 3.9/5); no_new_roles confirmed
+2026-07-04	Insitro	https://boards-api.greenhouse.io/v1/boards/insitro/jobs	(board scan)	api_blocked (egress policy); dedup_057 (prior eval 4.1/5); no_new_roles confirmed
+2026-07-04	Cruise	https://www.getcruise.com/careers/university/	2026 Summer Intern — Software Engineer	no_match_grad (PhD/MS primary; Dec 2026-Aug 2027 req; George BS Jun 2028); $68/hr; NEW company
+2026-07-04	Nuro	https://boards-api.greenhouse.io/v1/boards/nuro/jobs	(board scan)	api_blocked (egress policy); dedup_023 (no_apply; advanced infra MS focus); no_new_roles confirmed
+2026-07-04	Aurora	https://boards-api.greenhouse.io/v1/boards/auroradriver/jobs	(board scan)	api_blocked (egress policy); dedup_028 (prior eval 4.0/5); no_new_roles confirmed
+2026-07-04	Duolingo	https://boards-api.greenhouse.io/v1/boards/duolingo/jobs	(board scan)	api_blocked (egress policy); dedup_114+129 (prior eval 4.4/5); no_new_roles confirmed
+2026-07-04	Toast	https://careers.toasttab.com/early-career	Software Engineer Intern	no_match_comp ($38/hr — below $40 target); Boston in-person; NEW company
+2026-07-04	Gusto	https://boards-api.greenhouse.io/v1/boards/gusto/jobs	(board scan)	api_blocked (egress policy); dedup_054+134 (prior evals 4.2/3.5); no_new_roles confirmed
+2026-07-04	Glean	https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	(board scan)	api_blocked (egress policy); dedup_031 (no_match_grad Fall 2026/Spring 2027); no_new_roles confirmed
+2026-07-04	Sigma Computing	https://boards-api.greenhouse.io/v1/boards/sigmacomputing/jobs	(board scan)	api_blocked (egress policy); dedup_008+193 (prior evals 4.0/5); no_new_roles confirmed
+2026-07-04	Salesforce	https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Summer-2027-Intern---Software-Engineer_JR337715	Summer 2027 Intern - Software Engineer (Futureforce Tech Accelerator)	no_match_timing (application deadline May 31 2026 — passed; in-person preview event Jul 22-24 2026; distinct track from report_219/JR340771); grad Dec 2027+ ✅ but closed for this cycle
+2026-07-04	ServiceNow	https://careers.servicenow.com/jobs/744000080670612/machine-learning-engineer-intern-summer-2026/	Machine Learning Engineer Intern - Summer 2026	confirmed_dedup (dedup_132+170; same MLE intern listing at $55-63/hr; no new Summer 2027 posting found; monitor from Sep 2026)
