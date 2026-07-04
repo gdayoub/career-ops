@@ -1839,3 +1839,34 @@ date	company	url	title	result
 1839	2026-07-01	Circleback AI	https://www.ycombinator.com/companies/circleback/jobs/QMpriul-software-engineering-intern-summer-2027	Software Engineering Intern (Summer 2027)	report_218 (3.5/5; SF on-site; $7-10K/mo ~$40-58/hr; Summer 2027; React/Electron/React Native + DB/API full-stack; AI meeting notes SaaS profitable 8-person team; CoverMe=analog; frontend-heavy=gap; Secondary Summer 2027 target. NEW company.)
 1840	2026-07-01	Experian	https://jobs.experian.com/job/ml-engineer-summer-intern-remote-and-paid-in-united-states-jid-3340	ML Engineer Summer Intern	no_match_comp ($20-35/hr well below $40/hr floor; Remote US 12wks May/Jun 2026; Python+GenAI+scikit-learn = strong skills match; must return Fall 2026 ✅; no report — comp disqualifies; monitor if comp improves. NEW company screened.)
 1841	2026-07-01	Upstart	https://careers.upstart.com/jobs/data-science-intern	Data Science Intern	no_match_grad (hard grad cutoff "on track to graduate by Summer 2027"; George Jun 2028 ineligible; Remote US; Python+SQL+ML match; no report. NEW company screened.)
+2026-07-04	Google	https://www.google.com/about/careers/applications/jobs/results/120997883141857990-software-engineering-intern/	Software Engineering Intern, Summer 2027	dedup_212
+2026-07-04	Meta	https://www.metacareers.com/jobs/1177716950861965	Software Engineer Intern	no_confirm (login required)
+2026-07-04	Amazon	https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us	SDE Internship Fall 2026 (US) JID 3116030	dedup_200
+2026-07-04	Amazon	https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us	SDE Intern AWS Data Services Fall 2026 JID 10412530	dedup_201
+2026-07-04	Amazon	https://www.amazon.jobs/en/jobs/3144153/software-development-engineer-internship-amazon-leo-fall-2026-us	SDE Internship Amazon Leo Fall 2026 JID 3144153	dedup_206
+2026-07-04	Microsoft	https://careers.microsoft.com/v2/global/en/universityinternship	(board scan)	no_new_roles
+2026-07-04	Microsoft	https://apply.careers.microsoft.com/careers/job/1970393556885678	Applied Science: Microsoft AI Internship Opportunities	report_220
+2026-07-04	Apple	https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN	(board scan)	multi_match
+2026-07-04	Apple	https://jobs.apple.com/en-us/details/200655115-1731/software-engineering-intern-machine-learning-ai-workflows	Software Engineering Intern (ML & AI Workflows) JID 200655115	report_222
+2026-07-04	Apple	https://jobs.apple.com/en-us/details/200606469-3810/machine-learning-ai-internships	Machine Learning / AI Internships JID 200606469	dedup_144
+2026-07-04	Netflix	https://jobs.netflix.com/careers/internships	(board scan)	no_2027_roles_yet
+2026-07-04	Uber	https://jobs.uber.com/en/teams/emerging-talent/	(board scan)	no_2027_roles_yet
+2026-07-04	Lyft	https://boards-api.greenhouse.io/v1/boards/lyft/jobs	(board scan)	403_blocked
+2026-07-04	Airbnb	https://boards-api.greenhouse.io/v1/boards/airbnb/jobs	(board scan)	403_blocked
+2026-07-04	DoorDash	https://boards-api.greenhouse.io/v1/boards/doordash/jobs	(board scan)	403_blocked
+2026-07-04	Instacart	https://boards-api.greenhouse.io/v1/boards/instacart/jobs	(board scan)	403_blocked
+2026-07-04	Snap	https://boards-api.greenhouse.io/v1/boards/snap/jobs	(board scan)	403_blocked
+2026-07-04	Snap	https://careers.snap.com/job?id=R0045123	Machine Learning Engineering Intern	no_match_grad (Spring 2027 req; cohort started)
+2026-07-04	Pinterest	https://boards-api.greenhouse.io/v1/boards/pinterest/jobs	(board scan)	403_blocked
+2026-07-04	Reddit	https://boards-api.greenhouse.io/v1/boards/reddit/jobs	(board scan)	403_blocked
+2026-07-04	Discord	https://boards-api.greenhouse.io/v1/boards/discord/jobs	(board scan)	no_new_roles
+2026-07-04	Spotify	https://jobs.lever.co/spotify	(board scan)	no_interns (2027 cycle not posted)
+2026-07-04	Palantir	https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c	Software Engineer, Internship	dedup_074 (same lever URL, Summer 2027 cycle)
+2026-07-04	Palantir	https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e	FDSE Internship - US Government	no_match_grad (2027 req)
+2026-07-04	Salesforce	https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_Internships/job/Summer-2027-Intern---Software-Engineer_JR340771	Summer 2027 Intern - Software Engineer JR340771	report_219
+2026-07-04	Two Sigma	https://www.twosigma.com/careers/	(board scan)	no_2027_roles_yet
+2026-07-04	Jane Street	https://www.janestreet.com/join-jane-street/internships/	(board scan)	no_2027_roles_yet (opens Aug 2026)
+2026-07-04	Citadel	https://www.citadel.com/careers/	(board scan)	no_2027_roles_yet (opens Aug 2026)
+2026-07-04	DE Shaw	https://www.deshaw.com/careers/	(board scan)	dedup_215_216 (Summer 2027 already evaluated)
+2026-07-04	HRT	https://www.hudsonrivertrading.com/student-opportunities/	Software Engineering Intern Summer 2027	report_221
+2026-07-04	Jump Trading	https://www.jumptrading.com/careers/6946008/	Campus Software Engineer (Intern)	dedup_087 (same URL confirmed Summer 2027)
