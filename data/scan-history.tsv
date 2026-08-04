@@ -2552,3 +2552,69 @@ date	company	url	title	result
 2026-08-04	Hugging Face	https://apply.workable.com/huggingface/	(board scan — AI+DevTools segment)	no_new (WebML D04BE4F4A3 = no_match_skills; CV DAB6199FAF = no_match_skills PyTorch required; TRL E39256D0B1 = no_match_skills; Accelerate F860248372 = no_match_skills; Quantization CF90BFDC06 = no_match_skills; IR 5691DE34F6 = no_match_skills; GenAI 07FBA391F1 = dedup_050; Gradio 9E5944D267 = dedup_157; all prior PyTorch/GPU mismatches confirmed)
 2026-08-04	Circleback	https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f	Software Engineering Intern (Summer 2027)	dedup_218 (same role as report_218 3.5/5; relisted on Ashby; YC Combinator URL was prior track; SF in-person; $7-10K/mo; Summer 2027 confirmed still active)
 2026-08-04	CTGT	https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155	Software Engineering Intern (Summer 2027)	dedup_217 (same role as report_217 4.2/5; relisted on Ashby; YC Combinator URL was prior track; SF on-site; $8-12K/mo; Summer 2027 confirmed still active)
+2026-08-04	Stripe	https://boards-api.greenhouse.io/v1/boards/stripe/jobs	(board scan)	api_blocked (egress policy — boards-api.greenhouse.io not allowed)
+2026-08-04	Plaid	https://boards-api.greenhouse.io/v1/boards/plaid/jobs	(board scan)	api_blocked
+2026-08-04	Brex	https://boards-api.greenhouse.io/v1/boards/brex/jobs	(board scan)	api_blocked
+2026-08-04	Mercury	https://boards-api.greenhouse.io/v1/boards/mercury/jobs	(board scan)	api_blocked
+2026-08-04	Ramp	https://boards-api.greenhouse.io/v1/boards/ramp/jobs	(board scan)	api_blocked
+2026-08-04	Robinhood	https://boards-api.greenhouse.io/v1/boards/robinhood/jobs	(board scan)	api_blocked
+2026-08-04	Coinbase	https://boards-api.greenhouse.io/v1/boards/coinbase/jobs	(board scan)	api_blocked
+2026-08-04	Block	https://boards-api.greenhouse.io/v1/boards/block/jobs	(board scan)	api_blocked
+2026-08-04	Chime	https://boards-api.greenhouse.io/v1/boards/chime/jobs	(board scan)	api_blocked
+2026-08-04	Affirm	https://boards-api.greenhouse.io/v1/boards/affirm/jobs	(board scan)	api_blocked
+2026-08-04	SoFi	https://boards-api.greenhouse.io/v1/boards/sofi/jobs	(board scan)	api_blocked
+2026-08-04	Atlassian	https://boards-api.greenhouse.io/v1/boards/atlassian/jobs	(board scan)	api_blocked
+2026-08-04	HubSpot	https://boards-api.greenhouse.io/v1/boards/hubspot/jobs	(board scan)	api_blocked
+2026-08-04	Twilio	https://boards-api.greenhouse.io/v1/boards/twilio/jobs	(board scan)	api_blocked
+2026-08-04	Grammarly	https://boards-api.greenhouse.io/v1/boards/grammarly/jobs	(board scan)	api_blocked
+2026-08-04	Zoom	https://boards-api.greenhouse.io/v1/boards/zoomvideocommunications/jobs	(board scan)	api_blocked
+2026-08-04	Intercom	https://boards-api.greenhouse.io/v1/boards/intercom/jobs	(board scan)	api_blocked
+2026-08-04	CrowdStrike	https://boards-api.greenhouse.io/v1/boards/crowdstrike/jobs	(board scan)	api_blocked — Summer 2027 cycle expected Aug-Sep 2026; not yet posted as of Aug 4
+2026-08-04	SentinelOne	https://boards-api.greenhouse.io/v1/boards/sentinelone/jobs	(board scan)	api_blocked
+2026-08-04	Palo Alto Networks	https://boards-api.greenhouse.io/v1/boards/paloaltonetworks/jobs	(board scan)	api_blocked
+2026-08-04	Vanta	https://boards-api.greenhouse.io/v1/boards/vanta/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found via WebSearch
+2026-08-04	Cloudflare	https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs	(board scan)	api_blocked — Fall 2026 listings found (jobs 8052785/8047201/8060959) but timing conflicts with PSU fall semester; no Summer 2027 listing yet
+2026-08-04	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/8052785	Software Engineer Intern (Fall 2026)	no_match_timing (PSU fall semester conflict)
+2026-08-04	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/8047201	Data Engineer Intern (Fall 2026)	no_match_timing (PSU fall semester conflict)
+2026-08-04	Cloudflare	https://job-boards.greenhouse.io/cloudflare/jobs/8060959	Security Engineer Intern (Fall 2026)	no_match_timing (PSU fall semester conflict)
+2026-08-04	MongoDB	https://boards-api.greenhouse.io/v1/boards/mongodb/jobs	(board scan)	api_blocked
+2026-08-04	Snowflake	https://boards-api.greenhouse.io/v1/boards/snowflake/jobs	(board scan)	api_blocked
+2026-08-04	Elastic	https://boards-api.greenhouse.io/v1/boards/elastic/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found
+2026-08-04	Confluent	https://boards-api.greenhouse.io/v1/boards/confluent/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found
+2026-08-04	HashiCorp	https://boards-api.greenhouse.io/v1/boards/hashicorp/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found
+2026-08-04	Grafana	https://boards-api.greenhouse.io/v1/boards/grafanalabs/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found
+2026-08-04	DigitalOcean	https://boards-api.greenhouse.io/v1/boards/digitalocean/jobs	(board scan)	api_blocked
+2026-08-04	PagerDuty	https://boards-api.greenhouse.io/v1/boards/pagerduty/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found
+2026-08-04	Figma	https://boards-api.greenhouse.io/v1/boards/figma/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found; 2026 cycle closed
+2026-08-04	Notion	https://boards-api.greenhouse.io/v1/boards/notion/jobs	(board scan)	api_blocked
+2026-08-04	Canva	https://boards-api.greenhouse.io/v1/boards/canva/jobs	(board scan)	api_blocked — no Summer 2027 US intern listing found
+2026-08-04	Airtable	https://boards-api.greenhouse.io/v1/boards/airtable/jobs	(board scan)	api_blocked — no intern listing found via WebSearch
+2026-08-04	Asana	https://boards-api.greenhouse.io/v1/boards/asana/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found
+2026-08-04	Dropbox	https://boards-api.greenhouse.io/v1/boards/dropbox/jobs	(board scan)	api_blocked
+2026-08-04	Rippling	https://boards-api.greenhouse.io/v1/boards/rippling/jobs	(board scan)	api_blocked
+2026-08-04	Navan	https://boards-api.greenhouse.io/v1/boards/navan/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found
+2026-08-04	Flexport	https://boards-api.greenhouse.io/v1/boards/flexport/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found
+2026-08-04	Verkada	https://boards-api.greenhouse.io/v1/boards/verkada/jobs	(board scan)	api_blocked — AI SWE Intern Fall 2026 (job 5117760007) found but grad mismatch (June 2027 req / George June 2028); timing conflict
+2026-08-04	Verkada	https://job-boards.greenhouse.io/verkada/jobs/5117760007	AI Software Engineering Intern - Fall 2026	no_match_grad (June 2027 required; George June 2028)
+2026-08-04	Samsara	https://www.samsara.com/company/careers/roles/8082091	Software Engineering Intern (Summer 2027)	evaluated_247 — NEW listing (job 8082091) distinct from report_136 (job 7179025); report_248
+2026-08-04	Whatnot	https://boards-api.greenhouse.io/v1/boards/whatnot/jobs	(board scan)	api_blocked
+2026-08-04	Etsy	https://boards-api.greenhouse.io/v1/boards/etsy/jobs	(board scan)	api_blocked
+2026-08-04	Deel	https://boards-api.greenhouse.io/v1/boards/deel/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found
+2026-08-04	Webflow	https://boards-api.greenhouse.io/v1/boards/webflow/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found
+2026-08-04	Anduril	https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007	2027 Software Engineer Intern	dedup_223 (same job ID 5148079007 confirmed in report_223)
+2026-08-04	Shield AI	https://boards-api.greenhouse.io/v1/boards/shieldai/jobs	(board scan)	api_blocked — Summer 2026 roles closed; Summer 2027 not yet posted (expected Aug-Sep 2026)
+2026-08-04	Tempus	https://boards-api.greenhouse.io/v1/boards/tempus/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found
+2026-08-04	Recursion	https://boards-api.greenhouse.io/v1/boards/recursion/jobs	(board scan)	api_blocked
+2026-08-04	Insitro	https://boards-api.greenhouse.io/v1/boards/insitro/jobs	(board scan)	api_blocked
+2026-08-04	Cruise	https://boards-api.greenhouse.io/v1/boards/cruise/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found
+2026-08-04	Nuro	https://boards-api.greenhouse.io/v1/boards/nuro/jobs	(board scan)	api_blocked
+2026-08-04	Aurora	https://boards-api.greenhouse.io/v1/boards/auroradriver/jobs	(board scan)	api_blocked
+2026-08-04	Duolingo	https://boards-api.greenhouse.io/v1/boards/duolingo/jobs	(board scan)	api_blocked
+2026-08-04	Toast	https://boards-api.greenhouse.io/v1/boards/toast/jobs	(board scan)	api_blocked — no Summer 2027 intern listing found
+2026-08-04	Gusto	https://boards-api.greenhouse.io/v1/boards/gusto/jobs	(board scan)	api_blocked
+2026-08-04	Glean	https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	(board scan)	api_blocked — Summer 2026 listing grad mismatch (Spring 2027 max); monitor for Summer 2027 cycle
+2026-08-04	Sigma Computing	https://boards-api.greenhouse.io/v1/boards/sigmacomputing/jobs	(board scan)	api_blocked
+2026-08-04	Aquatic Capital Management	https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002	Software Engineer, Intern (Summer 2027)	evaluated — report_247; $135/hr + $10K sign-on; NEW company; grad match June 2028 ✅
+2026-08-04	Stripe	https://stripe.com/careers/listing/software-engineer-intern/8031833	Software Engineer, Intern (Summer)	dedup_232 (same job 8031833 evaluated 2026-07-10)
+2026-08-04	CrowdStrike	https://www.crowdstrike.com/en-us/about-us/nextgen-scholarship-program/	(websearch)	not_yet_posted — Summer 2027 expected Aug-Sep 2026; monitor
+2026-08-04	Shield AI	https://shield.ai/careers/	(websearch)	not_yet_posted — Summer 2027 not yet posted as of Aug 4 2026; $61/hr rate for comparison
