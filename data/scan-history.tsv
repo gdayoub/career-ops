@@ -2641,3 +2641,41 @@ date	company	url	title	result
 2026-08-07	HRT	https://www.hudsonrivertrading.com/careers/	(websearch)	dedup_221 — Summer 2027 role gh_jid 8052083 already tracked as report_221
 2026-08-07	Jump Trading	https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs	(websearch)	dedup_087 (gh_jid=8002989); gh_jid=7565728 no_match_geo (Sydney/Singapore only)
 2026-08-07	D.E. Shaw	https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916	Systems Engineering Intern (New York) – Summer 2027	evaluated — report_249; $21K/mo + $15K sign-on + $10K housing ≈ $125/hr; 3.2/5; NEW role (job 5916); apply by Aug 15
+2026-08-07	Anthropic	https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	(board scan — AI+DevTools segment)	confirmed_no_new since 2026-08-04; FTE SWE only; no intern program; Fellows Program dedup_093
+2026-08-07	xAI	https://boards-api.greenhouse.io/v1/boards/xai/jobs	(board scan — AI+DevTools segment)	confirmed_no_new; datacenter mechanical/electrical interns only; no SWE/ML intern
+2026-08-07	Character AI	https://boards-api.greenhouse.io/v1/boards/characterai/jobs	(board scan — AI+DevTools segment)	confirmed_no_interns; no intern program confirmed
+2026-08-07	Together AI	https://boards-api.greenhouse.io/v1/boards/togetherai/jobs	(board scan — AI+DevTools segment)	confirmed_no_new; SWE Summer 2026 dedup_174; Summer 2027 not yet posted
+2026-08-07	Inflection AI	https://boards-api.greenhouse.io/v1/boards/inflectionai/jobs	(board scan — AI+DevTools segment)	confirmed_no_new; dedup_113 confirmed; no new listing
+2026-08-07	AI21 Labs	https://boards-api.greenhouse.io/v1/boards/ai21labs/jobs	(board scan — AI+DevTools segment)	confirmed_no_interns; no intern program
+2026-08-07	Stability AI	https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs	(board scan — AI+DevTools segment)	confirmed_no_interns; no intern program
+2026-08-07	Scale AI	https://scale.com/careers	(board scan — AI+DevTools segment)	no_new Summer 2027 (expected Aug-Oct 2026); AI Builder Intern 4703343005 = dedup_196; ML Research Intern 4606060005 = no_match_grad (Fall 2026-Spring 2027 req, George Jun 2028); Technical Advisor Specialist = no_match_profile (part-time, non-technical)
+2026-08-07	Databricks	https://www.databricks.com/company/careers	(board scan — AI+DevTools segment)	no_new SWE Summer 2027 (PM intern 6883068002 only = no_match_title); SWE Summer 2026 7640764002 = no_match_grad (Fall 2026-Summer 2027 req); SWE 2027 expected rolling from August 2026; monitor daily
+2026-08-07	Datadog	https://boards-api.greenhouse.io/v1/boards/datadog/jobs	(board scan — AI+DevTools segment)	confirmed_no_new Summer 2027 (expected September 2026); Summer 2026 roles require 2027 FTE start = no_match_grad; grad window Dec 2027-Jun 2029 expected for Summer 2027 = George qualifies; watch September 2026
+2026-08-07	Arize AI	https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	(board scan — AI+DevTools segment)	confirmed_no_interns; no intern program confirmed
+2026-08-07	Weaviate	https://boards-api.greenhouse.io/v1/boards/weaviate/jobs	(board scan — AI+DevTools segment)	confirmed_no_match_skills; Go/C++/Rust or PyTorch/CUDA required; Developer Advocate Intern = no_match_title
+2026-08-07	Vercel	https://boards-api.greenhouse.io/v1/boards/vercel/jobs	(board scan — AI+DevTools segment)	confirmed_no_new; Engineering Summer Intern 5628292004 = no_match_grad (Dec 2026/May 2027 req); no Summer 2027 listing
+2026-08-07	GitHub (company)	https://boards-api.greenhouse.io/v1/boards/github/jobs	(board scan — AI+DevTools segment)	confirmed_no_new; no SWE/DS/ML intern found; Summer 2027 expected fall 2026
+2026-08-07	GitLab	https://boards-api.greenhouse.io/v1/boards/gitlab/jobs	(board scan — AI+DevTools segment)	confirmed_no_interns; FTE Backend/Fullstack/Security only
+2026-08-07	Replit	https://jobs.ashbyhq.com/replit	(board scan — AI+DevTools segment)	confirmed_no_new; Summer 2026 dedup_004 (comp $25-35/hr no_match_comp); no Summer 2027 listing; Education Intern = no_match_profile
+2026-08-07	Retool	https://boards-api.greenhouse.io/v1/boards/retool/jobs	(board scan — AI+DevTools segment)	confirmed_no_interns; FTE SWE roles only
+2026-08-07	Supabase	https://boards-api.greenhouse.io/v1/boards/supabase/jobs	(board scan — AI+DevTools segment)	confirmed_no_interns; no active intern listings
+2026-08-07	Render	https://boards-api.greenhouse.io/v1/boards/render/jobs	(board scan — AI+DevTools segment)	confirmed_no_intern_program
+2026-08-07	Sourcegraph	https://boards-api.greenhouse.io/v1/boards/sourcegraph/jobs	(board scan — AI+DevTools segment)	confirmed_no_interns; FTE IC2-IC5 only; Go required
+2026-08-07	dbt Labs	https://boards-api.greenhouse.io/v1/boards/dbtlabsinc/jobs	(board scan — AI+DevTools segment)	confirmed_no_interns; no intern program confirmed
+2026-08-07	Postman	https://boards-api.greenhouse.io/v1/boards/postman/jobs	(board scan — AI+DevTools segment)	confirmed_no_new; SWE Intern 4670749003 = dedup_051; Data Engineer = no_match_geo (Bangalore)
+2026-08-07	OpenAI	https://openai.com/careers/emerging-talent/	(board scan — AI+DevTools segment)	confirmed_no_new Summer 2027; Summer 2026 SWE dedup_013 + Systems Research dedup_230 + Fall SWE dedup_127; Summer 2027 not yet posted
+2026-08-07	Cursor (Anysphere)	https://jobs.ashbyhq.com/anysphere	(board scan — AI+DevTools segment)	confirmed_no_interns; FTE engineering/sales only
+2026-08-07	Perplexity	https://jobs.ashbyhq.com/perplexity	(board scan — AI+DevTools segment)	confirmed_no_new US listings; all internships EMEA (Berlin, Belgrade, London)
+2026-08-07	Cohere	https://jobs.ashbyhq.com/cohere	(board scan — AI+DevTools segment)	confirmed_no_new; all listings $25-35/hr = no_match_comp; no Summer 2027 listing
+2026-08-07	Adept AI	https://jobs.ashbyhq.com/adept.ai	(board scan — AI+DevTools segment)	confirmed_no_interns; pivoted to enterprise focus; no intern program
+2026-08-07	Modal	https://jobs.ashbyhq.com/modal	(board scan — AI+DevTools segment)	confirmed_no_interns; ML Research Intern = no_match_skills (PhD-level, PyTorch/CUDA); FTE MTS-level only
+2026-08-07	LangChain	https://jobs.ashbyhq.com/langchain	(board scan — AI+DevTools segment)	confirmed_no_interns; FTE only
+2026-08-07	Pinecone	https://jobs.ashbyhq.com/pinecone	(board scan — AI+DevTools segment)	confirmed_no_new; Intern: Science NYC ee430f96 = PhD required; no BS-eligible intern
+2026-08-07	Linear	https://jobs.ashbyhq.com/linear	(board scan — AI+DevTools segment)	confirmed_no_interns; FTE engineering only
+2026-08-07	Fly.io	https://jobs.ashbyhq.com/fly.io	(board scan — AI+DevTools segment)	confirmed_no_intern_program
+2026-08-07	Railway	https://jobs.ashbyhq.com/railway	(board scan — AI+DevTools segment)	confirmed_no_interns
+2026-08-07	Mistral	https://jobs.lever.co/mistral	(board scan — AI+DevTools segment)	confirmed_no_new; all internships Paris/London/EMEA; Palo Alto AI Data Solutions = no_match_profile (BD/non-building role); no US BS engineer intern
+2026-08-07	W&B (Weights & Biases)	https://jobs.lever.co/wandb	(board scan — AI+DevTools segment)	confirmed_no_interns; FTE only
+2026-08-07	Hugging Face	https://apply.workable.com/huggingface/	(board scan — AI+DevTools segment)	confirmed_no_new; all listings require PyTorch/GPU/deep learning training = no_match_skills; GenAI 07FBA391F1 = dedup_050; no BS-accessible intern with George's profile
+2026-08-07	CrowdStrike	https://www.crowdstrike.com/en-us/careers/university-interns/	(board scan — AI+DevTools segment)	not_yet_posted Summer 2027; NextGen Scholarship open (not a direct intern pathway); expected early August - September 2026; grad Dec 2027-Jun 2029 expected = George qualifies; monitor crowdstrike.com/careers daily; est $55-70/hr remote-first; HIGH PRIORITY when posted
+2026-08-07	Netic	https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef	Full-Stack Software Engineer (Product) - Intern - 2026-2027	evaluated — report_250 (4.0/5); SF in-person; React/TypeScript/Python exact stack; 12-wk Summer 2027 track; comp UNCONFIRMED; DISTINCT from report_237 (Agent Platform); Founders Fund + Greylock + Dylan Field; posted ~Jul 17 2026
