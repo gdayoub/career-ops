@@ -2618,3 +2618,26 @@ date	company	url	title	result
 2026-08-04	Stripe	https://stripe.com/careers/listing/software-engineer-intern/8031833	Software Engineer, Intern (Summer)	dedup_232 (same job 8031833 evaluated 2026-07-10)
 2026-08-04	CrowdStrike	https://www.crowdstrike.com/en-us/about-us/nextgen-scholarship-program/	(websearch)	not_yet_posted — Summer 2027 expected Aug-Sep 2026; monitor
 2026-08-04	Shield AI	https://shield.ai/careers/	(websearch)	not_yet_posted — Summer 2027 not yet posted as of Aug 4 2026; $61/hr rate for comparison
+2026-08-07	Google	https://careers.google.com/jobs/results/	(websearch)	no_new — only MS-level/senior roles found; BS intern Summer 2027 not yet posted
+2026-08-07	Meta	https://www.metacareers.com/jobs	(websearch)	not_yet_posted — Summer 2027 intern cycle expected Sep-Oct 2026
+2026-08-07	Amazon	https://www.amazon.jobs/en/jobs/10490515	SDE I, Intern (10490515)	no_match_grad — requires 2026/2027 graduation; George 2028 ineligible
+2026-08-07	Microsoft	https://careers.microsoft.com/	(websearch)	no_new — CoreAI already tracked report_246; no distinct new BS intern postings
+2026-08-07	Apple	https://jobs.apple.com/	(websearch)	no_new — no new US BS-eligible intern roles since last scan
+2026-08-07	Netflix	https://jobs.netflix.com/	(websearch)	not_yet_posted — Summer 2027 intern cycle not yet open
+2026-08-07	Uber	https://www.uber.com/us/en/careers/	(websearch)	not_yet_posted — Summer 2027 intern cycle not yet open
+2026-08-07	Lyft	https://boards-api.greenhouse.io/v1/boards/lyft/jobs	(board scan)	api_blocked; websearch: not_yet_posted Summer 2027
+2026-08-07	Airbnb	https://careers.airbnb.com/	(board scan)	api_blocked; websearch: not_yet_posted Summer 2027
+2026-08-07	DoorDash	https://boards-api.greenhouse.io/v1/boards/doordash/jobs	(board scan)	api_blocked; websearch: not_yet_posted Summer 2027
+2026-08-07	Instacart	https://boards-api.greenhouse.io/v1/boards/maplebear/jobs	(board scan)	api_blocked; websearch: not_yet_posted Summer 2027
+2026-08-07	Snap	https://boards-api.greenhouse.io/v1/boards/snap/jobs	(board scan)	api_blocked; websearch: not_yet_posted Summer 2027
+2026-08-07	Pinterest	https://boards-api.greenhouse.io/v1/boards/pinterest/jobs	(board scan)	api_blocked; websearch: not_yet_posted Summer 2027
+2026-08-07	Reddit	https://boards-api.greenhouse.io/v1/boards/reddit/jobs	(board scan)	api_blocked; websearch: not_yet_posted Summer 2027
+2026-08-07	Discord	https://boards-api.greenhouse.io/v1/boards/discord/jobs	(board scan)	api_blocked; websearch: not_yet_posted Summer 2027
+2026-08-07	Spotify	https://www.lifeatspotify.com/jobs	(websearch)	not_yet_posted — Summer 2027 intern cycle not yet open
+2026-08-07	Palantir	https://jobs.lever.co/palantir	(websearch)	no_match_grad — Defense Tech/Infra/FDSE-USGov require 2027 grad; FDSE-Intel requires clearance; George 2028 ineligible
+2026-08-07	Two Sigma	https://www.twosigma.com/careers/	(websearch)	no_match_level — AI Research Scientist requires MS/PhD; QA Intern similar to existing tracked roles
+2026-08-07	Jane Street	https://www.janestreet.com/join-jane-street/open-roles/	(websearch)	dedup_041 — Summer 2027 cycle opened Aug 1; already tracked as report_041 (3.5/5)
+2026-08-07	Citadel	https://www.citadel.com/careers/	(websearch)	dedup_228 — SWE Summer 2027 already tracked as report_228
+2026-08-07	HRT	https://www.hudsonrivertrading.com/careers/	(websearch)	dedup_221 — Summer 2027 role gh_jid 8052083 already tracked as report_221
+2026-08-07	Jump Trading	https://boards-api.greenhouse.io/v1/boards/jumptrading/jobs	(websearch)	dedup_087 (gh_jid=8002989); gh_jid=7565728 no_match_geo (Sydney/Singapore only)
+2026-08-07	D.E. Shaw	https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916	Systems Engineering Intern (New York) – Summer 2027	evaluated — report_249; $21K/mo + $15K sign-on + $10K housing ≈ $125/hr; 3.2/5; NEW role (job 5916); apply by Aug 15
