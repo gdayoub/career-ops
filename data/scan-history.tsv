@@ -2812,3 +2812,38 @@ date	company	url	title	result
 2026-08-10	Salesforce	https://careers.salesforce.com	(WebSearch — Fintech+Unicorns+Misc segment)	WebSearch: confirmed Summer 2026 listings active (SWE JR308796; AI DS Analyst JR340354; Solution Engineer; Sales Programs) — all Summer 2026 still recruiting; dedup_025 (SWE 4.2/5) + dedup_117 (AI DS Analyst 4.8/5) + dedup_131 (4.4/5 re-eval) + dedup_172 (4.4/5 re-eval) + dedup_231 (Summer 2027 SWE 4.2/5); Summer 2027 SWE already evaluated; no new additional listings
 2026-08-10	ServiceNow	https://careers.servicenow.com	(WebSearch — Fintech+Unicorns+Misc segment)	WebSearch: MLE Intern Summer 2026 (744000080670612; Santa Clara; Java/Python/ML) + Associate SWE Intern (744000089060075) = Summer 2026; dedup_018 (UTG SWE 4.0/5) + dedup_072 (MLE 3.8/5) + dedup_132 (MLE 4.2/5 re-eval); Moveworks acquisition = FTE roles only; no Summer 2027 intern yet; expected Fall 2026; no change
 2026-08-10	Waymo	https://careers.withwaymo.com	(WebSearch — Fintech+Unicorns+Misc segment)	WebSearch: Summer 2026 listings: PhD DUE ML + BS/MS Simulation + BS ML Infra + MS/PhD Product DS + MS/PhD Planner Reasoning ML = all Summer 2026; dedup_015 (SWE 4.4/5) + dedup_139 (GenAI 3.9/5) + dedup_159 (SQR 3.9/5) + dedup_160 (Simulation 3.2/5) + dedup_163 (Commercialization 3.7/5) + dedup_185 (Data Tooling 3.6/5) + dedup_187 (Multiverse 3.1/5); Summer 2027 expected Oct 2026-Jan 2027; no change
+2026-08-13	Google	https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027	Software Engineering Intern BS Summer 2027	dedup_233
+2026-08-13	Google	https://www.google.com/about/careers/applications/jobs/results/120997883141857990-software-engineering-intern-summer-2027	Software Engineering Intern Summer 2027	dedup_212
+2026-08-13	Google	https://www.google.com/about/careers/applications/jobs/results/76982475250639558-software-engineering-intern-bs-summer-2027	Software Developer Intern BS Summer 2027	dedup_234
+2026-08-13	Meta	https://www.metacareers.com/jobs/1177716950861965	Software Engineer Intern (Summer 2027)	report_253
+2026-08-13	Amazon	https://www.amazon.jobs/en/jobs/10490515/sde-i-intern-amazon-university-talent-acquisition	SDE I Intern 6-month (2027 grad required)	no_match_grad
+2026-08-13	Amazon	https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern	2027 Software Dev Engineer Intern	dedup_224
+2026-08-13	Amazon	https://www.amazon.jobs/en/jobs/10480388/software-development-engineer-intern-may-2027-2-month	SDE Intern May 2027 2-month	dedup_252
+2026-08-13	Microsoft	https://jobs.careers.microsoft.com/us/en/job/1488909/Research-Intern-AI-assisted-Software-Engineering	Research Intern AI Assisted SE (MSR/PhD preferred)	no_match_skills
+2026-08-13	Microsoft	https://jobs.careers.microsoft.com/global/en/job/1695161	Research Intern AI Infrastructure (MSR/PhD preferred)	no_match_skills
+2026-08-13	Apple	https://jobs.apple.com/en-us/details/200598147-3715/intern-opportunities-at-apple-general-october-2026-to-september-2027	Intern Opportunities Apple General Oct2026-Sep2027	umbrella_portal_not_specific_role
+2026-08-13	Netflix	https://jobs.netflix.com/careers/internships	Netflix internships (board scan)	no_new_summer2027_yet
+2026-08-13	Uber	https://www.uber.com/careers	Uber intern (board scan)	no_new_summer2027_posted
+2026-08-13	Lyft	https://boards-api.greenhouse.io/v1/boards/lyft/jobs	Lyft (greenhouse board scan)	api_blocked_not_posted_yet
+2026-08-13	Airbnb	https://careers.airbnb.com/positions/7453837	Software Engineering Intern (Summer 2027)	report_254
+2026-08-13	DoorDash	https://boards-api.greenhouse.io/v1/boards/doordash/jobs	DoorDash (greenhouse board scan)	api_blocked_not_posted_yet
+2026-08-13	Instacart	https://boards-api.greenhouse.io/v1/boards/instacart/jobs	Instacart (greenhouse board scan)	api_blocked_not_posted_yet
+2026-08-13	Snap	https://boards-api.greenhouse.io/v1/boards/snap/jobs	Snap (greenhouse board scan)	api_blocked_not_posted_yet
+2026-08-13	Pinterest	https://boards-api.greenhouse.io/v1/boards/pinterest/jobs	Pinterest (greenhouse board scan)	api_blocked_not_posted_yet
+2026-08-13	Reddit	https://boards-api.greenhouse.io/v1/boards/reddit/jobs	Reddit (grad req Dec26-Jun27 mismatch)	no_match_grad
+2026-08-13	Discord	https://boards-api.greenhouse.io/v1/boards/discord/jobs	Discord Summer2027 (expected Oct-Dec2026)	api_blocked_not_posted_yet
+2026-08-13	Spotify	https://jobs.lever.co/spotify	Spotify internship (2026/2027 grad req; 2028 mismatch)	no_match_grad
+2026-08-13	Palantir	https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602	Software Engineer Internship (Summer 2027)	dedup_242
+2026-08-13	Palantir	https://jobs.lever.co/palantir/599b1907-5f32-401a-b52c-11efee2b5d4b	FDSE Internship Commercial	dedup_243
+2026-08-13	Palantir	https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1	Software Engineer Internship Production Infra	dedup_244
+2026-08-13	Palantir	https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7	Software Engineer Internship Defense Tech (2027 grad req)	no_match_grad
+2026-08-13	Palantir	https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89	FDSE Internship Intel (clearance+2027 grad req)	no_match_grad
+2026-08-13	Palantir	https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e	FDSE Internship US Government (2027 grad req)	no_match_grad
+2026-08-13	Two Sigma	https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Software-Engineering-Internship-NYC/13353	Software Engineering Internship NYC	dedup_245
+2026-08-13	Two Sigma	https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-First-Year-Software-Engineering-Internship-NYC/12605	First Year SWE Internship ($2900/wk; 1st year students)	no_match_skills
+2026-08-13	Jane Street	https://www.janestreet.com/join-jane-street/position/8599644002/	Software Engineer Internship New York	dedup_041
+2026-08-13	Citadel	https://www.citadel.com/careers/details/software-engineer-intern-us/	Software Engineer Intern US (Summer 2027)	dedup_039
+2026-08-13	Citadel Securities	https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/	Software Engineer Intern US (Summer 2027)	dedup_228
+2026-08-13	D.E. Shaw	https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894	Software Developer Intern Summer 2027	dedup_215
+2026-08-13	HRT	https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/	Software Engineering Internship C++ or Python Summer 2027	dedup_221
+2026-08-13	Jump Trading	https://www.jumptrading.com/hr/job?gh_jid=7543377	Campus Software Engineer Dec2026-Feb2027 Intern	dedup_042
