@@ -3311,3 +3311,67 @@ date	company	url	title	result
 2026-08-28	Mistral AI	https://jobs.lever.co/mistral	(AI+DevTools segment scan)	Lever EGRESS_BLOCKED; all internships EU/Paris only (PhD/Master's); Applied Scientist (426ef8c0) = no_match_geo Paris; no US intern; no change from Aug 25
 2026-08-28	Weights & Biases (W&B)	https://jobs.lever.co/wandb	(AI+DevTools segment scan)	Lever EGRESS_BLOCKED; no intern program (acquired by CoreWeave; FTE roles only); no change from Aug 25
 2026-08-28	Hugging Face	https://apply.workable.com/huggingface	(AI+DevTools segment scan)	Workable EGRESS_BLOCKED; all previously tracked listings confirmed; no new intern listings; Fall 2026 timing conflicts with PSU; no change from Aug 25
+2026-09-28	Google	(FAANG+BigTech+Quant scan)
+2026-09-28	Google	Software Engineering Site Reliability Engineering BS/MS Intern 2027
+2026-09-28	Meta	(FAANG+BigTech+Quant scan)
+2026-09-28	Amazon	Software Development Engineer Intern Summer 2027 USA (job 10552937)
+2026-09-28	Amazon	Software Development Engineer Intern Amazon Leo Summer 2027
+2026-09-28	Amazon	Software Development Engineer Intern Co-Op Robotics 2027
+2026-09-28	Amazon	Software Development Engineer Intern Summer 2027 Amazon Dedicated Cloud ADC (SKIP - TS/SCI poly required)
+2026-09-28	Microsoft	(FAANG+BigTech+Quant scan)
+2026-09-28	Microsoft	Explore Program Summer 2027 (SKIP - $34/hr below $40/hr target)
+2026-09-28	Apple	(FAANG+BigTech+Quant scan)
+2026-09-28	Apple	Internship Machine Learning Research job 200683768
+2026-09-28	Netflix	(FAANG+BigTech+Quant scan - Summer 2027 not yet posted)
+2026-09-28	Uber	(FAANG+BigTech+Quant scan)
+2026-09-28	Lyft	(FAANG+BigTech+Quant scan - Greenhouse API blocked)
+2026-09-28	Airbnb	Software Engineering Intern Summer 2027 (confirmed posted - see report 254 update)
+2026-09-28	DoorDash	Software Engineer Intern Summer 2027 US (job 8171041)
+2026-09-28	Instacart	(FAANG+BigTech+Quant scan - Summer 2027 posting not confirmed live)
+2026-09-28	Snap	(FAANG+BigTech+Quant scan - Summer 2027 posting not confirmed live)
+2026-09-28	Pinterest	(FAANG+BigTech+Quant scan - Summer 2027 posting not confirmed live)
+2026-09-28	Reddit	(FAANG+BigTech+Quant scan - grad window likely mismatch Dec 2026-Jun 2027)
+2026-09-28	Discord	(FAANG+BigTech+Quant scan - Greenhouse API blocked)
+2026-09-28	Spotify	(FAANG+BigTech+Quant scan - Summer 2027 not yet posted)
+2026-09-28	Palantir	(FAANG+BigTech+Quant scan - no new roles since 2026-08-28)
+2026-09-28	Two Sigma	(FAANG+BigTech+Quant scan - no new roles since 2026-08-28)
+2026-09-28	Jane Street	(FAANG+BigTech+Quant scan - no new roles since 2026-08-28)
+2026-09-28	Citadel	(FAANG+BigTech+Quant scan - no new roles since 2026-08-28)
+2026-09-28	Hudson River Trading	(FAANG+BigTech+Quant scan - no new roles since 2026-08-28)
+2026-09-28	Jump Trading	(FAANG+BigTech+Quant scan - no new roles since 2026-08-28)
+2026-09-28	Anthropic	https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; Fellows Program still dedup_093; no SWE intern; no Summer 2027 posting; no change from Aug 28
+2026-09-28	xAI	https://boards-api.greenhouse.io/v1/boards/xai/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; no SWE/ML intern; no Summer 2027 posting; no change from Aug 28
+2026-09-28	Character AI	https://jobs.ashbyhq.com/character/	(AI+DevTools segment scan)	No formal intern program as of Sep 2026; all 16 open positions full-time; monitor fall 2026 for any ad hoc intern postings; no change
+2026-09-28	Together AI	https://job-boards.greenhouse.io/togetherai/jobs/5232036007	Software Engineer Intern (Summer 2027)	new_report_276 (4.0/5; SF in-person; $58-63/hr + housing+meals+transit; 12wks; Grad by Summer 2028 ✅; Job 5232036007; CoverMe LLM=direct proof; Platform/Product track; DISTINCT from dedup_174 Summer 2026; apply now)
+2026-09-28	Inflection AI	https://boards-api.greenhouse.io/v1/boards/inflectionai/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; dedup_113; no change from Aug 28
+2026-09-28	AI21 Labs	https://boards-api.greenhouse.io/v1/boards/ai21labs/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; no intern program; no change from Aug 28
+2026-09-28	Stability AI	https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; no intern program; no change from Aug 28
+2026-09-28	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs/4730845005	Software Engineering Intern (Summer 2027)	new_report_274 (4.0/5; SF in-person; $60/hr + $7K housing; 12wks; Grad Fall2027/Spring2028 ✅ George June 2028; Job 4730845005; Python/TS/React+LLMs; CoverMe=direct proof; DISTINCT from AI Builder dedup_196; apply now)
+2026-09-28	Databricks	https://boards-api.greenhouse.io/v1/boards/databricks/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; Summer 2027 SWE STILL NOT POSTED (expected Oct 2026); Winter 2027 dedup (8732364002 no_match_timing); $54-60/hr; Grad Dec2027-Jun2029 ✅ George qualifies; WATCH OCT SCAN
+2026-09-28	Datadog	https://careers.datadoghq.com/detail/8052118/	Software Engineering Intern (Summer)	new_report_275 (3.5/5; NYC or Boston in-person; $48-57/hr + $6-7.5K housing; Job 8052118; Grad Dec2027-Jun2029 ✅; No AI/ML focus; Python/SQL/infra match; apply after 4.0+ roles; DISTINCT from SRE intern #122)
+2026-09-28	Arize AI	https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; no intern program; no change from Aug 28
+2026-09-28	Weaviate	https://boards-api.greenhouse.io/v1/boards/weaviate/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; no_match_skills (Go/C++/Rust/CUDA); no change from Aug 28
+2026-09-28	Vercel	https://boards-api.greenhouse.io/v1/boards/vercel/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; Summer 2027 no_match_grad (Dec2026/May2027 req; George Jun2028 ineligible); no change from Aug 28
+2026-09-28	GitHub	https://boards-api.greenhouse.io/v1/boards/github/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; no undergrad SWE intern found; no change from Aug 28
+2026-09-28	GitLab	https://boards-api.greenhouse.io/v1/boards/gitlab/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; no intern program; no change from Aug 28
+2026-09-28	Replit	https://boards-api.greenhouse.io/v1/boards/replit/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; SWE Intern Summer 2027 = dedup_260 (4.3/5); no new listings; no change from Aug 28
+2026-09-28	Retool	https://boards-api.greenhouse.io/v1/boards/retool/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; no intern program; no change from Aug 28
+2026-09-28	Supabase	https://boards-api.greenhouse.io/v1/boards/supabase/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; no active intern program; no change from Aug 28
+2026-09-28	Render	https://boards-api.greenhouse.io/v1/boards/render/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; no intern program; no change from Aug 28
+2026-09-28	Sourcegraph	https://boards-api.greenhouse.io/v1/boards/sourcegraph/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; no intern program; no change from Aug 28
+2026-09-28	dbt Labs	https://boards-api.greenhouse.io/v1/boards/dbtlabsinc/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; no intern program; no change from Aug 28
+2026-09-28	Postman	https://boards-api.greenhouse.io/v1/boards/postman/jobs	(AI+DevTools segment scan)	Greenhouse API EGRESS_BLOCKED; AI Engineer Intern Summer 2026 (7823417003) = dedup_257; no Summer 2027 US listings; no change from Aug 28
+2026-09-28	OpenAI	https://openai.com/careers/software-engineer-applied-emerging-talent-(2027)-san-francisco/	(AI+DevTools segment scan)	Applied Emerging Talent (2027) = no_match_role (full-time new grad hire for 2027 grads; NOT an internship); no SWE Summer 2027 intern posted yet; expected Sep-Nov 2026; monitor Oct scan
+2026-09-28	Cursor (Anysphere)	https://jobs.ashbyhq.com/anysphere	(AI+DevTools segment scan)	Ashby EGRESS_BLOCKED; no intern program confirmed; no change from Aug 28
+2026-09-28	Perplexity AI	https://jobs.ashbyhq.com/perplexity	(AI+DevTools segment scan)	Ashby EGRESS_BLOCKED; UK/EU interns only; no US intern; no change from Aug 28
+2026-09-28	Cohere	https://jobs.ashbyhq.com/cohere	(AI+DevTools segment scan)	Ashby EGRESS_BLOCKED; no Summer 2027 US listing; comp mismatch ($25-35/hr); no change from Aug 28
+2026-09-28	Adept AI	https://jobs.ashbyhq.com/adept	(AI+DevTools segment scan)	Ashby EGRESS_BLOCKED; no intern program; no change from Aug 28
+2026-09-28	Modal Labs	https://jobs.ashbyhq.com/modal	(AI+DevTools segment scan)	Ashby EGRESS_BLOCKED; no intern program (FTE MTS only); no change from Aug 28
+2026-09-28	LangChain	https://jobs.ashbyhq.com/langchain	(AI+DevTools segment scan)	Ashby EGRESS_BLOCKED; no intern program; no change from Aug 28
+2026-09-28	Pinecone	https://jobs.ashbyhq.com/pinecone	(AI+DevTools segment scan)	Ashby EGRESS_BLOCKED; no intern program (PhD only); no change from Aug 28
+2026-09-28	Linear	https://jobs.ashbyhq.com/linear	(AI+DevTools segment scan)	Ashby EGRESS_BLOCKED; no intern program; no change from Aug 28
+2026-09-28	Fly.io	https://fly.io/jobs/	(AI+DevTools segment scan)	no intern program (confirmed); no change from Aug 28
+2026-09-28	Railway	https://jobs.ashbyhq.com/railway	(AI+DevTools segment scan)	Ashby EGRESS_BLOCKED; no intern program; no change from Aug 28
+2026-09-28	Mistral AI	https://jobs.lever.co/mistral	(AI+DevTools segment scan)	Lever EGRESS_BLOCKED; all internships EU/Paris only; no US intern; no change from Aug 28
+2026-09-28	Weights & Biases (W&B)	https://jobs.lever.co/wandb	(AI+DevTools segment scan)	Lever EGRESS_BLOCKED; no intern program (acquired by CoreWeave); no change from Aug 28
+2026-09-28	Hugging Face	https://apply.workable.com/huggingface	(AI+DevTools segment scan)	Workable EGRESS_BLOCKED; no new intern listings; no change from Aug 28
