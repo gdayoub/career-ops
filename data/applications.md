@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 285 | 2026-10-07 | xAI | Software Engineering Intern (Summer 2027) | 4.0/5 | Evaluada | ❌ | [285](reports/285-xai-swe-intern-summer-2027-2026-10-07.md) | Palo Alto CA onsite. $62-88/hr ($10-14K/mo). No grad yr restriction. Python+real-world deployment match. CoverMe LLM API=direct proof. Rolling — apply now. NEW company. |
 | 280 | 2026-10-01 | Anthropic | STEM Fellow (ML Systems track) | 3.1/5 | Evaluada | ❌ | [280](reports/280-anthropic-stem-fellow-2026-10-01.md) | $3,850/wk remote fellowship. NEW program distinct from #93. Apply only if interested in AI safety/research. ML Systems track = best fit. |
 | 278 | 2026-10-01 | Uber | 2027 Software Engineering Internship | 3.3/5 | Evaluada | ❌ | [278](reports/278-uber-swe-intern-summer-2027-2026-10-01.md) | Seattle WA in-office. $52/hr confirmed. 3rd/4th yr BS ✓ (George NOW eligible; was mismatch in 2026 cycle). General SWE, no AI/ML. DISTINCT from #44 (UberStar) and #47/#48 (Summer 2026). Apply after 3.5+ roles. |
 | 277 | 2026-10-01 | Netflix | Software Engineer Intern (Summer 2027) | 3.5/5 | Evaluada | ❌ | [277](reports/277-netflix-swe-intern-summer-2027-2026-10-01.md) | Los Gatos/LA/NY in-person. $63/hr + $10K housing. Return to school ✓ (Fall+Spring 2027-28). ⚠️ WINDOW CLOSES OCT 31 — apply NOW. Java gap; Python teams exist. Extremely competitive. DISTINCT from #36 (DE) and #47 (DataViz). |
