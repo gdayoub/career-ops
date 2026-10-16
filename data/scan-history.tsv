@@ -3677,3 +3677,29 @@ date	company	url	title	result
 2026-10-13	Hugging Face	https://apply.workable.com/huggingface	(AI+DevTools segment scan)	Workable EGRESS_BLOCKED; WebSearch: all tracks research-heavy PhD preferred; no BS SWE intern; no change from Oct 10
 2026-10-13	Harvey	https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d	(AI+DevTools segment scan)	NEW Summer 2027 listing (distinct from b6509622 Summer 2026 = dedup_177+071); $62-72/hr confirmed; SF+NYC; report_288 (4.5/5); rolling — apply now
 2026-10-13	Sierra	https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e	(AI+DevTools segment scan)	NEW company; Software Engineer Intern Agent Summer 2027; grad Dec2027-Jun2028 exact match; comp UNCONFIRMED; SF+NYC in-person; report_289 (4.0/5); verify comp then apply
+2026-10-16	Google	https://www.google.com/about/careers/applications/jobs/results/100648618540573382	Software Engineering Intern BS Summer 2027	dedup_233 (already tracked; deadline Sep 25 2026 — passed)
+2026-10-16	Google	https://www.google.com/about/careers/applications/jobs/results/120997883141857990	Software Engineering Intern (India: Bengaluru/Hyderabad/Pune)	no_match_geo (India-only; deadline Jun 28 2026 — passed)
+2026-10-16	Google	https://www.google.com/about/careers/applications/jobs/results/135156989620560582	Forward Deployed Engineering Intern BS/MS Summer 2027	report_291 (3.6/5; Sunnyvale+NYC US; ~$63/hr; deadline Nov 20 rolling; penultimate year req ✅ George Jun2028; GCP exp=differentiator; apply by early Nov)
+2026-10-16	Meta	https://www.metacareers.com/v2/jobs/1952991802037374/	Software Engineering Intern Summer 2027	dedup_287 (4.0/5; already tracked Oct 13)
+2026-10-16	Amazon	https://www.amazon.jobs/en/jobs/10552937	Software Development Engineer Intern Summer 2027 USA	dedup_003 (already tracked; general SDE intern)
+2026-10-16	Amazon	https://www.amazon.jobs/en/jobs/10571374	Software Development Engineer Intern Embedded Systems Summer 2027	dedup (no_match_skills; C/C++ embedded; logged Oct 13)
+2026-10-16	Microsoft	https://jobs.careers.microsoft.com/global/en/job/1811009	Software Engineering Intern Opportunities CoreAI Summer 2027	dedup (already tracked Oct 13; no new listings)
+2026-10-16	Apple	https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN	(FAANG+BigTech scan)	no_new (ML/AI/SWE interns all tracked Oct 13; no new US intern listings)
+2026-10-16	Netflix	https://explore.jobs.netflix.net/careers/job/790318904468	Software Engineer Intern Summer 2027	report_290 (3.8/5; NEW posted Oct 14; LA+Los Gatos; ~$63/hr+$10K housing; ⚠️ DEADLINE ~Oct 31 URGENT; lead w/CoverMe+Seismos; reach candidate)
+2026-10-16	Uber	https://www.uber.com/careers	(FAANG+BigTech scan)	dedup_278 (SWE Summer 2027 $52/hr Seattle; no new listings)
+2026-10-16	Lyft	https://boards-api.greenhouse.io/v1/boards/lyft/jobs	(FAANG+BigTech scan)	Greenhouse EGRESS_BLOCKED; dedup_283 (Backend SWE Summer 2027 $52-58/hr SF); no new listings
+2026-10-16	Airbnb	https://boards-api.greenhouse.io/v1/boards/airbnb/jobs	(FAANG+BigTech scan)	Greenhouse EGRESS_BLOCKED; dedup_282 (SWE Summer 2027); no new listings
+2026-10-16	DoorDash	https://boards-api.greenhouse.io/v1/boards/doordash/jobs	(FAANG+BigTech scan)	Greenhouse EGRESS_BLOCKED; job 7262223=Summer 2026 (stale); dedup_270 (SWE Summer 2027 GH 8171041); no new Summer 2027 listings
+2026-10-16	Instacart	https://instacart.careers	(FAANG+BigTech scan)	not_yet_posted (projected Aug-Sep 2026 open; possibly delayed; monitor Nov 2026)
+2026-10-16	Snap	https://careers.snap.com	(FAANG+BigTech scan)	dedup_279 (SWE Summer 2027; 3.3/5; ⚠️ deadline ~Oct 15 likely passed); no new Summer 2027 listings
+2026-10-16	Pinterest	https://job-boards.greenhouse.io/pinterest	(FAANG+BigTech scan)	Greenhouse EGRESS_BLOCKED; dedup_286 (SWE 2027 USA report 286; 4.0/5; Oct 10); no new listings
+2026-10-16	Reddit	https://job-boards.greenhouse.io/reddit	(FAANG+BigTech scan)	Greenhouse EGRESS_BLOCKED; not_yet_posted (projected Sep-Oct 2026; still not confirmed; monitor Nov 2026)
+2026-10-16	Discord	https://discord.com/careers	(FAANG+BigTech scan)	not_yet_posted (projected Oct-Dec 2026; not yet live as of Oct 16; monitor Nov 2026)
+2026-10-16	Spotify	https://jobs.lever.co/spotify	(FAANG+BigTech scan)	not_yet_posted (Jan 2027 posting window per Extern guide; check Jan 2027)
+2026-10-16	Palantir	https://jobs.lever.co/palantir	(FAANG+BigTech scan)	dedup (242/243/244 FDSE+SWE Summer 2027 all tracked); no new listings
+2026-10-16	Two Sigma	https://www.twosigma.com/careers	(FAANG+BigTech+Quant scan)	dedup_245 (SWE Summer 2027; 3.6/5); AI Research Scientist Intern=no_match_degree (MS/PhD-only); no new BS-level listings
+2026-10-16	Jane Street	https://www.janestreet.com/join-jane-street/internships/	(FAANG+BigTech+Quant scan)	dedup_265 (SWE Summer 2027; 3.5/5; NYC; ~$137-150/hr); no new listings
+2026-10-16	Citadel	https://www.citadel.com/careers	(FAANG+BigTech+Quant scan)	dedup_228 (Citadel Securities SWE Summer 2027); no new listings
+2026-10-16	DE Shaw	https://www.deshaw.com/careers	(FAANG+BigTech+Quant scan)	dedup_215 (Software Developer Intern Summer 2027; 3.9/5); no new listings
+2026-10-16	Hudson River Trading	https://www.hudsonrivertrading.com/careers/	(FAANG+BigTech+Quant scan)	dedup_221 (SWE Intern Summer 2027; 3.2/5; C++ primary gap); no new listings
+2026-10-16	Jump Trading	https://www.jumptrading.com/careers/	(FAANG+BigTech+Quant scan)	dedup (266/268/269 SWE+Data Eng Summer 2027 all tracked); no new listings
