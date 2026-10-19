@@ -3739,3 +3739,26 @@ date	company	url	title	result
 2026-10-16	Mistral AI	https://jobs.lever.co/mistral	(AI+DevTools refresh scan)	no_change (all intern tracks Paris EU-only; US Palo Alto track requires Masters; last scanned Oct 13)
 2026-10-16	Weights & Biases	https://jobs.lever.co/wandb	(AI+DevTools refresh scan)	no_change (no intern listing; CoreWeave portal; ad-hoc; monitor Nov 2026; last scanned Oct 13)
 2026-10-16	Hugging Face	https://apply.workable.com/huggingface	(AI+DevTools refresh scan)	no_change (all tracks research-heavy PhD preferred; no BS SWE intern; last scanned Oct 13)
+2026-10-19	Google	https://www.google.com/about/careers	(FAANG+BigTech+Quant scan)	no_new (dedup_233 BS SWE Intern Summer 2027; dedup_234 Software Developer; dedup_273 SRE; dedup_291 FDE — all tracked; UK/EMEA job 100028133205254854 = no_match_location; FDE deadline Nov 20)
+2026-10-19	Meta	https://www.metacareers.com	(FAANG+BigTech+Quant scan)	no_new (dedup_287 SWE Intern Summer 2027 job 1952991802037374; 4.0/5; apply before Nov 2026)
+2026-10-19	Amazon	https://www.amazon.jobs	(FAANG+BigTech+Quant scan)	no_new (dedup_200/224 SDE Summer 2027; dedup_205/271 Amazon Leo; dedup_252 May2027; dedup_272 Robotics; dedup_264 Annapurna Labs — all tracked)
+2026-10-19	Microsoft	https://careers.microsoft.com	(FAANG+BigTech+Quant scan)	no_new (dedup_246 CoreAI SWE; dedup_147 DS; dedup_135 Applied AI/ML; dedup_91 AI/ML; Applied Science MS AI Redmond = no_match_degree MS/PhD required)
+2026-10-19	Apple	https://jobs.apple.com	(FAANG+BigTech+Quant scan)	no_new (dedup_222 ML/AI Workflows; dedup_197 ML/AI Undergrad; dedup_144 ML/AI General; dedup_143 SWE General — all tracked; Summer 2027 cycle not yet posted)
+2026-10-19	Netflix	https://jobs.netflix.com	(FAANG+BigTech+Quant scan)	no_new (dedup_290 SWE Intern Summer 2027 3.8/5; ⚠️ DEADLINE Oct 31 URGENT — apply immediately)
+2026-10-19	Uber	https://www.uber.com/careers	(FAANG+BigTech+Quant scan)	no_new (dedup_278 SWE Summer 2027 $52/hr Seattle; dedup_169 DS Summer 2026; no new listings)
+2026-10-19	Lyft	https://boards-api.greenhouse.io/v1/boards/lyft/jobs	(FAANG+BigTech+Quant scan)	Greenhouse EGRESS_BLOCKED; dedup_283 Backend SWE Summer 2027; no new listings
+2026-10-19	Airbnb	https://boards-api.greenhouse.io/v1/boards/airbnb/jobs	(FAANG+BigTech+Quant scan)	Greenhouse EGRESS_BLOCKED; dedup_282 SWE Summer 2027; no new listings
+2026-10-19	DoorDash	https://boards-api.greenhouse.io/v1/boards/doordash/jobs	(FAANG+BigTech+Quant scan)	Greenhouse EGRESS_BLOCKED; dedup_270 SWE Summer 2027 GH 8171041; no new listings
+2026-10-19	Instacart	https://instacart.careers	(FAANG+BigTech+Quant scan)	not_yet_posted (Greenhouse EGRESS_BLOCKED; expected Aug-Sep 2026 per external guide; $9,500-10,500/mo est; monitor weekly — likely posting soon)
+2026-10-19	Snap	https://careers.snap.com	(FAANG+BigTech+Quant scan)	dedup_279 (SWE Summer 2027 3.3/5; Oct 15 priority deadline likely passed; monitor for extended deadline)
+2026-10-19	Pinterest	https://job-boards.greenhouse.io/pinterest	(FAANG+BigTech+Quant scan)	Greenhouse EGRESS_BLOCKED; dedup_286 SWE 2027 USA 4.0/5; no new listings
+2026-10-19	Reddit	https://job-boards.greenhouse.io/reddit	(FAANG+BigTech+Quant scan)	not_yet_posted (Greenhouse EGRESS_BLOCKED; $50-60/hr est per external guide; expected Sep-Oct 2026 — may be posting imminently; monitor daily)
+2026-10-19	Discord	https://discord.com/careers	(FAANG+BigTech+Quant scan)	not_yet_posted (expected Oct-Dec 2026; Summer 2026 cycle dedup 081/120/125/126/148/149/150/151/152/153/168; monitor weekly)
+2026-10-19	Spotify	https://jobs.lever.co/spotify	(FAANG+BigTech+Quant scan)	not_yet_posted (expected Jan 2027 posting window; check Jan 2027)
+2026-10-19	Palantir	https://jobs.lever.co/palantir	(FAANG+BigTech+Quant scan)	no_new (dedup_242 SWE General; dedup_243 FDSE Commercial; dedup_244 FDSE Intel — all Summer 2027 tracked)
+2026-10-19	Two Sigma	https://www.twosigma.com/careers	(FAANG+BigTech+Quant scan)	no_new (dedup_245 SWE Summer 2027 3.6/5; golden window Aug 1-31 passed; apply if not done)
+2026-10-19	Jane Street	https://www.janestreet.com/join-jane-street/internships/	(FAANG+BigTech+Quant scan)	no_new (dedup_265/266 SWE Summer 2027 3.5/5; NYC ~$137-150/hr; no new listings)
+2026-10-19	Citadel	https://www.citadel.com/careers	(FAANG+BigTech+Quant scan)	no_new (dedup_228 Citadel Securities SWE Summer 2027; dedup_092 Launch Intern — both tracked; no new listings)
+2026-10-19	DE Shaw	https://www.deshaw.com/careers	(FAANG+BigTech+Quant scan)	no_new (dedup_215 Software Developer Intern Summer 2027 3.9/5; dedup_249 Systems Eng 3.2/5; dedup_216 QA 3.3/5 — all tracked; no new listings)
+2026-10-19	Hudson River Trading	https://www.hudsonrivertrading.com/careers/	(FAANG+BigTech+Quant scan)	no_new (dedup_221 SWE Intern Summer 2027 3.2/5; C++ primary but Python accepted; no new listings)
+2026-10-19	Jump Trading	https://www.jumptrading.com/careers/	(FAANG+BigTech+Quant scan)	no_new (dedup_229/268 Campus Data Engineer; dedup_266/269 Campus SWE — all Summer 2027 tracked; no new listings)
