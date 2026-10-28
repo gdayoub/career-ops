@@ -3950,3 +3950,32 @@ date	company	url	title	result
 2026-10-28	D.E. Shaw	https://www.deshaw.com/careers	(FAANG+BigTech+Quant scan)	no_new (dedup_215 Software Developer 3.9/5; dedup_216 QA 3.3/5; dedup_249 Systems 3.2/5; all tracked)
 2026-10-28	HRT	https://www.hudsonrivertrading.com/student-opportunities/	(FAANG+BigTech+Quant scan)	no_new (dedup_221 SWE 3.2/5 C++ primary gap; same listing active)
 2026-10-28	Jump Trading	https://www.jumptrading.com/careers/	(FAANG+BigTech+Quant scan)	no_new (dedup_268 Campus Data Engineer 3.9/5; dedup_269 Campus SWE 3.7/5; same listings active)
+2026-10-28	anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5183052008	Anthropic Fellows Program ML Systems & RL (Jan 2027)	293
+2026-10-28	xai	https://job-boards.greenhouse.io/xai/jobs/5255111007	xAI SWE Intern Summer 2027 (dedup #285)	dedup
+2026-10-28	togetherai	https://jobs.generalcatalyst.com/companies/together-ai-2/jobs/93734802-systems-research-engineer-intern-gpu-programming-summer-2027	Together AI GPU Intern Summer 2027 (PhD req - skip)	skip
+2026-10-28	togetherai	https://jobs.generalcatalyst.com/companies/together-ai-2/jobs/93734785-research-intern-frontier-agents-summer-2027	Together AI Research Intern Frontier Agents Summer 2027 (PhD req - skip)	skip
+2026-10-28	vercel	https://vercel.com/careers/software-engineering-intern-summer-27-6181759004	Vercel SWE Intern Summer 27 (dedup #284)	dedup
+2026-10-28	scaleai	https://scale.com/careers/4730845005	Scale AI SWE Intern Summer 2027 (dedup #274)	dedup
+2026-10-28	databricks	https://www.databricks.com/company/careers/university-recruiting---engineering/software-engineering-intern-2027-start---london-8847738002	Databricks SWE Intern 2027 London (international - skip)	skip
+2026-10-28	datadog	https://careers.datadoghq.com/detail/8052118/	Datadog SWE Intern Summer 2027 (dedup #275)	dedup
+2026-10-28	replit	https://simplify.jobs/p/7e21b76f-fae1-4564-9f64-456d019b46b2	Replit SWE Intern Summer 2027 (dedup #260)	dedup
+2026-10-28	openai	https://openai.com/careers/software-engineer-applied-emerging-talent-(2027)-san-francisco/	OpenAI Applied Emerging Talent 2027 (full-time/unconfirmed - skip)	skip
+2026-10-28	characterai	no_intern_program	Character.AI (no formal intern program as of July 2026)	no_match
+2026-10-28	retool	no_intern_program	Retool (no formal US intern program)	no_match
+2026-10-28	supabase	no_intern_program	Supabase (no intern program - experienced eng only)	no_match
+2026-10-28	dbtlabsinc	no_intern_program	dbt Labs (no intern program post-Fivetran merger)	no_match
+2026-10-28	sourcegraph	no_intern_program	Sourcegraph (no intern program, company restructured)	no_match
+2026-10-28	gitlab	no_intern_program	GitLab (intern pilot, no confirmed Summer 2027 posting)	no_match
+2026-10-28	github	no_intern_program	GitHub (no confirmed Summer 2027 posting found)	no_match
+2026-10-28	arizeai	no_intern_program	Arize AI (no intern listing found)	no_match
+2026-10-28	weaviate	https://careers.weaviate.io/jobs/4912787-software-engineer-intern-summer-2025	Weaviate (2025 listing only, no 2027 US intern found)	no_match
+2026-10-28	wandb	no_intern_program	W&B/CoreWeave (acquired by CoreWeave, no confirmed intern listing)	no_match
+2026-10-28	modal	https://careers.redpoint.com/companies/modal-labs-2/jobs/87860239-ml-research-intern	Modal ML Research Intern (PhD req - skip)	skip
+2026-10-28	langchain	no_intern_program	LangChain (no formal intern program)	no_match
+2026-10-28	linear	no_intern_program	Linear (no intern program, small team)	no_match
+2026-10-28	fly.io	no_intern_program	Fly.io (no intern posting found)	no_match
+2026-10-28	anysphere	no_intern_program	Cursor/Anysphere (no formal intern program as of Aug 2026)	no_match
+2026-10-28	perplexityai	no_intern_program	Perplexity (US intern not confirmed, UK listing only)	no_match
+2026-10-28	cohere	no_intern_posting_summer	Cohere (Winter 2027 intern found, timing conflict PSU)	skip
+2026-10-28	mistral	https://jobs.lever.co/mistral/a6980b07-e55a-427c-a985-38ecd1e2eea6	Mistral SWE Intern Paris (international - skip)	skip
+2026-10-28	inflectionai	no_new_listing	Inflection AI (dedup #113)	dedup
