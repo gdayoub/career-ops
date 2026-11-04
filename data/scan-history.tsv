@@ -4123,3 +4123,35 @@ date	company	url	title	result
 2026-11-04	DE Shaw	https://www.deshaw.com/careers	(FAANG+BigTech+Quant scan)	no_new (dedup_215/216/249 all tracks stable)
 2026-11-04	HRT	https://www.hudsonrivertrading.com/careers/	(FAANG+BigTech+Quant scan)	no_new (dedup_221 SWE 3.2/5; C++_gap; same listing active)
 2026-11-04	Jump Trading	https://www.jumptrading.com/careers/	(FAANG+BigTech+Quant scan)	no_new (dedup_229/268/269 Data_Eng+SWE; same listings active)
+2026-11-04	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs	(AI+DevTools scan)	api_blocked; web search: no new intern posting; dedup_93/280/293 Fellows already tracked; no SWE intern found
+2026-11-04	xAI	https://job-boards.greenhouse.io/xai/jobs	(AI+DevTools scan)	api_blocked; web search: dedup_285 SWE Summer 2027 (already tracked $62-88/hr)
+2026-11-04	Character AI	https://jobs.ashbyhq.com/character	(AI+DevTools scan)	web search: no formal intern program confirmed; full-time only
+2026-11-04	Together AI	https://job-boards.greenhouse.io/togetherai/jobs	(AI+DevTools scan)	api_blocked; web search: dedup_276 SWE Summer 2027; Research interns PhD req (already logged 10/25)
+2026-11-04	Inflection AI	https://job-boards.greenhouse.io/inflectionai/jobs	(AI+DevTools scan)	api_blocked; web search: no new intern found; dedup_113 Summer 2026 already tracked
+2026-11-04	AI21 Labs	https://job-boards.greenhouse.io/ai21labs/jobs	(AI+DevTools scan)	api_blocked; web search: no US intern listing found
+2026-11-04	Stability AI	https://job-boards.greenhouse.io/stabilityai/jobs	(AI+DevTools scan)	api_blocked; web search: no US intern listing found
+2026-11-04	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs	(AI+DevTools scan)	api_blocked; web search: dedup_274 SWE Summer 2027 (4.0/5; SF; $60/hr+housing; already tracked)
+2026-11-04	Databricks	https://job-boards.greenhouse.io/databricks/jobs	(AI+DevTools scan)	api_blocked; web search: dedup_292 SWE 2026 US; 2027 listings are London/Berlin EU only; no US Summer 2027 posted
+2026-11-04	Datadog	https://careers.datadoghq.com	(AI+DevTools scan)	api_blocked; web search: dedup_275 SWE Summer 2027 (3.5/5; NYC/Boston; already tracked)
+2026-11-04	Arize AI	https://job-boards.greenhouse.io/arizeai/jobs	(AI+DevTools scan)	api_blocked; web search: no intern listing found (all full-time/FDE roles)
+2026-11-04	Weaviate	https://job-boards.greenhouse.io/weaviate/jobs	(AI+DevTools scan)	api_blocked; web search: no US intern listing found
+2026-11-04	Vercel	https://vercel.com/careers/software-engineering-intern-summer-27-6181759004	(AI+DevTools scan)	dedup_284 SWE Summer 2027 (4.0/5; already evaluated Oct 2026; still active)
+2026-11-04	GitHub	https://job-boards.greenhouse.io/github/jobs	(AI+DevTools scan)	api_blocked; web search: no confirmed SWE intern Summer 2027 found on official board
+2026-11-04	GitLab	https://job-boards.greenhouse.io/gitlab/jobs	(AI+DevTools scan)	api_blocked; web search: no intern listing live on Greenhouse board
+2026-11-04	Replit	https://jobs.ashbyhq.com/replit	(AI+DevTools scan)	api_blocked; web search: dedup_260 SWE Summer 2027 (4.3/5; already evaluated Aug 2026)
+2026-11-04	Retool	https://job-boards.greenhouse.io/retool/jobs	(AI+DevTools scan)	api_blocked; web search: no formal intern program found
+2026-11-04	Supabase	https://job-boards.greenhouse.io/supabase/jobs	(AI+DevTools scan)	api_blocked; web search: no formal intern program found
+2026-11-04	Render	https://job-boards.greenhouse.io/render/jobs	(AI+DevTools scan)	api_blocked; web search: no intern listing found (all full-time roles)
+2026-11-04	Sourcegraph	https://job-boards.greenhouse.io/sourcegraph/jobs	(AI+DevTools scan)	api_blocked; web search: no intern listing live
+2026-11-04	dbt Labs	https://job-boards.greenhouse.io/dbtlabsinc/jobs	(AI+DevTools scan)	api_blocked; web search: no intern program (Fivetran merger June 2026)
+2026-11-04	Postman	https://job-boards.greenhouse.io/postman/jobs	(AI+DevTools scan)	api_blocked; web search: dedup_257 AI Engineer Summer 2026 (timing past); no Summer 2027 found
+2026-11-04	OpenAI	https://openai.com/careers	(AI+DevTools scan)	web search: Summer 2026 intern listings expired/closed; dedup_127/230 from prior evals; no new Summer 2027 intern posted yet
+2026-11-04	Cursor (Anysphere)	https://jobs.ashbyhq.com/anysphere	(AI+DevTools scan)	web search: no intern listing found (all full-time MTS roles)
+2026-11-04	Perplexity	https://jobs.ashbyhq.com/perplexity	(AI+DevTools scan)	web search: UK/PhD focused interns only; no US undergrad SWE intern found
+2026-11-04	Cohere	https://jobs.ashbyhq.com/cohere	(AI+DevTools scan)	web search: dedup (Winter 2027 PSU conflict; Summer 2027 expected Dec 2026-Feb 2027; last scanned Nov 1)
+2026-11-04	Modal	https://jobs.ashbyhq.com/modal	(AI+DevTools scan)	web search: no intern listing posted yet; expected Oct-Nov 2026 per guide; monitor
+2026-11-04	LangChain	https://jobs.ashbyhq.com/langchain	(AI+DevTools scan)	web search: no formal intern program as of July 2026
+2026-11-04	Pinecone	https://jobs.ashbyhq.com/pinecone	(AI+DevTools scan)	web search: no intern listing found; Summer 2027 expected Sep-Nov 2026 per guide
+2026-11-04	Mistral	https://jobs.lever.co/mistral	(AI+DevTools scan)	web search: Paris/London based only; no US intern listing
+2026-11-04	W&B (Weights & Biases)	https://jobs.lever.co/wandb	(AI+DevTools scan)	web search: no intern listing; now under CoreWeave; monitor CoreWeave careers
+2026-11-04	Hugging Face	https://apply.workable.com/huggingface	(AI+DevTools scan)	web search: no current US SWE intern listing; Summer 2027 expected Nov-Dec 2026
