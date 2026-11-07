@@ -4179,3 +4179,14 @@ date	company	url	title	result
 2026-11-07	DE Shaw	https://www.deshaw.com/careers	(FAANG+BigTech+Quant scan)	no_new (dedup_215/216/249 stable; Fundamental Research Analyst + Proprietary Trading = non-SWE tracks; skip)
 2026-11-07	HRT	https://www.hudsonrivertrading.com/careers/	(FAANG+BigTech+Quant scan)	no_new (dedup_221 SWE 3.2/5; C++ gap; stable)
 2026-11-07	Jump Trading	https://www.jumptrading.com/careers/	(FAANG+BigTech+Quant scan)	no_new (dedup_229/268/269 Data_Eng+SWE; stable)
+2026-11-07	Glean	https://boards.greenhouse.io/gleanwork/jobs/4463752005	(AI+DevTools scan)	NEW 3.8/5 Summer2027; re-eval from dedup_031 (3.4→3.8); MV+SF hybrid; $57-69/hr; CoverMe=EXACT match; Grad Fall2027-Spring2028 ✓; report_299
+2026-11-07	Glean	https://boards.greenhouse.io/gleanwork/jobs/4595665005	(AI+DevTools scan)	possible 2nd posting same cycle (jobID 4595665005); treated as same role; dedup_031
+2026-11-07	NVIDIA	https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170	(AI+DevTools scan)	NEW 3.1/5 AI Systems SWE Intern Summer2027; Austin TX; $20-71/hr UNCONFIRMED; C++ gap; deadline ~Nov3 verify; report_300
+2026-11-07	Replit	https://jobs.a16z.com/jobs/repl.it/7c3c9d29-cec2-4367-8564-eadaed165aea	(AI+DevTools scan)	Replit Winter 2027 intern (posted Oct 8); PSU spring semester conflict; no_match_timing; dedup_260 Summer2027 still active
+2026-11-07	Perplexity	https://jobs.ashbyhq.com/perplexity/79a07e2d-6150-4929-80fe-bbe13a641763	(AI+DevTools scan)	AI Inference Internship = UK-based PhD/Masters level CUDA/Triton; no_match_location_degree
+2026-11-07	OpenAI	https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511	(AI+DevTools scan)	"Applied Emerging Talent (2027)" = full-time new_grad $100-120K; NOT an internship; Summer 2027 intern cycle not yet posted; check openai.com/careers weekly
+2026-11-07	Anthropic	https://job-boards.greenhouse.io/anthropic	(AI+DevTools scan)	no new intern posting; STEM Fellowship Oct28 deadline passed; Fellows rolling Jan2027 cohort = dedup_280/293; no SWE intern for Summer 2027
+2026-11-07	Databricks	https://www.databricks.com/company/careers	(AI+DevTools scan)	no new US Summer2027 posting; dedup_292 (US Summer2027 from Oct 2026 still active per aggregators); London/Amsterdam only for new 2027 listings
+2026-11-07	Hugging Face	https://apply.workable.com/huggingface	(AI+DevTools scan)	no Summer2027 intern found; still expected Nov-Dec 2026; check weekly
+2026-11-07	Modal	https://jobs.ashbyhq.com/modal	(AI+DevTools scan)	ML Research Intern (Jul2026) = PhD/research level; no undergrad SWE intern; no_match_degree
+2026-11-07	Pinecone	https://jobs.ashbyhq.com/pinecone	(AI+DevTools scan)	no intern found; all full-time senior roles; not_yet_posted; check weekly
