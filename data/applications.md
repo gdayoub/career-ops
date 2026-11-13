@@ -2,6 +2,7 @@
 
 | # | Date | Company | Role | Score | Status | PDF | Report | Notes |
 |---|------|---------|------|-------|--------|-----|--------|-------|
+| 302 | 2026-11-13 | Scale AI | Machine Learning Research Intern (Summer 2027) | 3.0/5 | Evaluada | ❌ | [302](reports/302-scale-ai-ml-research-intern-summer-2027-2026-11-13.md) | SF/NYC on-site. $58-72/hr est UNCONFIRMED. Research+publications req = hard gap. Grad Jun2028 ✓. Job 4735665005. DISTINCT from #274 (SWE). Apply after 3.5+ roles. |
 | 301 | 2026-11-10 | Palantir | Software Engineer, Internship - Sovereign AI Systems (Summer 2027) | 3.8/5 | Evaluada | ❌ | [301](reports/301-palantir-swe-sovereign-ai-systems-intern-summer-2027-2026-11-10.md) | NYC on-site. ~$65/hr UNCONFIRMED. ⚠️ VERIFY GRAD YEAR (may be 2027-only). CoverMe AI agent=direct proof. OSINT=intel domain. DISTINCT from #242/#243/#244. NEW track. |
 | 300 | 2026-11-07 | NVIDIA | AI Systems Software Engineering Intern (Summer 2027) | 3.1/5 | Evaluada | ❌ | [300](reports/300-nvidia-ai-systems-swe-intern-summer-2027-2026-11-07.md) | Austin TX. $20-71/hr UNCONFIRMED (verify ≥$40). C++ gap. Deadline ~Nov 3 — verify open. NEW company. |
 | 292 | 2026-10-22 | Databricks | Software Engineering Intern (Summer 2027) | 3.7/5 | Evaluada | ❌ | [292](reports/292-databricks-swe-intern-summer-2027-2026-10-22.md) | SF/Bellevue/MV on-site. $54-60/hr. Grad Fall2027-Spring2028 ✓. Python/SQL/data pipelines. Seismos=direct proof. ⚠️ DEADLINE ~Oct 27 — verify & apply. Job GH 6865687002. DISTINCT from EU listings. Apply after 4.0+ AI roles. |
