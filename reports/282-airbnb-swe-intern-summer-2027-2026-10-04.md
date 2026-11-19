@@ -1,11 +1,11 @@
 # Airbnb — Software Engineering Intern (Summer 2027)
 
 **Score:** 3.5/5
-**Date:** 2026-10-04
-**URL:** https://careers.airbnb.com/ (Summer 2027 — verify position ID live on site; prior cycle was positions/7453837)
+**Date:** 2026-10-04 (URL confirmed live 2026-11-18)
+**URL:** https://careers.airbnb.com/positions/8360478
 **PDF:** ❌
-**Verification:** unconfirmed (posting may be live; verify direct URL before applying)
-**Status:** Evaluated
+**Verification:** confirmed (live as of 2026-11-18; job ID 8360478 on careers.airbnb.com; posted Nov 18 per SimplifyJobs tracker)
+**Status:** 🔴 APPLY NOW — posting just launched
 
 ---
 
@@ -13,9 +13,11 @@
 
 Airbnb's Summer 2027 SWE internship cycle — first time George is eligible (prior Summer 2026 cycle required Dec 2026–Jun 2027 graduation; he was excluded). 12-week full-time summer placement. Priority deadline mid-October 2026.
 
-- **Comp:** $49–68/hr ($8,500–11,500/mo) + $4,000+/mo housing stipend (or corporate housing) — effectively $60–80/hr total
-- **Location:** San Francisco HQ, remote-first with one in-person team gathering week/month — among the best intern location flexibility in Big Tech
-- **Grad:** December 2027–June 2029 (George Jun 2028 ✓ CONFIRMED ELIGIBLE)
+- **Comp:** ~$7,900/mo BS / ~$8,100/mo MS (≈$46–47/hr) — no explicit housing stipend in confirmed posting (lower than prior estimates; still within $40–60/hr target)
+- **Location:** San Francisco hybrid (3 days/wk in-office); relocation support
+- **Dates:** May 24 – August 13, 2027 (12 weeks)
+- **Grad:** December 2027–June 2028 (George Jun 2028 ✓ at the boundary — still eligible)
+- **Visa:** No sponsorship offered; US work auth required (George ✓)
 - **Acceptance rate:** 2–3% (~15,000–20,000 applicants, 50–100 seats)
 - **Return offer rate:** 50–60%
 
@@ -47,7 +49,7 @@ Airbnb is top-tier consumer tech with exceptional intern comp ($49–68/hr + hou
 
 ## D. Application Strategy
 
-**⚠️ FIRST:** Confirm Summer 2027 posting is live at careers.airbnb.com and get the position ID. The prior listing (positions/7453837) was Summer 2026. Apply immediately once live — priority deadline mid-October, rolling review fills most seats by mid-November.
+**✅ POSTING CONFIRMED LIVE** at careers.airbnb.com/positions/8360478 as of 2026-11-18. Apply immediately — rolling review; seats fill fast and the mid-November window just opened.
 
 Frame CoverMe as your Airbnb proof point: "Built a production SaaS with Stripe subscription billing, Supabase Row Level Security, and serverless deployment on Vercel — I want to see how those patterns work at 150M users." Target Payments, Core Product, or Developer Experience teams. Avoid mentioning data science track; apply as SWE generalist.
 
